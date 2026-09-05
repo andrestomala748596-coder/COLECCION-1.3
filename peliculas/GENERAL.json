@@ -220,7 +220,9 @@
       "https://vimeos.net/embed-q0siugndjwh2.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [],
-    "URL_DIRECTA": ""
+    "URLS_DIRECTAS": [
+      "https://s9.vimeos.net/hls2/03/00012/q0siugndjwh2_,n,h,.urlset/master.m3u8?t=3yZ0lUx0aFLeyjDH8ucp-WeC7la034bV9Z40zrTVnak&s=1788602238&e=43200&v=347619516&i=0.0&sp=0&fr=q0siugndjwh2&r=e"
+    ],
+    "URL_DIRECTA": "https://s9.vimeos.net/hls2/03/00012/q0siugndjwh2_,n,h,.urlset/master.m3u8?t=3yZ0lUx0aFLeyjDH8ucp-WeC7la034bV9Z40zrTVnak&s=1788602238&e=43200&v=347619516&i=0.0&sp=0&fr=q0siugndjwh2&r=e"
   }
 ]
