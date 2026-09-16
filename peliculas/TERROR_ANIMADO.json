@@ -239,10 +239,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigilas-leyendas-el-origen-2022-Z5cRuQbUxx9BI4Be"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=lQoQFEy5L4yXHK2w4BU-Rg&expires=1789555563",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=lQoQFEy5L4yXHK2w4BU-Rg&expires=1789555563"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -264,9 +262,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitogo-2019-latino-CJBqEYSIwBtxzYiW"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=-b_gQZnHzqkYtnGgvrHKKg&expires=1789555567",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=L0N7smgiGb_6jJt7qa6cPA&expires=1789584711",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=-b_gQZnHzqkYtnGgvrHKKg&expires=1789555567"
+      "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=L0N7smgiGb_6jJt7qa6cPA&expires=1789584711"
     ]
   },
   {
@@ -289,9 +287,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/la-mecanica-del-corazon-dan-8z1avBFe8FABnCoE"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=Zdan8gQMVMMhpapBsCw3Zg&expires=1789555589",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=LJdsJN6EbBG8ycVoco1VRA&expires=1789584731",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=Zdan8gQMVMMhpapBsCw3Zg&expires=1789555589"
+      "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=LJdsJN6EbBG8ycVoco1VRA&expires=1789584731"
     ]
   }
 ]
