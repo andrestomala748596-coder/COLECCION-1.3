@@ -19,8 +19,10 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/los-pitufos-1-dan-TxXNUqWQCJcOSSgL"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3056937.2544586.1.0.1.1?md5=6TA-hI4ZA8kXDj0OZF0jOg&expires=1790300442",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w1080p/8.3056937.2544586.1.0.1.1?md5=6TA-hI4ZA8kXDj0OZF0jOg&expires=1790300442"
+    ]
   },
   {
     "CATEGORIA": "LOS_PITUFOS",
@@ -42,8 +44,10 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/los-pitufos-2-dan-qwcNZvHZ4y8cYlau"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3056354.2544586.1.0.1.1?md5=lWU5aGI7v_JjkKKF4q3KIA&expires=1790300445",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w720p/8.3056354.2544586.1.0.1.1?md5=lWU5aGI7v_JjkKKF4q3KIA&expires=1790300445"
+    ]
   },
   {
     "CATEGORIA": "LOS_PITUFOS",
@@ -65,7 +69,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/los-pitufos-3-la-aldea-nCE211BiesmHAPtR"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3056935.2544586.1.0.1.1?md5=m2m7FxDJWmB-XlrpUN09iA&expires=1790300448",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w720p/8.3056935.2544586.1.0.1.1?md5=m2m7FxDJWmB-XlrpUN09iA&expires=1790300448"
+    ]
   }
 ]

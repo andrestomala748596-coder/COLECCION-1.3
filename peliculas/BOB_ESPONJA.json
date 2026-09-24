@@ -19,8 +19,10 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigibob-esponja-la-pelicula-2004-SBtHI42e4p7zyZMo"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558411.2597927.1.0.1.1?md5=1aV_tYhSjmf2CcIYCDI6fA&expires=1790300489",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w480p/8.3558411.2597927.1.0.1.1?md5=1aV_tYhSjmf2CcIYCDI6fA&expires=1790300489"
+    ]
   },
   {
     "CATEGORIA": "BOB_ESPONJA",
@@ -42,7 +44,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigibob-esponja-en-busca-de-h1IXsfIqjJC3CbSp"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3551665.2597927.1.0.1.1?md5=Z7CK7MA8zODF_Y8kllilGw&expires=1790300492",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w480p/8.3551665.2597927.1.0.1.1?md5=Z7CK7MA8zODF_Y8kllilGw&expires=1790300492"
+    ]
   }
 ]
