@@ -415,8 +415,10 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/dragon-ball-z-la-batalla-xz0tBbS9olND4HLW"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3294982.2544586.1.0.1.1?md5=blJs1iCTUi1Z09q48sgMMQ&expires=1790684953",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w1080p/8.3294982.2544586.1.0.1.1?md5=blJs1iCTUi1Z09q48sgMMQ&expires=1790684953"
+    ]
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
