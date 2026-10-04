@@ -20,10 +20,8 @@
       "https://vimeos.net/embed-p7h65pr4l32z.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=i5nJljC7Uoeqtn5vtMx_1a1eTKJbOAH_5GoHNQ-abY8&s=1791114820&e=43200&v=376567826&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
-    ],
-    "URL_DIRECTA": "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=i5nJljC7Uoeqtn5vtMx_1a1eTKJbOAH_5GoHNQ-abY8&s=1791114820&e=43200&v=376567826&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -117,10 +115,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/antz-1998-latino-AYrRlgadTVZJ7rdP"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=wIbrEwsOXwpyeITonmiFnw&expires=1791142201",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=wIbrEwsOXwpyeITonmiFnw&expires=1791142201"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3335,10 +3331,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigiel-cascanueces-y-los-cuatro-PhkBeRx7ciH7Ar3F"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=4wxIfKQEMeW1k0ZB91Oecw&expires=1791143518",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=4wxIfKQEMeW1k0ZB91Oecw&expires=1791143518"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3360,10 +3354,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/wish-el-poder-de-los-FLBZA5IfpTPqCisq"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=-f8ccY3IB3PPkNZ70n8r2g&expires=1791143531",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=-f8ccY3IB3PPkNZ70n8r2g&expires=1791143531"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3385,10 +3377,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/tron-legacy-dan-VRz6rBHcfqVlqqgg"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=s8hi8o1GMcVE4wXlKiEnoQ&expires=1791143546",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=s8hi8o1GMcVE4wXlKiEnoQ&expires=1791143546"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3410,10 +3400,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/raya-y-el-ultimo-dragon-gtjyx0xrv0Jd1NNN"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=iKFTEvG6HfcgoJtGXrWmMA&expires=1791143550",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=iKFTEvG6HfcgoJtGXrWmMA&expires=1791143550"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3435,10 +3423,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-2-el-retorno-de-qe6e2othPRJzl3T5"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=oANwyu3RUsEjfe6BTHdBsQ&expires=1791143605",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=oANwyu3RUsEjfe6BTHdBsQ&expires=1791143605"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3460,10 +3446,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-1992-latino-yXjipIfywPjCLS6N"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=rbLyRboXMXqCa1-29OyZxg&expires=1791143608",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=rbLyRboXMXqCa1-29OyZxg&expires=1791143608"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3534,10 +3518,8 @@
       "https://vimeos.net/embed-fjxz3dlhoyqw.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=f8ZHZ_Zh4W3MK12ilqWwJDRhLDtCGIfMxOCcUc6OsH8&s=1791114821&e=43200&v=376567831&i=0.0&sp=0&r=e"
-    ],
-    "URL_DIRECTA": "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=f8ZHZ_Zh4W3MK12ilqWwJDRhLDtCGIfMxOCcUc6OsH8&s=1791114821&e=43200&v=376567831&i=0.0&sp=0&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3705,8 +3687,8 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=vK8UNNLZDhlAbh933T0rhg%3D%3D%2C1791201232"
+      "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=w76qDwxnZlH7qvYzPptCAQ%3D%3D%2C1791219157"
     ],
-    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=vK8UNNLZDhlAbh933T0rhg%3D%3D%2C1791201232"
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=w76qDwxnZlH7qvYzPptCAQ%3D%3D%2C1791219157"
   }
 ]
