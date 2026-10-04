@@ -19,8 +19,10 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitrolls-2016-latino-h7XvP2rxTAbtRS7W"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3557562.2597927.1.0.1.1?md5=kkLqnj-ahq6Ii7-Abu2aJQ&expires=1791176509",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w720p/8.3557562.2597927.1.0.1.1?md5=kkLqnj-ahq6Ii7-Abu2aJQ&expires=1791176509"
+    ]
   },
   {
     "CATEGORIA": "TROLLS",
@@ -42,8 +44,10 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitrolls-2-gira-mundial-2020-dOSDT0eMNOeRoFVO"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3557551.2597927.1.0.1.1?md5=q_blADJkMbsWHSyVK63pvg&expires=1791176512",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w480p/8.3557551.2597927.1.0.1.1?md5=q_blADJkMbsWHSyVK63pvg&expires=1791176512"
+    ]
   },
   {
     "CATEGORIA": "TROLLS",
@@ -65,7 +69,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitrolls-3-se-armo-la-omut2yjSVLADQy31"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3557538.2597927.1.0.1.1?md5=sy8gGBldVpLDIdZQT-Sk2w&expires=1791176516",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w720p/8.3557538.2597927.1.0.1.1?md5=sy8gGBldVpLDIdZQT-Sk2w&expires=1791176516"
+    ]
   }
 ]

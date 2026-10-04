@@ -19,8 +19,10 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-2pGGTemlHXQi4pYY"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558737.2597927.1.0.1.1?md5=D-qG56eBKZm6k1kcDuQjhQ&expires=1791176495",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w480p/8.3558737.2597927.1.0.1.1?md5=D-qG56eBKZm6k1kcDuQjhQ&expires=1791176495"
+    ]
   },
   {
     "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
@@ -42,8 +44,10 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-8YJJlhuRMLORs0OU"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.3558734.2597927.1.0.1.1?md5=NXNjkknl4XzDq1IRnU4_2w&expires=1791176499",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/360p/8.3558734.2597927.1.0.1.1?md5=NXNjkknl4XzDq1IRnU4_2w&expires=1791176499"
+    ]
   },
   {
     "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
@@ -65,8 +69,10 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-3FWjYHaF4A2lFRIk"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558732.2597927.1.0.1.1?md5=FxOaQmgBr3mIoXLB9X0a-Q&expires=1791176502",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/w480p/8.3558732.2597927.1.0.1.1?md5=FxOaQmgBr3mIoXLB9X0a-Q&expires=1791176502"
+    ]
   },
   {
     "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
@@ -88,7 +94,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-UxsRuI3iinDz0URM"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.3558738.2597927.1.0.1.1?md5=ObFw-UolSqCJr68_CEPcjQ&expires=1791176505",
+    "URLS_DIRECTAS": [
+      "https://videa.hu/static/360p/8.3558738.2597927.1.0.1.1?md5=ObFw-UolSqCJr68_CEPcjQ&expires=1791176505"
+    ]
   }
 ]
