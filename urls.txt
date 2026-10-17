@@ -212,8 +212,10 @@
       "https://vimeos.net/embed-woptqizvlzxi.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [],
-    "URL_DIRECTA": ""
+    "URLS_DIRECTAS": [
+      "https://s14.vimeos.net/hls2/02/00000/yx1a37tzkqrr_,n,h,.urlset/master.m3u8?t=8k-IhLwxdR7s1KJ9vMR6yGTf2BBmzJhsLUMCUZywCuI&s=1792230781&e=43200&v=398890834&i=0.3&sp=0&r=e"
+    ],
+    "URL_DIRECTA": "https://s14.vimeos.net/hls2/02/00000/yx1a37tzkqrr_,n,h,.urlset/master.m3u8?t=8k-IhLwxdR7s1KJ9vMR6yGTf2BBmzJhsLUMCUZywCuI&s=1792230781&e=43200&v=398890834&i=0.3&sp=0&r=e"
   },
   {
     "CATEGORIA": "MADAGASCAR",
@@ -239,9 +241,9 @@
     ],
     "ID_VIDEO": null,
     "PLATAFORMA": "tokyvideo.com",
-    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=v3q7vjioxpq0lL2xb-pxWA%3D%3D%2C1792289088",
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=E8-uP1zNXSBDOuEMnZWadA%3D%3D%2C1792317183",
     "URLS_DIRECTAS": [
-      "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=v3q7vjioxpq0lL2xb-pxWA%3D%3D%2C1792289088"
+      "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=E8-uP1zNXSBDOuEMnZWadA%3D%3D%2C1792317183"
     ]
   },
   {
@@ -264,9 +266,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/antz-1998-latino-AYrRlgadTVZJ7rdP"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=U8i9uB5PVzCbboh07rqr7g&expires=1792231492",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=8idDjFrs1PIECHwsImY-5g&expires=1792259587",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=U8i9uB5PVzCbboh07rqr7g&expires=1792231492"
+      "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=8idDjFrs1PIECHwsImY-5g&expires=1792259587"
     ]
   },
   {
@@ -8697,9 +8699,9 @@
     "URLS": [
       "https://www.tokyvideo.com/es/video/gigimadagascar-2-escape-a-africa-2008-latino-3"
     ],
-    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824691/mp4/a141db0ce82288ce963e424f133ab77e75f073e4aef2c70c8ba19e220fadb1f9.mp4?secure=plT_Ew4qGuK428dm_ObyVA%3D%3D%2C1792291041",
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824691/mp4/a141db0ce82288ce963e424f133ab77e75f073e4aef2c70c8ba19e220fadb1f9.mp4?secure=m0idSVD7lWZAdvom15NW5Q%3D%3D%2C1792318225",
     "URLS_DIRECTAS": [
-      "https://cdnst95.tokyvideo.com/videos/824/824691/mp4/a141db0ce82288ce963e424f133ab77e75f073e4aef2c70c8ba19e220fadb1f9.mp4?secure=plT_Ew4qGuK428dm_ObyVA%3D%3D%2C1792291041"
+      "https://cdnst95.tokyvideo.com/videos/824/824691/mp4/a141db0ce82288ce963e424f133ab77e75f073e4aef2c70c8ba19e220fadb1f9.mp4?secure=m0idSVD7lWZAdvom15NW5Q%3D%3D%2C1792318225"
     ]
   },
   {
@@ -8722,9 +8724,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigiel-cascanueces-y-los-cuatro-PhkBeRx7ciH7Ar3F"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=EmcGuzASSkbxVxwFodjw3A&expires=1792233679",
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=FYr1pamfFX9gWloczavXfw&expires=1792260629",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=EmcGuzASSkbxVxwFodjw3A&expires=1792233679"
+      "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=FYr1pamfFX9gWloczavXfw&expires=1792260629"
     ]
   },
   {
@@ -8747,9 +8749,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigilas-leyendas-el-origen-2022-Z5cRuQbUxx9BI4Be"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=DJ34RrtRUHy9zpsQxQUrgw&expires=1792233682",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=TTEHSNFY9B1RW1o7JoVtgQ&expires=1792260632",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=DJ34RrtRUHy9zpsQxQUrgw&expires=1792233682"
+      "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=TTEHSNFY9B1RW1o7JoVtgQ&expires=1792260632"
     ]
   },
   {
@@ -8772,9 +8774,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitogo-2019-latino-CJBqEYSIwBtxzYiW"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=Qg3I0LL_B7-dUxw3uBHcaQ&expires=1792233685",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=YjMiBpLHh5yNuYIF7PmZlA&expires=1792260635",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=Qg3I0LL_B7-dUxw3uBHcaQ&expires=1792233685"
+      "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=YjMiBpLHh5yNuYIF7PmZlA&expires=1792260635"
     ]
   },
   {
@@ -8797,9 +8799,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigilos-pinguinos-de-madagascar-2014-ul1QJscppfg3052n"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2918719.2521096.1.0.1.1?md5=B161iF9S30BZmapIhzl00g&expires=1792233688",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2918719.2521096.1.0.1.1?md5=uJl5zvfMGSQhfNxMLFgU1g&expires=1792260639",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.2918719.2521096.1.0.1.1?md5=B161iF9S30BZmapIhzl00g&expires=1792233688"
+      "https://videa.hu/static/w720p/8.2918719.2521096.1.0.1.1?md5=uJl5zvfMGSQhfNxMLFgU1g&expires=1792260639"
     ]
   },
   {
@@ -8822,9 +8824,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/wish-el-poder-de-los-FLBZA5IfpTPqCisq"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=IivtMLGltdDefczmUuyucg&expires=1792233691",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=k-tgGicmzc2c3GkHb2n_iA&expires=1792260642",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=IivtMLGltdDefczmUuyucg&expires=1792233691"
+      "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=k-tgGicmzc2c3GkHb2n_iA&expires=1792260642"
     ]
   },
   {
@@ -8847,9 +8849,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/dragon-ball-z-la-batalla-xz0tBbS9olND4HLW"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3294982.2544586.1.0.1.1?md5=xcuknudaRLblfaPva4MAIw&expires=1792233694",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3294982.2544586.1.0.1.1?md5=_sUbBwsHBxv2FGhRifUFSg&expires=1792260645",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3294982.2544586.1.0.1.1?md5=xcuknudaRLblfaPva4MAIw&expires=1792233694"
+      "https://videa.hu/static/w1080p/8.3294982.2544586.1.0.1.1?md5=_sUbBwsHBxv2FGhRifUFSg&expires=1792260645"
     ]
   },
   {
@@ -8872,9 +8874,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/norbit-2007-dan-yo4O6jcdmuJtcJ3p"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3267609.2544586.1.0.1.1?md5=4nHzL5lYs9IxPkK4Kd3SuQ&expires=1792233697",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3267609.2544586.1.0.1.1?md5=tUHMe6hlKh_hB9kiy0wJsA&expires=1792260648",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3267609.2544586.1.0.1.1?md5=4nHzL5lYs9IxPkK4Kd3SuQ&expires=1792233697"
+      "https://videa.hu/static/w1080p/8.3267609.2544586.1.0.1.1?md5=tUHMe6hlKh_hB9kiy0wJsA&expires=1792260648"
     ]
   },
   {
@@ -8897,9 +8899,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/super-cool-dan-W7tadlEXgK9tHsBS"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3277569.2544586.1.0.1.1?md5=Ma-L04DyUoKw4kJPD6h6Ww&expires=1792233700",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3277569.2544586.1.0.1.1?md5=q0wASkCvjIagvxRx-JDsVw&expires=1792260652",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3277569.2544586.1.0.1.1?md5=Ma-L04DyUoKw4kJPD6h6Ww&expires=1792233700"
+      "https://videa.hu/static/w1080p/8.3277569.2544586.1.0.1.1?md5=q0wASkCvjIagvxRx-JDsVw&expires=1792260652"
     ]
   },
   {
@@ -8922,9 +8924,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/la-mecanica-del-corazon-dan-8z1avBFe8FABnCoE"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=gP3EEJORXJiERUZLGvGKZA&expires=1792233703",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=PCyURH45cSTd_yDQn9zv5w&expires=1792260655",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=gP3EEJORXJiERUZLGvGKZA&expires=1792233703"
+      "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=PCyURH45cSTd_yDQn9zv5w&expires=1792260655"
     ]
   },
   {
@@ -8947,9 +8949,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/tron-legacy-dan-VRz6rBHcfqVlqqgg"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=b-scRgCg5Wx7W248-DTDvg&expires=1792233706",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=BR24OKq4tUHyu4QvUmD4dQ&expires=1792260658",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=b-scRgCg5Wx7W248-DTDvg&expires=1792233706"
+      "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=BR24OKq4tUHyu4QvUmD4dQ&expires=1792260658"
     ]
   },
   {
@@ -8972,9 +8974,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/raya-y-el-ultimo-dragon-gtjyx0xrv0Jd1NNN"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=nXZuoZy9VQxXPQGhW3_8eA&expires=1792233709",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=4N_DL3Q5EdyNYvlmY7NqBA&expires=1792260661",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=nXZuoZy9VQxXPQGhW3_8eA&expires=1792233709"
+      "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=4N_DL3Q5EdyNYvlmY7NqBA&expires=1792260661"
     ]
   },
   {
@@ -8997,9 +8999,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/los-pitufos-1-dan-TxXNUqWQCJcOSSgL"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3056937.2544586.1.0.1.1?md5=DWnfSD5t9LQu_1N_BTpfzg&expires=1792233712",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3056937.2544586.1.0.1.1?md5=tTPdFwxOEqoQ8Sy4elftug&expires=1792260664",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3056937.2544586.1.0.1.1?md5=DWnfSD5t9LQu_1N_BTpfzg&expires=1792233712"
+      "https://videa.hu/static/w1080p/8.3056937.2544586.1.0.1.1?md5=tTPdFwxOEqoQ8Sy4elftug&expires=1792260664"
     ]
   },
   {
@@ -9022,9 +9024,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/los-pitufos-2-dan-qwcNZvHZ4y8cYlau"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3056354.2544586.1.0.1.1?md5=0BrOT4H8_l6wGdSPn6xQMw&expires=1792233715",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3056354.2544586.1.0.1.1?md5=n1F5gMh5vuW8MNRMO74KBw&expires=1792260667",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3056354.2544586.1.0.1.1?md5=0BrOT4H8_l6wGdSPn6xQMw&expires=1792233715"
+      "https://videa.hu/static/w720p/8.3056354.2544586.1.0.1.1?md5=n1F5gMh5vuW8MNRMO74KBw&expires=1792260667"
     ]
   },
   {
@@ -9047,9 +9049,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/los-pitufos-3-la-aldea-nCE211BiesmHAPtR"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3056935.2544586.1.0.1.1?md5=WLW0_XnpOxx4ixkoZvE1-A&expires=1792233718",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3056935.2544586.1.0.1.1?md5=aNC3BxqfhCSWThA59ohdlQ&expires=1792260670",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3056935.2544586.1.0.1.1?md5=WLW0_XnpOxx4ixkoZvE1-A&expires=1792233718"
+      "https://videa.hu/static/w720p/8.3056935.2544586.1.0.1.1?md5=aNC3BxqfhCSWThA59ohdlQ&expires=1792260670"
     ]
   },
   {
@@ -9072,9 +9074,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigihotel-transilvania-2012-latino-gZ3PjOGzVxgl6z5V"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558744.2597927.1.0.1.1?md5=tNJ3nzooFnlgO8hqDGuIAQ&expires=1792233721",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558744.2597927.1.0.1.1?md5=jY-ITUg4MqIIHsWGRqJQzA&expires=1792260673",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3558744.2597927.1.0.1.1?md5=tNJ3nzooFnlgO8hqDGuIAQ&expires=1792233721"
+      "https://videa.hu/static/w480p/8.3558744.2597927.1.0.1.1?md5=jY-ITUg4MqIIHsWGRqJQzA&expires=1792260673"
     ]
   },
   {
@@ -9097,9 +9099,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigihotel-transilvania-2-2015-latino-0hNUsgBopOwUnkVz"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558742.2597927.1.0.1.1?md5=d0LFU45nilhkhUvw1uTGyA&expires=1792233724",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558742.2597927.1.0.1.1?md5=-v0rAbh3_7nydho3iIjyhg&expires=1792260676",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3558742.2597927.1.0.1.1?md5=d0LFU45nilhkhUvw1uTGyA&expires=1792233724"
+      "https://videa.hu/static/w480p/8.3558742.2597927.1.0.1.1?md5=-v0rAbh3_7nydho3iIjyhg&expires=1792260676"
     ]
   },
   {
@@ -9122,9 +9124,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigihotel-transilvania-3-monstruos-de-9mXQujZILvUtDLQv"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558741.2597927.1.0.1.1?md5=KAKRGNHXwR4OYy3XImCVyQ&expires=1792233727",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558741.2597927.1.0.1.1?md5=ZB5mU2rQ1WWGrAoDg9XAXQ&expires=1792260679",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3558741.2597927.1.0.1.1?md5=KAKRGNHXwR4OYy3XImCVyQ&expires=1792233727"
+      "https://videa.hu/static/w480p/8.3558741.2597927.1.0.1.1?md5=ZB5mU2rQ1WWGrAoDg9XAXQ&expires=1792260679"
     ]
   },
   {
@@ -9147,9 +9149,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigihotel-transilvania-4-transformania-2022-KAAwHGz3O0mTqwch"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558739.2597927.1.0.1.1?md5=drSDFGb162LdjKJn2i9Bhw&expires=1792233730",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558739.2597927.1.0.1.1?md5=iun5cgj0f6KlMSCvAEpmuw&expires=1792260682",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3558739.2597927.1.0.1.1?md5=drSDFGb162LdjKJn2i9Bhw&expires=1792233730"
+      "https://videa.hu/static/w480p/8.3558739.2597927.1.0.1.1?md5=iun5cgj0f6KlMSCvAEpmuw&expires=1792260682"
     ]
   },
   {
@@ -9172,9 +9174,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-2pGGTemlHXQi4pYY"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558737.2597927.1.0.1.1?md5=BHCsLndMw8346HrHru_tBA&expires=1792233733",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558737.2597927.1.0.1.1?md5=lmyXvZPk_x2A38E1nGHBdw&expires=1792260686",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3558737.2597927.1.0.1.1?md5=BHCsLndMw8346HrHru_tBA&expires=1792233733"
+      "https://videa.hu/static/w480p/8.3558737.2597927.1.0.1.1?md5=lmyXvZPk_x2A38E1nGHBdw&expires=1792260686"
     ]
   },
   {
@@ -9197,9 +9199,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-8YJJlhuRMLORs0OU"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/360p/8.3558734.2597927.1.0.1.1?md5=Ef2eMhw1L910i9UuxQg-nQ&expires=1792233736",
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.3558734.2597927.1.0.1.1?md5=yRQ-F_WfUupEbDQgU_b_0g&expires=1792260689",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/360p/8.3558734.2597927.1.0.1.1?md5=Ef2eMhw1L910i9UuxQg-nQ&expires=1792233736"
+      "https://videa.hu/static/360p/8.3558734.2597927.1.0.1.1?md5=yRQ-F_WfUupEbDQgU_b_0g&expires=1792260689"
     ]
   },
   {
@@ -9222,9 +9224,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-3FWjYHaF4A2lFRIk"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558732.2597927.1.0.1.1?md5=QtaHkWJr2zIeSi2sizyM3A&expires=1792233739",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558732.2597927.1.0.1.1?md5=UYotqTaJ7A-GsvJsz3cwJw&expires=1792260692",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3558732.2597927.1.0.1.1?md5=QtaHkWJr2zIeSi2sizyM3A&expires=1792233739"
+      "https://videa.hu/static/w480p/8.3558732.2597927.1.0.1.1?md5=UYotqTaJ7A-GsvJsz3cwJw&expires=1792260692"
     ]
   },
   {
@@ -9247,9 +9249,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-UxsRuI3iinDz0URM"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/360p/8.3558738.2597927.1.0.1.1?md5=OCVov1cQTh4n3FKgR3qFaw&expires=1792233742",
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.3558738.2597927.1.0.1.1?md5=VPzXbsR0ENCFaWAtWobFuQ&expires=1792260695",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/360p/8.3558738.2597927.1.0.1.1?md5=OCVov1cQTh4n3FKgR3qFaw&expires=1792233742"
+      "https://videa.hu/static/360p/8.3558738.2597927.1.0.1.1?md5=VPzXbsR0ENCFaWAtWobFuQ&expires=1792260695"
     ]
   },
   {
@@ -9272,9 +9274,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitrolls-2016-latino-h7XvP2rxTAbtRS7W"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3557562.2597927.1.0.1.1?md5=CGaP_3cU2XbZGsusxih_ig&expires=1792233745",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3557562.2597927.1.0.1.1?md5=fB21EZKJ6uxvKa40EFf7cg&expires=1792260698",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3557562.2597927.1.0.1.1?md5=CGaP_3cU2XbZGsusxih_ig&expires=1792233745"
+      "https://videa.hu/static/w720p/8.3557562.2597927.1.0.1.1?md5=fB21EZKJ6uxvKa40EFf7cg&expires=1792260698"
     ]
   },
   {
@@ -9297,9 +9299,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitrolls-2-gira-mundial-2020-dOSDT0eMNOeRoFVO"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3557551.2597927.1.0.1.1?md5=7F7j8zwZLhTCvmy0TYtW8A&expires=1792233748",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3557551.2597927.1.0.1.1?md5=VJkvZxfdC2Ho9lmOsZBR0Q&expires=1792260701",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3557551.2597927.1.0.1.1?md5=7F7j8zwZLhTCvmy0TYtW8A&expires=1792233748"
+      "https://videa.hu/static/w480p/8.3557551.2597927.1.0.1.1?md5=VJkvZxfdC2Ho9lmOsZBR0Q&expires=1792260701"
     ]
   },
   {
@@ -9322,9 +9324,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitrolls-3-se-armo-la-omut2yjSVLADQy31"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3557538.2597927.1.0.1.1?md5=74QCTMkOXz1nmq_mKPoqMw&expires=1792233751",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3557538.2597927.1.0.1.1?md5=eiqHYOPlAgAwOBz3UKPWFA&expires=1792260704",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3557538.2597927.1.0.1.1?md5=74QCTMkOXz1nmq_mKPoqMw&expires=1792233751"
+      "https://videa.hu/static/w720p/8.3557538.2597927.1.0.1.1?md5=eiqHYOPlAgAwOBz3UKPWFA&expires=1792260704"
     ]
   },
   {
@@ -9347,9 +9349,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigibob-esponja-la-pelicula-2004-SBtHI42e4p7zyZMo"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558411.2597927.1.0.1.1?md5=0ucO5Bhbhe-nfkbFps0V6A&expires=1792233754",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558411.2597927.1.0.1.1?md5=ubsugLDaXHl_EqOEhrCQGA&expires=1792260707",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3558411.2597927.1.0.1.1?md5=0ucO5Bhbhe-nfkbFps0V6A&expires=1792233754"
+      "https://videa.hu/static/w480p/8.3558411.2597927.1.0.1.1?md5=ubsugLDaXHl_EqOEhrCQGA&expires=1792260707"
     ]
   },
   {
@@ -9372,9 +9374,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigibob-esponja-en-busca-de-h1IXsfIqjJC3CbSp"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3551665.2597927.1.0.1.1?md5=_wU9Ke1aY5KpEkPPk2hRTQ&expires=1792233757",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3551665.2597927.1.0.1.1?md5=DOyoR8ORsDXuFWvpMNf3Ng&expires=1792260710",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3551665.2597927.1.0.1.1?md5=_wU9Ke1aY5KpEkPPk2hRTQ&expires=1792233757"
+      "https://videa.hu/static/w480p/8.3551665.2597927.1.0.1.1?md5=DOyoR8ORsDXuFWvpMNf3Ng&expires=1792260710"
     ]
   },
   {
@@ -9397,9 +9399,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-2-el-retorno-de-qe6e2othPRJzl3T5"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=HlqOWiOf7JRAqoZ_-VKLKw&expires=1792233760",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=ox9LKuydk0Nn4waaM6dRtQ&expires=1792260713",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=HlqOWiOf7JRAqoZ_-VKLKw&expires=1792233760"
+      "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=ox9LKuydk0Nn4waaM6dRtQ&expires=1792260713"
     ]
   },
   {
@@ -9422,9 +9424,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-1992-latino-yXjipIfywPjCLS6N"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=T663q5fSFY4Hch355VHb1A&expires=1792233764",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=z0KUMYGsYXbZoxSeD0htWg&expires=1792260716",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=T663q5fSFY4Hch355VHb1A&expires=1792233764"
+      "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=z0KUMYGsYXbZoxSeD0htWg&expires=1792260716"
     ]
   },
   {
@@ -9448,10 +9450,8 @@
       "https://vimeos.net/embed-q0siugndjwh2.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s9.vimeos.net/hls2/03/00012/q0siugndjwh2_,n,h,.urlset/master.m3u8?t=wTpWALN8PkRzKx4ur4KnwcccCig7V_csUD9YtSCi9Aw&s=1792204964&e=43200&v=398535021&i=0.3&sp=0&fr=q0siugndjwh2&r=e"
-    ],
-    "URL_DIRECTA": "https://s9.vimeos.net/hls2/03/00012/q0siugndjwh2_,n,h,.urlset/master.m3u8?t=wTpWALN8PkRzKx4ur4KnwcccCig7V_csUD9YtSCi9Aw&s=1792204964&e=43200&v=398535021&i=0.3&sp=0&fr=q0siugndjwh2&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -9547,9 +9547,9 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=unUM2PO4FnjsHgoJhDG_v5o4RlHzvkIiTuuS-aILRhQ&s=1792204974&e=43200&v=398535356&i=0.3&sp=0&fr=p7h65pr4l32z&r=e"
+      "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=tpeFW7PSbPx5-od25qWBlnJxHUeTSS999vgI5lZln3s&s=1792231927&e=43200&v=398895658&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
     ],
-    "URL_DIRECTA": "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=unUM2PO4FnjsHgoJhDG_v5o4RlHzvkIiTuuS-aILRhQ&s=1792204974&e=43200&v=398535356&i=0.3&sp=0&fr=p7h65pr4l32z&r=e"
+    "URL_DIRECTA": "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=tpeFW7PSbPx5-od25qWBlnJxHUeTSS999vgI5lZln3s&s=1792231927&e=43200&v=398895658&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -9765,9 +9765,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://cdnst95.tokyvideo.com/videos/824/824446/mp4/89b3c4c49b37be51a08634614e534883883c9e4c9c65cbed017e27405227f68e.mp4?secure=4SuYQal0uquXNOjiVvbteA%3D%3D%2C1792291384"
+      "https://cdnst95.tokyvideo.com/videos/824/824446/mp4/89b3c4c49b37be51a08634614e534883883c9e4c9c65cbed017e27405227f68e.mp4?secure=mLlNr7mxSSURM8Rb01ukqA%3D%3D%2C1792318336"
     ],
-    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824446/mp4/89b3c4c49b37be51a08634614e534883883c9e4c9c65cbed017e27405227f68e.mp4?secure=4SuYQal0uquXNOjiVvbteA%3D%3D%2C1792291384"
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824446/mp4/89b3c4c49b37be51a08634614e534883883c9e4c9c65cbed017e27405227f68e.mp4?secure=mLlNr7mxSSURM8Rb01ukqA%3D%3D%2C1792318336"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -9791,8 +9791,8 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=sFWuKh33cK_r2DZZpn_tCA%3D%3D%2C1792291387"
+      "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=wuxpHneAc9p-PGaB1MPyhg%3D%3D%2C1792318339"
     ],
-    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=sFWuKh33cK_r2DZZpn_tCA%3D%3D%2C1792291387"
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=wuxpHneAc9p-PGaB1MPyhg%3D%3D%2C1792318339"
   }
 ]
