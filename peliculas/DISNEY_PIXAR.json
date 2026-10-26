@@ -21,9 +21,9 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=Dp694QKMVfZ1-Q0ZLmHL-KSA9-ENMctRZP7CoThvDBo&s=1793017063&e=43200&v=410855356&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
+      "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=jFsNs4cDuR1yL9e2bMWqmiC4Ebkyf0Uxp7-E6uvQog8&s=1793038589&e=43200&v=411058045&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
     ],
-    "URL_DIRECTA": "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=Dp694QKMVfZ1-Q0ZLmHL-KSA9-ENMctRZP7CoThvDBo&s=1793017063&e=43200&v=410855356&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
+    "URL_DIRECTA": "https://s14.vimeos.net/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=jFsNs4cDuR1yL9e2bMWqmiC4Ebkyf0Uxp7-E6uvQog8&s=1793038589&e=43200&v=411058045&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -117,9 +117,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/antz-1998-latino-AYrRlgadTVZJ7rdP"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=p7Qwbb2kgjbMFgy5iyvkLA&expires=1793044252",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=7D6VAPqXqoZ5MOhflkA8eA&expires=1793065968",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=p7Qwbb2kgjbMFgy5iyvkLA&expires=1793044252"
+      "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=7D6VAPqXqoZ5MOhflkA8eA&expires=1793065968"
     ]
   },
   {
@@ -141,9 +141,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/15065638439662"
     ],
-    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1793101854959/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.128/type/7/sig/_gijDQfhIQk/ct/8/urls/185.180.203.28%3B178.237.23.57/clientType/0/zs/43/id/16707185740526/video/",
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1793123570142/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.128/type/7/sig/BWFHV4_QCkw/ct/8/urls/185.226.55.13%3B185.180.203.28/clientType/0/zs/43/id/16707185740526/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-1.vkuser.net/expires/1793101854959/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.128/type/7/sig/_gijDQfhIQk/ct/8/urls/185.180.203.28%3B178.237.23.57/clientType/0/zs/43/id/16707185740526/video/"
+      "https://ok6-1.vkuser.net/expires/1793123570142/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.128/type/7/sig/BWFHV4_QCkw/ct/8/urls/185.226.55.13%3B185.180.203.28/clientType/0/zs/43/id/16707185740526/video/"
     ]
   },
   {
@@ -165,9 +165,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/12356596992750"
     ],
-    "URL_DIRECTA": "https://ok6-7.vkuser.net/expires/1793101859478/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1345901099/ms/95.142.206.134/type/7/sig/YTbI9C7DCOo/ct/8/urls/178.237.23.82%3B176.112.172.5/clientType/0/zs/43/id/11814112070382/video/",
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/expires/1793123573205/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1345901099/ms/95.142.206.134/type/7/sig/8GMvRyapPpc/ct/8/urls/178.237.23.82%3B185.226.55.56/clientType/0/zs/43/id/11814112070382/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-7.vkuser.net/expires/1793101859478/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1345901099/ms/95.142.206.134/type/7/sig/YTbI9C7DCOo/ct/8/urls/178.237.23.82%3B176.112.172.5/clientType/0/zs/43/id/11814112070382/video/"
+      "https://ok6-7.vkuser.net/expires/1793123573205/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1345901099/ms/95.142.206.134/type/7/sig/8GMvRyapPpc/ct/8/urls/178.237.23.82%3B185.226.55.56/clientType/0/zs/43/id/11814112070382/video/"
     ]
   },
   {
@@ -189,9 +189,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10025084259054"
     ],
-    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1793101862805/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.131/type/7/sig/Zec9pQEzAjo/ct/8/urls/185.180.203.32%3B178.237.23.83/clientType/0/zs/43/id/8816181316334/video/",
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1793123576323/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.131/type/7/sig/ZEaAYIfG9Lc/ct/8/urls/185.180.203.32%3B185.226.55.21/clientType/0/zs/43/id/8816181316334/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-4.vkuser.net/expires/1793101862805/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.131/type/7/sig/Zec9pQEzAjo/ct/8/urls/185.180.203.32%3B178.237.23.83/clientType/0/zs/43/id/8816181316334/video/"
+      "https://ok6-4.vkuser.net/expires/1793123576323/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.131/type/7/sig/ZEaAYIfG9Lc/ct/8/urls/185.180.203.32%3B185.226.55.21/clientType/0/zs/43/id/8816181316334/video/"
     ]
   },
   {
@@ -213,9 +213,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/14070562818798"
     ],
-    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1793101866679/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.140/type/7/sig/MzsO6koFNYo/ct/8/urls/95.163.35.112%3B178.237.29.2/clientType/0/zs/43/id/14924426513134/video/",
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1793123579468/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.140/type/7/sig/Z57nUEEb06w/ct/8/urls/95.163.35.112%3B185.226.55.50/clientType/0/zs/43/id/14924426513134/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-13.vkuser.net/expires/1793101866679/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.140/type/7/sig/MzsO6koFNYo/ct/8/urls/95.163.35.112%3B178.237.29.2/clientType/0/zs/43/id/14924426513134/video/"
+      "https://ok6-13.vkuser.net/expires/1793123579468/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.140/type/7/sig/Z57nUEEb06w/ct/8/urls/95.163.35.112%3B185.226.55.50/clientType/0/zs/43/id/14924426513134/video/"
     ]
   },
   {
@@ -237,9 +237,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9499578862203"
     ],
-    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1793101872822/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/GHMv2WjvQ-o/ct/8/urls/95.163.35.118%3B178.237.29.1/clientType/0/zs/43/id/8524312349307/video/",
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1793123582590/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/GGwrvSyi04I/ct/8/urls/95.163.35.118%3B185.226.55.27/clientType/0/zs/43/id/8524312349307/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-6.vkuser.net/expires/1793101872822/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/GHMv2WjvQ-o/ct/8/urls/95.163.35.118%3B178.237.29.1/clientType/0/zs/43/id/8524312349307/video/"
+      "https://ok6-6.vkuser.net/expires/1793123582590/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/GGwrvSyi04I/ct/8/urls/95.163.35.118%3B185.226.55.27/clientType/0/zs/43/id/8524312349307/video/"
     ]
   },
   {
@@ -261,9 +261,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9499579255419"
     ],
-    "URL_DIRECTA": "https://vd657.okcdn.ru/expires/1793101876945/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.8/type/5/sig/kYhnW-WGMik/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/8524315101819/video/",
+    "URL_DIRECTA": "https://vd657.okcdn.ru/expires/1793123585525/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.8/type/5/sig/3Hc3mOP_V0Q/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/8524315101819/video/",
     "URLS_DIRECTAS": [
-      "https://vd657.okcdn.ru/expires/1793101876945/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.8/type/5/sig/kYhnW-WGMik/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/8524315101819/video/"
+      "https://vd657.okcdn.ru/expires/1793123585525/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.8/type/5/sig/3Hc3mOP_V0Q/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/8524315101819/video/"
     ]
   },
   {
@@ -285,9 +285,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9494704491131"
     ],
-    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1793101881562/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/S2xwpWOM4ig/ct/8/urls/178.237.23.42%3B176.112.172.12/clientType/0/zs/43/id/8516719807099/video/",
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1793123588833/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/lU7ywxsCnls/ct/8/urls/178.237.23.42%3B176.112.172.12/clientType/0/zs/43/id/8516719807099/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-12.vkuser.net/expires/1793101881562/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/S2xwpWOM4ig/ct/8/urls/178.237.23.42%3B176.112.172.12/clientType/0/zs/43/id/8516719807099/video/"
+      "https://ok6-12.vkuser.net/expires/1793123588833/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/lU7ywxsCnls/ct/8/urls/178.237.23.42%3B176.112.172.12/clientType/0/zs/43/id/8516719807099/video/"
     ]
   },
   {
@@ -309,9 +309,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9489019439739"
     ],
-    "URL_DIRECTA": "https://vd653.okcdn.ru/expires/1793101885639/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/uM_engJC4yM/ct/8/urls/185.180.203.27/clientType/0/zs/43/id/8508940880507/video/",
+    "URL_DIRECTA": "https://vd653.okcdn.ru/expires/1793123591779/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/yVFVWO44R4g/ct/8/urls/185.180.203.27/clientType/0/zs/43/id/8508940880507/video/",
     "URLS_DIRECTAS": [
-      "https://vd653.okcdn.ru/expires/1793101885639/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/uM_engJC4yM/ct/8/urls/185.180.203.27/clientType/0/zs/43/id/8508940880507/video/"
+      "https://vd653.okcdn.ru/expires/1793123591779/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/yVFVWO44R4g/ct/8/urls/185.180.203.27/clientType/0/zs/43/id/8508940880507/video/"
     ]
   },
   {
@@ -333,9 +333,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8854633712251"
     ],
-    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1793101890309/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/CWwpeAHEFsA/ct/8/urls/185.180.203.95%3B176.112.172.82/clientType/0/zs/43/id/7558622677627/video/",
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1793123595155/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/s97b8Jts7KU/ct/8/urls/185.180.203.95%3B176.112.172.82/clientType/0/zs/43/id/7558622677627/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-6.vkuser.net/expires/1793101890309/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/CWwpeAHEFsA/ct/8/urls/185.180.203.95%3B176.112.172.82/clientType/0/zs/43/id/7558622677627/video/"
+      "https://ok6-6.vkuser.net/expires/1793123595155/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/s97b8Jts7KU/ct/8/urls/185.180.203.95%3B176.112.172.82/clientType/0/zs/43/id/7558622677627/video/"
     ]
   },
   {
@@ -357,9 +357,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8810199779963"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1793101894904/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/66zqbUrC6-4/ct/8/urls/95.163.35.115%3B178.237.23.8/clientType/0/zs/43/id/7502049643131/video/",
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1793123598058/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/yv2mCXGwTRE/ct/8/urls/95.163.35.115%3B176.112.172.34/clientType/0/zs/43/id/7502049643131/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/expires/1793101894904/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/66zqbUrC6-4/ct/8/urls/95.163.35.115%3B178.237.23.8/clientType/0/zs/43/id/7502049643131/video/"
+      "https://ok6-11.vkuser.net/expires/1793123598058/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/yv2mCXGwTRE/ct/8/urls/95.163.35.115%3B176.112.172.34/clientType/0/zs/43/id/7502049643131/video/"
     ]
   },
   {
@@ -381,9 +381,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8789493418619"
     ],
-    "URL_DIRECTA": "https://vd742.okcdn.ru/expires/1793101898966/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-773195492/ms/95.163.35.19/type/3/sig/Hjgp_IdZ0N4/ct/8/urls/185.180.203.95/clientType/0/zs/43/id/7475416992379/video/",
+    "URL_DIRECTA": "https://vd342.okcdn.ru/expires/1793123601265/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-773195492/ms/185.180.203.95/type/3/sig/qmYu6Mvom4I/ct/8/urls/95.163.35.19/clientType/0/zs/43/id/7475416992379/video/",
     "URLS_DIRECTAS": [
-      "https://vd742.okcdn.ru/expires/1793101898966/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-773195492/ms/95.163.35.19/type/3/sig/Hjgp_IdZ0N4/ct/8/urls/185.180.203.95/clientType/0/zs/43/id/7475416992379/video/"
+      "https://vd342.okcdn.ru/expires/1793123601265/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-773195492/ms/185.180.203.95/type/3/sig/qmYu6Mvom4I/ct/8/urls/95.163.35.19/clientType/0/zs/43/id/7475416992379/video/"
     ]
   },
   {
@@ -405,9 +405,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8702908959355"
     ],
-    "URL_DIRECTA": "https://vd291.okcdn.ru/expires/1793101903270/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.66/type/3/sig/Itkrv769a_M/ct/8/urls/185.180.203.29/clientType/0/zs/43/id/7450541886075/scl/5/video/",
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1793123604865/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.141/type/3/sig/VO3f0t2Tz7I/ct/8/urls/176.112.172.66%3B185.180.203.29/clientType/0/zs/43/id/7450541886075/scl/5/video/",
     "URLS_DIRECTAS": [
-      "https://vd291.okcdn.ru/expires/1793101903270/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.66/type/3/sig/Itkrv769a_M/ct/8/urls/185.180.203.29/clientType/0/zs/43/id/7450541886075/scl/5/video/"
+      "https://ok6-14.vkuser.net/expires/1793123604865/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.141/type/3/sig/VO3f0t2Tz7I/ct/8/urls/176.112.172.66%3B185.180.203.29/clientType/0/zs/43/id/7450541886075/scl/5/video/"
     ]
   },
   {
@@ -429,9 +429,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8605591014011"
     ],
-    "URL_DIRECTA": "https://vd760.okcdn.ru/expires/1793101907003/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.37/type/5/sig/-4jw3IYoZVI/ct/8/urls/176.112.172.77/clientType/0/zs/43/id/7430781930107/video/",
+    "URL_DIRECTA": "https://vd338.okcdn.ru/expires/1793123607911/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.77/type/5/sig/ufrIg49fEWA/ct/8/urls/95.163.35.37/clientType/0/zs/43/id/7430781930107/video/",
     "URLS_DIRECTAS": [
-      "https://vd760.okcdn.ru/expires/1793101907003/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.37/type/5/sig/-4jw3IYoZVI/ct/8/urls/176.112.172.77/clientType/0/zs/43/id/7430781930107/video/"
+      "https://vd338.okcdn.ru/expires/1793123607911/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.77/type/5/sig/ufrIg49fEWA/ct/8/urls/95.163.35.37/clientType/0/zs/43/id/7430781930107/video/"
     ]
   },
   {
@@ -453,9 +453,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8482230504031"
     ],
-    "URL_DIRECTA": "https://vd371.okcdn.ru/?expires=1793101911392&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.84&type=3&sig=0jKzOdKtP8E&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=7283102583391",
+    "URL_DIRECTA": "https://vd371.okcdn.ru/?expires=1793123610937&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.163.35.84&type=3&sig=RTdcuM4HQIQ&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=7283102583391",
     "URLS_DIRECTAS": [
-      "https://vd371.okcdn.ru/?expires=1793101911392&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.84&type=3&sig=0jKzOdKtP8E&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=7283102583391"
+      "https://vd371.okcdn.ru/?expires=1793123610937&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.163.35.84&type=3&sig=RTdcuM4HQIQ&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=7283102583391"
     ]
   },
   {
@@ -477,9 +477,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6262620621315"
     ],
-    "URL_DIRECTA": "https://vd437.okcdn.ru/?expires=1793101915203&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.57&type=3&sig=U8sJcFG0-fc&ct=0&urls=185.180.203.98&clientType=0&zs=43&id=5283225340419",
+    "URL_DIRECTA": "https://vd437.okcdn.ru/?expires=1793123615975&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.57&type=3&sig=120uTLvBgaw&ct=0&urls=185.180.203.98&clientType=0&zs=43&id=5283225340419",
     "URLS_DIRECTAS": [
-      "https://vd437.okcdn.ru/?expires=1793101915203&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.57&type=3&sig=U8sJcFG0-fc&ct=0&urls=185.180.203.98&clientType=0&zs=43&id=5283225340419"
+      "https://vd437.okcdn.ru/?expires=1793123615975&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.57&type=3&sig=120uTLvBgaw&ct=0&urls=185.180.203.98&clientType=0&zs=43&id=5283225340419"
     ]
   },
   {
@@ -501,9 +501,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6252798544387"
     ],
-    "URL_DIRECTA": "https://vd678.okcdn.ru/?expires=1793101919489&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.29&type=3&sig=23bDOGYGxcs&ct=0&urls=185.180.203.29&clientType=0&zs=43&id=5267371919875",
+    "URL_DIRECTA": "https://vd678.okcdn.ru/?expires=1793123619574&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.29&type=3&sig=jY6r78BJuRk&ct=0&urls=185.226.55.13&clientType=0&zs=43&id=5267371919875",
     "URLS_DIRECTAS": [
-      "https://vd678.okcdn.ru/?expires=1793101919489&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.29&type=3&sig=23bDOGYGxcs&ct=0&urls=185.180.203.29&clientType=0&zs=43&id=5267371919875"
+      "https://vd678.okcdn.ru/?expires=1793123619574&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.29&type=3&sig=jY6r78BJuRk&ct=0&urls=185.226.55.13&clientType=0&zs=43&id=5267371919875"
     ]
   },
   {
@@ -525,9 +525,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6252344904195"
     ],
-    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1793101924766/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/YE673bUf4-k/ct/8/urls/95.163.35.61%3B178.237.23.31/clientType/0/zs/43/id/6382308231683/video/",
+    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1793123623610/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/ovmKBtWTuQs/ct/8/urls/95.163.35.61%3B178.237.23.31/clientType/0/zs/43/id/6382308231683/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-8.vkuser.net/expires/1793101924766/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/YE673bUf4-k/ct/8/urls/95.163.35.61%3B178.237.23.31/clientType/0/zs/43/id/6382308231683/video/"
+      "https://ok6-8.vkuser.net/expires/1793123623610/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/ovmKBtWTuQs/ct/8/urls/95.163.35.61%3B178.237.23.31/clientType/0/zs/43/id/6382308231683/video/"
     ]
   },
   {
@@ -549,9 +549,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6265077303869"
     ],
-    "URL_DIRECTA": "https://vd561.okcdn.ru/?expires=1793101973273&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.72&type=7&sig=Lt3wAEcjWzE&ct=0&urls=185.180.203.68&clientType=0&zs=43&id=5312077892157",
+    "URL_DIRECTA": "https://vd561.okcdn.ru/?expires=1793123666789&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.72&type=7&sig=y9gwwKnN26A&ct=0&urls=185.180.203.68&clientType=0&zs=43&id=5312077892157",
     "URLS_DIRECTAS": [
-      "https://vd561.okcdn.ru/?expires=1793101973273&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.72&type=7&sig=Lt3wAEcjWzE&ct=0&urls=185.180.203.68&clientType=0&zs=43&id=5312077892157"
+      "https://vd561.okcdn.ru/?expires=1793123666789&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.72&type=7&sig=y9gwwKnN26A&ct=0&urls=185.180.203.68&clientType=0&zs=43&id=5312077892157"
     ]
   },
   {
@@ -573,9 +573,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6206536157757"
     ],
-    "URL_DIRECTA": "https://vd407.okcdn.ru/expires/1793101977685/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/178.237.29.2/type/7/sig/ZxF4Fb5QAGA/ct/8/urls/178.237.29.134/clientType/0/zs/43/id/5223641385533/video/",
+    "URL_DIRECTA": "https://vd407.okcdn.ru/expires/1793123670459/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/178.237.29.2/type/7/sig/oPqtP7umyrw/ct/8/urls/185.226.55.34/clientType/0/zs/43/id/5223641385533/video/",
     "URLS_DIRECTAS": [
-      "https://vd407.okcdn.ru/expires/1793101977685/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/178.237.29.2/type/7/sig/ZxF4Fb5QAGA/ct/8/urls/178.237.29.134/clientType/0/zs/43/id/5223641385533/video/"
+      "https://vd407.okcdn.ru/expires/1793123670459/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/178.237.29.2/type/7/sig/oPqtP7umyrw/ct/8/urls/185.226.55.34/clientType/0/zs/43/id/5223641385533/video/"
     ]
   },
   {
@@ -597,9 +597,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/5681475095253"
     ],
-    "URL_DIRECTA": "https://vd362.okcdn.ru/?expires=1793102463567&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.127&type=3&sig=1uqEzbt1S_I&ct=0&urls=185.180.203.26&clientType=0&zs=43&id=4760951786197",
+    "URL_DIRECTA": "https://vd362.okcdn.ru/?expires=1793124095258&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.127&type=3&sig=gglRXzyahs4&ct=0&urls=185.226.55.17&clientType=0&zs=43&id=4760951786197",
     "URLS_DIRECTAS": [
-      "https://vd362.okcdn.ru/?expires=1793102463567&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.127&type=3&sig=1uqEzbt1S_I&ct=0&urls=185.180.203.26&clientType=0&zs=43&id=4760951786197"
+      "https://vd362.okcdn.ru/?expires=1793124095258&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.127&type=3&sig=gglRXzyahs4&ct=0&urls=185.226.55.17&clientType=0&zs=43&id=4760951786197"
     ]
   },
   {
@@ -621,9 +621,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/5729921141461"
     ],
-    "URL_DIRECTA": "https://vd299.okcdn.ru/expires/1793102471084/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.53/type/3/sig/G5uE08Oo4Ac/ct/8/urls/176.112.172.20/clientType/0/zs/43/id/898592082548/video/",
+    "URL_DIRECTA": "https://vd299.okcdn.ru/expires/1793124102814/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.53/type/3/sig/oLMnLU6j_Vg/ct/8/urls/176.112.172.20/clientType/0/zs/43/id/898592082548/video/",
     "URLS_DIRECTAS": [
-      "https://vd299.okcdn.ru/expires/1793102471084/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.53/type/3/sig/G5uE08Oo4Ac/ct/8/urls/176.112.172.20/clientType/0/zs/43/id/898592082548/video/"
+      "https://vd299.okcdn.ru/expires/1793124102814/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.53/type/3/sig/oLMnLU6j_Vg/ct/8/urls/176.112.172.20/clientType/0/zs/43/id/898592082548/video/"
     ]
   },
   {
@@ -645,9 +645,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6829586909893"
     ],
-    "URL_DIRECTA": "https://vd367.okcdn.ru/expires/1793102474734/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.93/type/1/sig/xB32cVyitUY/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/6080151096005/video/",
+    "URL_DIRECTA": "https://vd367.okcdn.ru/expires/1793124106669/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.93/type/1/sig/rNqoPFrz19M/ct/8/urls/176.112.172.84/clientType/0/zs/43/id/6080151096005/video/",
     "URLS_DIRECTAS": [
-      "https://vd367.okcdn.ru/expires/1793102474734/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.93/type/1/sig/xB32cVyitUY/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/6080151096005/video/"
+      "https://vd367.okcdn.ru/expires/1793124106669/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.93/type/1/sig/rNqoPFrz19M/ct/8/urls/176.112.172.84/clientType/0/zs/43/id/6080151096005/video/"
     ]
   },
   {
@@ -669,9 +669,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/12453367515845"
     ],
-    "URL_DIRECTA": "https://vd353.okcdn.ru/expires/1793102477955/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.131/type/5/sig/9k0ryFFMH4o/ct/8/urls/176.112.172.126/clientType/0/zs/43/id/7646456384221/video/",
+    "URL_DIRECTA": "https://vd504.okcdn.ru/expires/1793124109962/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.14/type/5/sig/nYupLD7qpDs/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/7646456384221/video/",
     "URLS_DIRECTAS": [
-      "https://vd353.okcdn.ru/expires/1793102477955/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.131/type/5/sig/9k0ryFFMH4o/ct/8/urls/176.112.172.126/clientType/0/zs/43/id/7646456384221/video/"
+      "https://vd504.okcdn.ru/expires/1793124109962/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.14/type/5/sig/nYupLD7qpDs/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/7646456384221/video/"
     ]
   },
   {
@@ -693,9 +693,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6999825713708"
     ],
-    "URL_DIRECTA": "https://vd742.okcdn.ru/?expires=1793102481312&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.19&type=3&subId=5978054855212&sig=PZoaGPnfKQ0&ct=0&urls=176.112.172.65&clientType=0&zs=43&id=5978054855212",
+    "URL_DIRECTA": "https://vd290.okcdn.ru/?expires=1793124113932&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=176.112.172.65&type=3&subId=5978054855212&sig=yPfZcP3u8ao&ct=0&urls=95.163.35.19&clientType=0&zs=43&id=5978054855212",
     "URLS_DIRECTAS": [
-      "https://vd742.okcdn.ru/?expires=1793102481312&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.19&type=3&subId=5978054855212&sig=PZoaGPnfKQ0&ct=0&urls=176.112.172.65&clientType=0&zs=43&id=5978054855212"
+      "https://vd290.okcdn.ru/?expires=1793124113932&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=176.112.172.65&type=3&subId=5978054855212&sig=yPfZcP3u8ao&ct=0&urls=95.163.35.19&clientType=0&zs=43&id=5978054855212"
     ]
   },
   {
@@ -717,9 +717,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9937357966062"
     ],
-    "URL_DIRECTA": "https://vd713.okcdn.ru/expires/1793102485233/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.29/type/5/sig/W_TVrGMG9h0/ct/8/urls/95.163.35.71/clientType/0/zs/43/id/8690673453806/video/",
+    "URL_DIRECTA": "https://vd713.okcdn.ru/expires/1793124117567/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.29/type/5/sig/Q-SOq4I4XNE/ct/8/urls/95.163.35.71/clientType/0/zs/43/id/8690673453806/video/",
     "URLS_DIRECTAS": [
-      "https://vd713.okcdn.ru/expires/1793102485233/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.29/type/5/sig/W_TVrGMG9h0/ct/8/urls/95.163.35.71/clientType/0/zs/43/id/8690673453806/video/"
+      "https://vd713.okcdn.ru/expires/1793124117567/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.29/type/5/sig/Q-SOq4I4XNE/ct/8/urls/95.163.35.71/clientType/0/zs/43/id/8690673453806/video/"
     ]
   },
   {
@@ -741,9 +741,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10074531302126"
     ],
-    "URL_DIRECTA": "https://vd563.okcdn.ru/expires/1793102491901/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.75/type/5/sig/r6_4mtdjSY8/ct/8/urls/176.112.172.126/clientType/0/zs/43/id/8882940087022/video/",
+    "URL_DIRECTA": "https://vd760.okcdn.ru/expires/1793124123706/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.37/type/5/sig/U2Ooqb2SL1Q/ct/8/urls/178.237.23.75/clientType/0/zs/43/id/8882940087022/video/",
     "URLS_DIRECTAS": [
-      "https://vd563.okcdn.ru/expires/1793102491901/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.75/type/5/sig/r6_4mtdjSY8/ct/8/urls/176.112.172.126/clientType/0/zs/43/id/8882940087022/video/"
+      "https://vd760.okcdn.ru/expires/1793124123706/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.37/type/5/sig/U2Ooqb2SL1Q/ct/8/urls/178.237.23.75/clientType/0/zs/43/id/8882940087022/video/"
     ]
   },
   {
@@ -765,9 +765,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/12257566984942"
     ],
-    "URL_DIRECTA": "https://ok6-2.vkuser.net/expires/1793102495453/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.129/type/7/sig/lQDE1KQ7Ozs/ct/8/urls/95.163.35.28%3B178.237.29.8/clientType/0/zs/43/id/11689052474094/video/",
+    "URL_DIRECTA": "https://ok6-2.vkuser.net/expires/1793124127030/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.129/type/7/sig/EHXgGJz8Zac/ct/8/urls/95.163.35.28%3B178.237.29.8/clientType/0/zs/43/id/11689052474094/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-2.vkuser.net/expires/1793102495453/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.129/type/7/sig/lQDE1KQ7Ozs/ct/8/urls/95.163.35.28%3B178.237.29.8/clientType/0/zs/43/id/11689052474094/video/"
+      "https://ok6-2.vkuser.net/expires/1793124127030/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.129/type/7/sig/EHXgGJz8Zac/ct/8/urls/95.163.35.28%3B178.237.29.8/clientType/0/zs/43/id/11689052474094/video/"
     ]
   },
   {
@@ -789,9 +789,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10426038487790"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1793102498800/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.138/type/7/sig/VKJ25sM0eyo/ct/8/urls/95.163.35.37%3B185.180.203.29/clientType/0/zs/43/id/9368143661806/video/",
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1793124129826/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.138/type/7/sig/-yX5fL1y8Jc/ct/8/urls/95.163.35.37%3B185.180.203.29/clientType/0/zs/43/id/9368143661806/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/expires/1793102498800/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.138/type/7/sig/VKJ25sM0eyo/ct/8/urls/95.163.35.37%3B185.180.203.29/clientType/0/zs/43/id/9368143661806/video/"
+      "https://ok6-11.vkuser.net/expires/1793124129826/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.138/type/7/sig/-yX5fL1y8Jc/ct/8/urls/95.163.35.37%3B185.180.203.29/clientType/0/zs/43/id/9368143661806/video/"
     ]
   },
   {
@@ -813,9 +813,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8517949131359"
     ],
-    "URL_DIRECTA": "https://vd728.okcdn.ru/expires/1793102502114/clientType/0/srcIp/20.169.52.172/type/2/mid/8517949131359/id/7311169161823/ms/95.163.35.5/zs/43/srcAg/CHROME/urls/178.237.23.9/oq/0/pr/10/ct/28/sig/-lRVeiUm594/ondemand/CN-UkJ3k1AESFAjflJCd5NQBEN-UkJ3k1AEYAiABGhQI35SQneTUARDflJCd5NQBGAIgAiAEKAMwAzgCeOgNO4T2RDqvI7k/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd728.okcdn.ru/expires/1793124132868/clientType/0/srcIp/20.55.46.163/type/2/mid/8517949131359/id/7311169161823/ms/95.163.35.5/zs/43/srcAg/CHROME/urls/178.237.23.9/oq/0/pr/10/ct/28/sig/z76dfQDW5js/ondemand/CN-UkJ3k1AESFAjflJCd5NQBEN-UkJ3k1AEYAiABGhQI35SQneTUARDflJCd5NQBGAIgAiAEKAMwAzgCeOgNO4T2RDqvI7k/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd728.okcdn.ru/expires/1793102502114/clientType/0/srcIp/20.169.52.172/type/2/mid/8517949131359/id/7311169161823/ms/95.163.35.5/zs/43/srcAg/CHROME/urls/178.237.23.9/oq/0/pr/10/ct/28/sig/-lRVeiUm594/ondemand/CN-UkJ3k1AESFAjflJCd5NQBEN-UkJ3k1AEYAiABGhQI35SQneTUARDflJCd5NQBGAIgAiAEKAMwAzgCeOgNO4T2RDqvI7k/fn/track.m3u8"
+      "https://vd728.okcdn.ru/expires/1793124132868/clientType/0/srcIp/20.55.46.163/type/2/mid/8517949131359/id/7311169161823/ms/95.163.35.5/zs/43/srcAg/CHROME/urls/178.237.23.9/oq/0/pr/10/ct/28/sig/z76dfQDW5js/ondemand/CN-UkJ3k1AESFAjflJCd5NQBEN-UkJ3k1AEYAiABGhQI35SQneTUARDflJCd5NQBGAIgAiAEKAMwAzgCeOgNO4T2RDqvI7k/fn/track.m3u8"
     ]
   },
   {
@@ -837,9 +837,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10777945049610"
     ],
-    "URL_DIRECTA": "https://vd489.okcdn.ru/expires/1793102505989/clientType/0/srcIp/20.169.52.172/type/2/mid/10777945049610/id/9889387645450/ms/95.163.35.115/zs/43/srcAg/CHROME/urls/95.163.35.110/oq/0/pr/10/ct/28/sig/W5jHRPqVF3o/ondemand/CIqUwOvonwISFAiKlMDr6J8CEIqUwOvonwIYAiABGhQIipTA6-ifAhCKlMDr6J8CGAIgAiAEKAMwAzgCeJ4F9qk12mgqHsE/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd544.okcdn.ru/expires/1793124136703/clientType/0/srcIp/20.55.46.163/type/2/mid/10777945049610/id/9889387645450/ms/185.226.55.54/zs/43/srcAg/CHROME/urls/95.163.35.115/oq/0/pr/10/ct/28/sig/rsdQwaqk4mM/ondemand/CIqUwOvonwISFAiKlMDr6J8CEIqUwOvonwIYAiABGhQIipTA6-ifAhCKlMDr6J8CGAIgAiAEKAMwAzgCeJ4F9qk12mgqHsE/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd489.okcdn.ru/expires/1793102505989/clientType/0/srcIp/20.169.52.172/type/2/mid/10777945049610/id/9889387645450/ms/95.163.35.115/zs/43/srcAg/CHROME/urls/95.163.35.110/oq/0/pr/10/ct/28/sig/W5jHRPqVF3o/ondemand/CIqUwOvonwISFAiKlMDr6J8CEIqUwOvonwIYAiABGhQIipTA6-ifAhCKlMDr6J8CGAIgAiAEKAMwAzgCeJ4F9qk12mgqHsE/fn/track.m3u8"
+      "https://vd544.okcdn.ru/expires/1793124136703/clientType/0/srcIp/20.55.46.163/type/2/mid/10777945049610/id/9889387645450/ms/185.226.55.54/zs/43/srcAg/CHROME/urls/95.163.35.115/oq/0/pr/10/ct/28/sig/rsdQwaqk4mM/ondemand/CIqUwOvonwISFAiKlMDr6J8CEIqUwOvonwIYAiABGhQIipTA6-ifAhCKlMDr6J8CGAIgAiAEKAMwAzgCeJ4F9qk12mgqHsE/fn/track.m3u8"
     ]
   },
   {
@@ -861,9 +861,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4199574604393"
     ],
-    "URL_DIRECTA": "https://vd641.okcdn.ru/expires/1793102513657/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.38/type/5/sig/YZI3obellNM/ct/8/urls/176.112.172.1/clientType/0/zs/43/id/6285940623977/video/",
+    "URL_DIRECTA": "https://vd601.okcdn.ru/expires/1793124140406/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.64/type/5/sig/Trk5hMT5o8g/ct/8/urls/176.112.172.1/clientType/0/zs/43/id/6285940623977/video/",
     "URLS_DIRECTAS": [
-      "https://vd641.okcdn.ru/expires/1793102513657/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.38/type/5/sig/YZI3obellNM/ct/8/urls/176.112.172.1/clientType/0/zs/43/id/6285940623977/video/"
+      "https://vd601.okcdn.ru/expires/1793124140406/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.64/type/5/sig/Trk5hMT5o8g/ct/8/urls/176.112.172.1/clientType/0/zs/43/id/6285940623977/video/"
     ]
   },
   {
@@ -885,9 +885,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/5111799155305"
     ],
-    "URL_DIRECTA": "https://vd730.okcdn.ru/expires/1793102516920/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.7/type/3/sig/BKCZaajtDUo/ct/8/urls/185.180.203.14/clientType/0/zs/43/id/6068149619305/video/",
+    "URL_DIRECTA": "https://vd730.okcdn.ru/expires/1793124144004/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.7/type/3/sig/DiyBwoMg7KQ/ct/8/urls/185.180.203.14/clientType/0/zs/43/id/6068149619305/video/",
     "URLS_DIRECTAS": [
-      "https://vd730.okcdn.ru/expires/1793102516920/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.7/type/3/sig/BKCZaajtDUo/ct/8/urls/185.180.203.14/clientType/0/zs/43/id/6068149619305/video/"
+      "https://vd730.okcdn.ru/expires/1793124144004/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.7/type/3/sig/DiyBwoMg7KQ/ct/8/urls/185.180.203.14/clientType/0/zs/43/id/6068149619305/video/"
     ]
   },
   {
@@ -909,9 +909,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4252164819561"
     ],
-    "URL_DIRECTA": "https://vd626.okcdn.ru/expires/1793102536148/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.23/type/5/sig/yL_faPPMd0Q/ct/8/urls/95.163.35.86/clientType/0/zs/43/id/1924168157801/video/",
+    "URL_DIRECTA": "https://vd626.okcdn.ru/expires/1793124161555/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.23/type/5/sig/UJfrb7ztosM/ct/8/urls/95.163.35.86/clientType/0/zs/43/id/1924168157801/video/",
     "URLS_DIRECTAS": [
-      "https://vd626.okcdn.ru/expires/1793102536148/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.23/type/5/sig/yL_faPPMd0Q/ct/8/urls/95.163.35.86/clientType/0/zs/43/id/1924168157801/video/"
+      "https://vd626.okcdn.ru/expires/1793124161555/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.23/type/5/sig/UJfrb7ztosM/ct/8/urls/95.163.35.86/clientType/0/zs/43/id/1924168157801/video/"
     ]
   },
   {
@@ -933,9 +933,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4196894640745"
     ],
-    "URL_DIRECTA": "https://vd375.okcdn.ru/?expires=1793102559572&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.88&type=3&subId=3274431466089&sig=vY46fN8FpBQ&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=3274431466089",
+    "URL_DIRECTA": "https://vd375.okcdn.ru/?expires=1793124182446&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.163.35.88&type=3&subId=3274431466089&sig=1_2KScwnaNw&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=3274431466089",
     "URLS_DIRECTAS": [
-      "https://vd375.okcdn.ru/?expires=1793102559572&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.88&type=3&subId=3274431466089&sig=vY46fN8FpBQ&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=3274431466089"
+      "https://vd375.okcdn.ru/?expires=1793124182446&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.163.35.88&type=3&subId=3274431466089&sig=1_2KScwnaNw&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=3274431466089"
     ]
   },
   {
@@ -957,9 +957,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8806404000379"
     ],
-    "URL_DIRECTA": "https://vd471.okcdn.ru/expires/1793102567197/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.120/type/3/sig/SrJesuOx0Ls/ct/8/urls/95.163.35.80/clientType/0/zs/43/id/7497320630907/video/",
+    "URL_DIRECTA": "https://vd471.okcdn.ru/expires/1793124189311/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.120/type/3/sig/0F9qPkD4Bwc/ct/8/urls/95.163.35.80/clientType/0/zs/43/id/7497320630907/video/",
     "URLS_DIRECTAS": [
-      "https://vd471.okcdn.ru/expires/1793102567197/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.120/type/3/sig/SrJesuOx0Ls/ct/8/urls/95.163.35.80/clientType/0/zs/43/id/7497320630907/video/"
+      "https://vd471.okcdn.ru/expires/1793124189311/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.120/type/3/sig/0F9qPkD4Bwc/ct/8/urls/95.163.35.80/clientType/0/zs/43/id/7497320630907/video/"
     ]
   },
   {
@@ -981,9 +981,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8766431955579"
     ],
-    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1793102574120/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/ElEWar0yzOg/ct/8/urls/178.237.23.38%3B95.163.35.26/clientType/0/zs/43/id/7463409748603/video/",
+    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1793124195775/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/x4FHkzmZhUw/ct/8/urls/176.112.172.40%3B178.237.23.38/clientType/0/zs/43/id/7463409748603/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-8.vkuser.net/expires/1793102574120/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/ElEWar0yzOg/ct/8/urls/178.237.23.38%3B95.163.35.26/clientType/0/zs/43/id/7463409748603/video/"
+      "https://ok6-8.vkuser.net/expires/1793124195775/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/x4FHkzmZhUw/ct/8/urls/176.112.172.40%3B178.237.23.38/clientType/0/zs/43/id/7463409748603/video/"
     ]
   },
   {
@@ -1005,9 +1005,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8806396398203"
     ],
-    "URL_DIRECTA": "https://vd623.okcdn.ru/expires/1793102577379/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.22/type/5/sig/8aBta8Jy0cc/ct/8/urls/95.163.35.42/clientType/0/zs/43/id/7497317223035/video/",
+    "URL_DIRECTA": "https://vd527.okcdn.ru/expires/1793124198822/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.37/type/5/sig/905fS6955XQ/ct/8/urls/185.180.203.22/clientType/0/zs/43/id/7497317223035/video/",
     "URLS_DIRECTAS": [
-      "https://vd623.okcdn.ru/expires/1793102577379/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.22/type/5/sig/8aBta8Jy0cc/ct/8/urls/95.163.35.42/clientType/0/zs/43/id/7497317223035/video/"
+      "https://vd527.okcdn.ru/expires/1793124198822/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.37/type/5/sig/905fS6955XQ/ct/8/urls/185.180.203.22/clientType/0/zs/43/id/7497317223035/video/"
     ]
   },
   {
@@ -1029,9 +1029,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7372458822324"
     ],
-    "URL_DIRECTA": "https://vd380.okcdn.ru/expires/1793102603294/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1182430820/ms/176.112.172.85/type/5/sig/B27Rs221klo/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/15173147167412/video/",
+    "URL_DIRECTA": "https://vd380.okcdn.ru/expires/1793124217798/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1182430820/ms/176.112.172.85/type/5/sig/Yw5dFX93jlk/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/15173147167412/video/",
     "URLS_DIRECTAS": [
-      "https://vd380.okcdn.ru/expires/1793102603294/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1182430820/ms/176.112.172.85/type/5/sig/B27Rs221klo/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/15173147167412/video/"
+      "https://vd380.okcdn.ru/expires/1793124217798/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1182430820/ms/176.112.172.85/type/5/sig/Yw5dFX93jlk/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/15173147167412/video/"
     ]
   },
   {
@@ -1053,9 +1053,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6716857256628"
     ],
-    "URL_DIRECTA": "https://vd401.okcdn.ru/?expires=1793102608094&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=176.112.172.120&type=5&sig=z2244IT3olc&ct=0&urls=185.180.203.127&clientType=0&zs=43&id=5092831922868",
+    "URL_DIRECTA": "https://vd401.okcdn.ru/?expires=1793124220845&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=176.112.172.120&type=5&sig=zGeXW0rEkKU&ct=0&urls=185.180.203.127&clientType=0&zs=43&id=5092831922868",
     "URLS_DIRECTAS": [
-      "https://vd401.okcdn.ru/?expires=1793102608094&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=176.112.172.120&type=5&sig=z2244IT3olc&ct=0&urls=185.180.203.127&clientType=0&zs=43&id=5092831922868"
+      "https://vd401.okcdn.ru/?expires=1793124220845&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=176.112.172.120&type=5&sig=zGeXW0rEkKU&ct=0&urls=185.180.203.127&clientType=0&zs=43&id=5092831922868"
     ]
   },
   {
@@ -1077,9 +1077,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10850705607348"
     ],
-    "URL_DIRECTA": "https://vd406.okcdn.ru/expires/1793102612659/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.127/type/5/sig/7GrbiftIPmw/ct/8/urls/185.180.203.124/clientType/0/zs/43/id/9607634881204/video/",
+    "URL_DIRECTA": "https://vd526.okcdn.ru/expires/1793124224129/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.36/type/5/sig/9x47Vt-0_Jo/ct/8/urls/185.180.203.124/clientType/0/zs/43/id/9607634881204/video/",
     "URLS_DIRECTAS": [
-      "https://vd406.okcdn.ru/expires/1793102612659/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.127/type/5/sig/7GrbiftIPmw/ct/8/urls/185.180.203.124/clientType/0/zs/43/id/9607634881204/video/"
+      "https://vd526.okcdn.ru/expires/1793124224129/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.36/type/5/sig/9x47Vt-0_Jo/ct/8/urls/185.180.203.124/clientType/0/zs/43/id/9607634881204/video/"
     ]
   },
   {
@@ -1101,9 +1101,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10539364911796"
     ],
-    "URL_DIRECTA": "https://vd619.okcdn.ru/?expires=1793102616706&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=185.180.203.18&type=5&sig=DiGxTcuZ65o&ct=0&urls=178.237.23.43&clientType=0&zs=43&id=9205040810676",
+    "URL_DIRECTA": "https://vd619.okcdn.ru/?expires=1793124227201&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.180.203.18&type=5&sig=zKQVUhTRrdM&ct=0&urls=185.226.55.102&clientType=0&zs=43&id=9205040810676",
     "URLS_DIRECTAS": [
-      "https://vd619.okcdn.ru/?expires=1793102616706&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=185.180.203.18&type=5&sig=DiGxTcuZ65o&ct=0&urls=178.237.23.43&clientType=0&zs=43&id=9205040810676"
+      "https://vd619.okcdn.ru/?expires=1793124227201&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.180.203.18&type=5&sig=zKQVUhTRrdM&ct=0&urls=185.226.55.102&clientType=0&zs=43&id=9205040810676"
     ]
   },
   {
@@ -1125,9 +1125,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10485507164852"
     ],
-    "URL_DIRECTA": "https://vd436.okcdn.ru/expires/1793102621570/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.56/type/5/sig/qnas8DZKsFc/ct/8/urls/178.237.23.55/clientType/0/zs/43/id/9135004060340/video/",
+    "URL_DIRECTA": "https://vd436.okcdn.ru/expires/1793124230833/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.56/type/5/sig/q_TCxAEt76E/ct/8/urls/185.180.203.18/clientType/0/zs/43/id/9135004060340/video/",
     "URLS_DIRECTAS": [
-      "https://vd436.okcdn.ru/expires/1793102621570/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.56/type/5/sig/qnas8DZKsFc/ct/8/urls/178.237.23.55/clientType/0/zs/43/id/9135004060340/video/"
+      "https://vd436.okcdn.ru/expires/1793124230833/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.56/type/5/sig/q_TCxAEt76E/ct/8/urls/185.180.203.18/clientType/0/zs/43/id/9135004060340/video/"
     ]
   },
   {
@@ -1149,9 +1149,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10492782774964"
     ],
-    "URL_DIRECTA": "https://vd608.okcdn.ru/expires/1793102626583/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.126/type/5/sig/6Q1VwZsPMCs/ct/8/urls/185.180.203.49/clientType/0/zs/43/id/9144147380916/video/",
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1793124234101/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.128/type/5/sig/4NyZVZ6v6co/ct/8/urls/95.163.35.126%3B185.226.55.34/clientType/0/zs/43/id/9144147380916/video/",
     "URLS_DIRECTAS": [
-      "https://vd608.okcdn.ru/expires/1793102626583/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.126/type/5/sig/6Q1VwZsPMCs/ct/8/urls/185.180.203.49/clientType/0/zs/43/id/9144147380916/video/"
+      "https://ok6-1.vkuser.net/expires/1793124234101/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.128/type/5/sig/4NyZVZ6v6co/ct/8/urls/95.163.35.126%3B185.226.55.34/clientType/0/zs/43/id/9144147380916/video/"
     ]
   },
   {
@@ -1173,9 +1173,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7348980943540"
     ],
-    "URL_DIRECTA": "https://vd745.okcdn.ru/expires/1793102630755/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.22/type/5/sig/kSw2dAZEbcs/ct/8/urls/95.163.35.110/clientType/0/zs/43/id/5999581006516/video/",
+    "URL_DIRECTA": "https://vd745.okcdn.ru/expires/1793124237184/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.22/type/5/sig/GvUMVqsoH0s/ct/8/urls/185.226.55.100/clientType/0/zs/43/id/5999581006516/video/",
     "URLS_DIRECTAS": [
-      "https://vd745.okcdn.ru/expires/1793102630755/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.22/type/5/sig/kSw2dAZEbcs/ct/8/urls/95.163.35.110/clientType/0/zs/43/id/5999581006516/video/"
+      "https://vd745.okcdn.ru/expires/1793124237184/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.22/type/5/sig/GvUMVqsoH0s/ct/8/urls/185.226.55.100/clientType/0/zs/43/id/5999581006516/video/"
     ]
   },
   {
@@ -1197,9 +1197,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7372413930164"
     ],
-    "URL_DIRECTA": "https://vd568.okcdn.ru/?expires=1793102635302&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.80&type=5&sig=d7nnmZacx2A&ct=0&urls=185.180.203.38&clientType=0&zs=43&id=6034999741108",
+    "URL_DIRECTA": "https://vd568.okcdn.ru/?expires=1793124240432&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.80&type=5&sig=SxWGez3jucU&ct=0&urls=185.226.55.96&clientType=0&zs=43&id=6034999741108",
     "URLS_DIRECTAS": [
-      "https://vd568.okcdn.ru/?expires=1793102635302&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.80&type=5&sig=d7nnmZacx2A&ct=0&urls=185.180.203.38&clientType=0&zs=43&id=6034999741108"
+      "https://vd568.okcdn.ru/?expires=1793124240432&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.80&type=5&sig=SxWGez3jucU&ct=0&urls=185.226.55.96&clientType=0&zs=43&id=6034999741108"
     ]
   },
   {
@@ -1221,9 +1221,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9354960898740"
     ],
-    "URL_DIRECTA": "https://vd216.okcdn.ru/expires/1793102639902/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.56/type/5/sig/hh6wkWaHMjk/ct/8/urls/176.112.172.2/clientType/0/zs/43/id/7598029474484/video/",
+    "URL_DIRECTA": "https://vd560.okcdn.ru/expires/1793124244197/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.94/type/5/sig/_CFuysXmDQ8/ct/8/urls/95.163.35.56/clientType/0/zs/43/id/7598029474484/video/",
     "URLS_DIRECTAS": [
-      "https://vd216.okcdn.ru/expires/1793102639902/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.56/type/5/sig/hh6wkWaHMjk/ct/8/urls/176.112.172.2/clientType/0/zs/43/id/7598029474484/video/"
+      "https://vd560.okcdn.ru/expires/1793124244197/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.94/type/5/sig/_CFuysXmDQ8/ct/8/urls/95.163.35.56/clientType/0/zs/43/id/7598029474484/video/"
     ]
   },
   {
@@ -1245,9 +1245,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9961396767470"
     ],
-    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1793102643742/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/3g_5cYz1RfA/ct/8/urls/176.112.172.15%3B95.163.35.18/clientType/0/zs/43/id/8722925947630/video/",
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1793124247328/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/BMU_TcDbtSg/ct/8/urls/185.226.55.36%3B176.112.172.15/clientType/0/zs/43/id/8722925947630/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-6.vkuser.net/expires/1793102643742/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/3g_5cYz1RfA/ct/8/urls/176.112.172.15%3B95.163.35.18/clientType/0/zs/43/id/8722925947630/video/"
+      "https://ok6-6.vkuser.net/expires/1793124247328/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/BMU_TcDbtSg/ct/8/urls/185.226.55.36%3B176.112.172.15/clientType/0/zs/43/id/8722925947630/video/"
     ]
   },
   {
@@ -1269,9 +1269,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9233605003878"
     ],
-    "URL_DIRECTA": "https://vd623.okcdn.ru/expires/1793102647578/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.22/type/1/sig/eRRy7COWF40/ct/8/urls/176.112.172.43/clientType/0/zs/43/id/7389635480166/video/",
+    "URL_DIRECTA": "https://vd623.okcdn.ru/expires/1793124250480/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.22/type/1/sig/WxJmMl4v2vc/ct/8/urls/176.112.172.43/clientType/0/zs/43/id/7389635480166/video/",
     "URLS_DIRECTAS": [
-      "https://vd623.okcdn.ru/expires/1793102647578/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.22/type/1/sig/eRRy7COWF40/ct/8/urls/176.112.172.43/clientType/0/zs/43/id/7389635480166/video/"
+      "https://vd623.okcdn.ru/expires/1793124250480/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.22/type/1/sig/WxJmMl4v2vc/ct/8/urls/176.112.172.43/clientType/0/zs/43/id/7389635480166/video/"
     ]
   },
   {
@@ -1293,9 +1293,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10567398197862"
     ],
-    "URL_DIRECTA": "https://vd750.okcdn.ru/?expires=1793102666622&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.27&type=3&sig=tF63Tyz-484&ct=0&urls=176.112.172.37&clientType=0&zs=43&id=9290550610534",
+    "URL_DIRECTA": "https://vd544.okcdn.ru/?expires=1793124265857&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.226.55.54&type=3&sig=iymRp4ZRil8&ct=0&urls=95.163.35.27&clientType=0&zs=43&id=9290550610534",
     "URLS_DIRECTAS": [
-      "https://vd750.okcdn.ru/?expires=1793102666622&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.27&type=3&sig=tF63Tyz-484&ct=0&urls=176.112.172.37&clientType=0&zs=43&id=9290550610534"
+      "https://vd544.okcdn.ru/?expires=1793124265857&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.226.55.54&type=3&sig=iymRp4ZRil8&ct=0&urls=95.163.35.27&clientType=0&zs=43&id=9290550610534"
     ]
   },
   {
@@ -1317,9 +1317,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9235972360806"
     ],
-    "URL_DIRECTA": "https://vd714.okcdn.ru/expires/1793102670156/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.30/type/2/sig/nHwhIghPO_4/ct/8/urls/185.180.203.33/clientType/0/zs/43/id/7393111706214/video/",
+    "URL_DIRECTA": "https://vd714.okcdn.ru/expires/1793124269316/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.30/type/2/sig/o6TYxlJwKEA/ct/8/urls/185.226.55.19/clientType/0/zs/43/id/7393111706214/video/",
     "URLS_DIRECTAS": [
-      "https://vd714.okcdn.ru/expires/1793102670156/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.30/type/2/sig/nHwhIghPO_4/ct/8/urls/185.180.203.33/clientType/0/zs/43/id/7393111706214/video/"
+      "https://vd714.okcdn.ru/expires/1793124269316/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.30/type/2/sig/o6TYxlJwKEA/ct/8/urls/185.226.55.19/clientType/0/zs/43/id/7393111706214/video/"
     ]
   },
   {
@@ -1341,9 +1341,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9233604872806"
     ],
-    "URL_DIRECTA": "https://vd485.okcdn.ru/expires/1793102673485/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.111/type/1/sig/IywsWWMFWt8/ct/8/urls/176.112.172.8/clientType/0/zs/43/id/7389612477030/video/",
+    "URL_DIRECTA": "https://vd485.okcdn.ru/expires/1793124272439/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.111/type/1/sig/IgdqPjklpWY/ct/8/urls/176.112.172.8/clientType/0/zs/43/id/7389612477030/video/",
     "URLS_DIRECTAS": [
-      "https://vd485.okcdn.ru/expires/1793102673485/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.111/type/1/sig/IywsWWMFWt8/ct/8/urls/176.112.172.8/clientType/0/zs/43/id/7389612477030/video/"
+      "https://vd485.okcdn.ru/expires/1793124272439/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.111/type/1/sig/IgdqPjklpWY/ct/8/urls/176.112.172.8/clientType/0/zs/43/id/7389612477030/video/"
     ]
   },
   {
@@ -1365,9 +1365,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7836428864102"
     ],
-    "URL_DIRECTA": "https://vd611.okcdn.ru/expires/1793102677733/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.66/type/5/sig/vAN6wCMMHwM/ct/8/urls/185.180.203.99/clientType/0/zs/43/id/6833247029862/scl/5/video/",
+    "URL_DIRECTA": "https://vd611.okcdn.ru/expires/1793124275545/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.66/type/5/sig/8boMETCslKI/ct/8/urls/185.180.203.99/clientType/0/zs/43/id/6833247029862/scl/5/video/",
     "URLS_DIRECTAS": [
-      "https://vd611.okcdn.ru/expires/1793102677733/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.66/type/5/sig/vAN6wCMMHwM/ct/8/urls/185.180.203.99/clientType/0/zs/43/id/6833247029862/scl/5/video/"
+      "https://vd611.okcdn.ru/expires/1793124275545/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.66/type/5/sig/8boMETCslKI/ct/8/urls/185.180.203.99/clientType/0/zs/43/id/6833247029862/scl/5/video/"
     ]
   },
   {
@@ -1389,9 +1389,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7120166455910"
     ],
-    "URL_DIRECTA": "https://vd563.okcdn.ru/?expires=1793102688768&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.75&type=3&sig=yidDqZ7PtH8&ct=0&urls=176.112.172.32&clientType=0&zs=43&id=5702771673702",
+    "URL_DIRECTA": "https://ok6-2.vkuser.net/?expires=1793124286845&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.142.206.129&type=3&sig=CV_zFuRtVhw&ct=0&urls=185.226.55.23%3B176.112.172.32&clientType=0&zs=43&id=5702771673702",
     "URLS_DIRECTAS": [
-      "https://vd563.okcdn.ru/?expires=1793102688768&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.75&type=3&sig=yidDqZ7PtH8&ct=0&urls=176.112.172.32&clientType=0&zs=43&id=5702771673702"
+      "https://ok6-2.vkuser.net/?expires=1793124286845&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.142.206.129&type=3&sig=CV_zFuRtVhw&ct=0&urls=185.226.55.23%3B176.112.172.32&clientType=0&zs=43&id=5702771673702"
     ]
   },
   {
@@ -1413,9 +1413,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7031625943654"
     ],
-    "URL_DIRECTA": "https://vd348.okcdn.ru/expires/1793102692338/clientType/0/srcIp/20.169.52.172/type/2/mid/7031625943654/id/5551455537766/ms/95.163.35.79/zs/43/srcAg/CHROME/urls/176.112.172.29/oq/0/pr/10/ct/28/sig/WC_yfzRPitw/ondemand/COaUpOTIoQESFAjmlKTkyKEBEOaUpOTIoQEYASABGhQI5pSk5MihARDmlKTkyKEBGAEgAiADKAIwAzgCeOEHiZl7D7ZGfNE/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd547.okcdn.ru/expires/1793124290366/clientType/0/srcIp/20.55.46.163/type/2/mid/7031625943654/id/5551455537766/ms/185.226.55.57/zs/43/srcAg/CHROME/urls/95.163.35.79/oq/0/pr/10/ct/28/sig/10WfKk2Myl4/ondemand/COaUpOTIoQESFAjmlKTkyKEBEOaUpOTIoQEYASABGhQI5pSk5MihARDmlKTkyKEBGAEgAiADKAIwAzgCeOEHiZl7D7ZGfNE/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd348.okcdn.ru/expires/1793102692338/clientType/0/srcIp/20.169.52.172/type/2/mid/7031625943654/id/5551455537766/ms/95.163.35.79/zs/43/srcAg/CHROME/urls/176.112.172.29/oq/0/pr/10/ct/28/sig/WC_yfzRPitw/ondemand/COaUpOTIoQESFAjmlKTkyKEBEOaUpOTIoQEYASABGhQI5pSk5MihARDmlKTkyKEBGAEgAiADKAIwAzgCeOEHiZl7D7ZGfNE/fn/track.m3u8"
+      "https://vd547.okcdn.ru/expires/1793124290366/clientType/0/srcIp/20.55.46.163/type/2/mid/7031625943654/id/5551455537766/ms/185.226.55.57/zs/43/srcAg/CHROME/urls/95.163.35.79/oq/0/pr/10/ct/28/sig/10WfKk2Myl4/ondemand/COaUpOTIoQESFAjmlKTkyKEBEOaUpOTIoQEYASABGhQI5pSk5MihARDmlKTkyKEBGAEgAiADKAIwAzgCeOEHiZl7D7ZGfNE/fn/track.m3u8"
     ]
   },
   {
@@ -1437,9 +1437,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7025372957286"
     ],
-    "URL_DIRECTA": "https://vd408.okcdn.ru/expires/1793102696361/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.29.1/type/3/sig/OTzwGzd82AQ/ct/8/urls/176.112.172.35/clientType/0/zs/43/id/17991133760102/video/",
+    "URL_DIRECTA": "https://vd408.okcdn.ru/expires/1793124294140/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.29.1/type/3/sig/ITNoGIjfxtA/ct/8/urls/176.112.172.35/clientType/0/zs/43/id/17991133760102/video/",
     "URLS_DIRECTAS": [
-      "https://vd408.okcdn.ru/expires/1793102696361/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.29.1/type/3/sig/OTzwGzd82AQ/ct/8/urls/176.112.172.35/clientType/0/zs/43/id/17991133760102/video/"
+      "https://vd408.okcdn.ru/expires/1793124294140/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.29.1/type/3/sig/ITNoGIjfxtA/ct/8/urls/176.112.172.35/clientType/0/zs/43/id/17991133760102/video/"
     ]
   },
   {
@@ -1461,9 +1461,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9365077822076"
     ],
-    "URL_DIRECTA": "https://vd355.okcdn.ru/?expires=1793102699637&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.29.133&type=5&sig=X8iBVG6IbHI&ct=0&urls=176.112.172.48&clientType=0&zs=43&id=7958503361221",
+    "URL_DIRECTA": "https://vd355.okcdn.ru/?expires=1793124297642&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.29.133&type=5&sig=Ag1m5tsxrig&ct=0&urls=176.112.172.48&clientType=0&zs=43&id=7958503361221",
     "URLS_DIRECTAS": [
-      "https://vd355.okcdn.ru/?expires=1793102699637&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.29.133&type=5&sig=X8iBVG6IbHI&ct=0&urls=176.112.172.48&clientType=0&zs=43&id=7958503361221"
+      "https://vd355.okcdn.ru/?expires=1793124297642&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.29.133&type=5&sig=Ag1m5tsxrig&ct=0&urls=176.112.172.48&clientType=0&zs=43&id=7958503361221"
     ]
   },
   {
@@ -1485,9 +1485,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9365085489788"
     ],
-    "URL_DIRECTA": "https://vd746.okcdn.ru/?expires=1793102703482&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.23&type=3&sig=6IqcLT2nUDY&ct=0&urls=178.237.23.17&clientType=0&zs=43&id=7958527281861",
+    "URL_DIRECTA": "https://vd746.okcdn.ru/?expires=1793124301640&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.163.35.23&type=3&sig=piWWjOwlqHY&ct=0&urls=178.237.23.17&clientType=0&zs=43&id=7958527281861",
     "URLS_DIRECTAS": [
-      "https://vd746.okcdn.ru/?expires=1793102703482&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.163.35.23&type=3&sig=6IqcLT2nUDY&ct=0&urls=178.237.23.17&clientType=0&zs=43&id=7958527281861"
+      "https://vd746.okcdn.ru/?expires=1793124301640&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.163.35.23&type=3&sig=piWWjOwlqHY&ct=0&urls=178.237.23.17&clientType=0&zs=43&id=7958527281861"
     ]
   },
   {
@@ -1509,9 +1509,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9026294516348"
     ],
-    "URL_DIRECTA": "https://vd698.okcdn.ru/?expires=1793102707164&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=176.112.172.14&type=6&sig=Dob-QHh8-S8&ct=0&urls=178.237.23.125&clientType=0&zs=43&id=7630161709692",
+    "URL_DIRECTA": "https://vd360.okcdn.ru/?expires=1793124305271&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.125&type=6&sig=5ekDlhp4l_U&ct=0&urls=185.226.55.23&clientType=0&zs=43&id=7630161709692",
     "URLS_DIRECTAS": [
-      "https://vd698.okcdn.ru/?expires=1793102707164&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=176.112.172.14&type=6&sig=Dob-QHh8-S8&ct=0&urls=178.237.23.125&clientType=0&zs=43&id=7630161709692"
+      "https://vd360.okcdn.ru/?expires=1793124305271&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=178.237.23.125&type=6&sig=5ekDlhp4l_U&ct=0&urls=185.226.55.23&clientType=0&zs=43&id=7630161709692"
     ]
   },
   {
@@ -1533,9 +1533,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9026024376956"
     ],
-    "URL_DIRECTA": "https://vd217.okcdn.ru/expires/1793102711133/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/33118851/ms/95.163.35.57/type/6/sig/SeMtLXH4Fyk/ct/8/urls/178.237.23.57/clientType/0/zs/43/id/8611882273404/video/",
+    "URL_DIRECTA": "https://vd217.okcdn.ru/expires/1793124311721/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/33118851/ms/95.163.35.57/type/6/sig/ChM3NdREJ4o/ct/8/urls/185.226.55.38/clientType/0/zs/43/id/8611882273404/video/",
     "URLS_DIRECTAS": [
-      "https://vd217.okcdn.ru/expires/1793102711133/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/33118851/ms/95.163.35.57/type/6/sig/SeMtLXH4Fyk/ct/8/urls/178.237.23.57/clientType/0/zs/43/id/8611882273404/video/"
+      "https://vd217.okcdn.ru/expires/1793124311721/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/33118851/ms/95.163.35.57/type/6/sig/ChM3NdREJ4o/ct/8/urls/185.226.55.38/clientType/0/zs/43/id/8611882273404/video/"
     ]
   },
   {
@@ -1557,9 +1557,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9203068177020"
     ],
-    "URL_DIRECTA": "https://vd472.okcdn.ru/?expires=1793102714991&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=185.180.203.121&type=5&sig=9IQSJgBgR_c&ct=0&urls=178.237.29.193&clientType=0&zs=43&id=7881206794876",
+    "URL_DIRECTA": "https://vd557.okcdn.ru/?expires=1793124315525&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.226.55.67&type=5&sig=GYZa0pke-Xk&ct=0&urls=185.180.203.121&clientType=0&zs=43&id=7881206794876",
     "URLS_DIRECTAS": [
-      "https://vd472.okcdn.ru/?expires=1793102714991&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=185.180.203.121&type=5&sig=9IQSJgBgR_c&ct=0&urls=178.237.29.193&clientType=0&zs=43&id=7881206794876"
+      "https://vd557.okcdn.ru/?expires=1793124315525&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.226.55.67&type=5&sig=GYZa0pke-Xk&ct=0&urls=185.180.203.121&clientType=0&zs=43&id=7881206794876"
     ]
   },
   {
@@ -1581,9 +1581,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7661082512038"
     ],
-    "URL_DIRECTA": "https://ok6-15.vkuser.net/expires/1793102787162/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.142/type/5/sig/rNL9z6SS1lk/ct/8/urls/176.112.172.64%3B185.180.203.104/clientType/0/zs/43/id/6725413636774/video/",
+    "URL_DIRECTA": "https://ok6-15.vkuser.net/expires/1793124382353/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.142/type/5/sig/CcmtOafLR8E/ct/8/urls/185.226.55.27%3B176.112.172.64/clientType/0/zs/43/id/6725413636774/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-15.vkuser.net/expires/1793102787162/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.142/type/5/sig/rNL9z6SS1lk/ct/8/urls/176.112.172.64%3B185.180.203.104/clientType/0/zs/43/id/6725413636774/video/"
+      "https://ok6-15.vkuser.net/expires/1793124382353/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.142/type/5/sig/CcmtOafLR8E/ct/8/urls/185.226.55.27%3B176.112.172.64/clientType/0/zs/43/id/6725413636774/video/"
     ]
   },
   {
@@ -1605,9 +1605,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7631739816614"
     ],
-    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1793102791946/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/FNSKEFhZNTM/ct/8/urls/185.180.203.48%3B176.112.172.0/clientType/0/zs/43/id/6680610474662/video/",
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1793124386281/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/OhPA7F_tHXI/ct/8/urls/185.180.203.48%3B95.163.35.24/clientType/0/zs/43/id/6680610474662/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-12.vkuser.net/expires/1793102791946/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/FNSKEFhZNTM/ct/8/urls/185.180.203.48%3B176.112.172.0/clientType/0/zs/43/id/6680610474662/video/"
+      "https://ok6-12.vkuser.net/expires/1793124386281/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/OhPA7F_tHXI/ct/8/urls/185.180.203.48%3B95.163.35.24/clientType/0/zs/43/id/6680610474662/video/"
     ]
   },
   {
@@ -1629,9 +1629,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2981669702310"
     ],
-    "URL_DIRECTA": "https://vd251.okcdn.ru/expires/1793102795691/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.108/type/3/sig/Vc2n-64NcUQ/ct/8/urls/176.112.172.6/clientType/0/zs/43/id/1498055183014/video/",
+    "URL_DIRECTA": "https://vd251.okcdn.ru/expires/1793124389112/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.108/type/3/sig/qseKbjUn2KA/ct/8/urls/178.237.29.11/clientType/0/zs/43/id/1498055183014/video/",
     "URLS_DIRECTAS": [
-      "https://vd251.okcdn.ru/expires/1793102795691/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.108/type/3/sig/Vc2n-64NcUQ/ct/8/urls/176.112.172.6/clientType/0/zs/43/id/1498055183014/video/"
+      "https://vd251.okcdn.ru/expires/1793124389112/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.108/type/3/sig/qseKbjUn2KA/ct/8/urls/178.237.29.11/clientType/0/zs/43/id/1498055183014/video/"
     ]
   },
   {
@@ -1653,9 +1653,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3913671248550"
     ],
-    "URL_DIRECTA": "https://vd444.okcdn.ru/expires/1793102803453/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.118/type/5/sig/1wxGyLJwJ5Q/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/2428863318694/video/",
+    "URL_DIRECTA": "https://vd590.okcdn.ru/expires/1793124396159/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.96/type/5/sig/0KPaMuO1bMs/ct/8/urls/95.163.35.118/clientType/0/zs/43/id/2428863318694/video/",
     "URLS_DIRECTAS": [
-      "https://vd444.okcdn.ru/expires/1793102803453/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.118/type/5/sig/1wxGyLJwJ5Q/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/2428863318694/video/"
+      "https://vd590.okcdn.ru/expires/1793124396159/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.96/type/5/sig/0KPaMuO1bMs/ct/8/urls/95.163.35.118/clientType/0/zs/43/id/2428863318694/video/"
     ]
   },
   {
@@ -1677,9 +1677,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3920377678502"
     ],
-    "URL_DIRECTA": "https://vd719.okcdn.ru/expires/1793102807174/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.35/type/5/sig/NwGRliiq4c4/ct/8/urls/185.180.203.80/clientType/0/zs/43/id/2438290606758/video/",
+    "URL_DIRECTA": "https://vd719.okcdn.ru/expires/1793124400418/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.35/type/5/sig/-cn8jDt_sak/ct/8/urls/185.226.55.51/clientType/0/zs/43/id/2438290606758/video/",
     "URLS_DIRECTAS": [
-      "https://vd719.okcdn.ru/expires/1793102807174/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.35/type/5/sig/NwGRliiq4c4/ct/8/urls/185.180.203.80/clientType/0/zs/43/id/2438290606758/video/"
+      "https://vd719.okcdn.ru/expires/1793124400418/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.35/type/5/sig/-cn8jDt_sak/ct/8/urls/185.226.55.51/clientType/0/zs/43/id/2438290606758/video/"
     ]
   },
   {
@@ -1702,10 +1702,10 @@
       "https://ok.ru/video/2956790532774",
       "https://ok.ru/video/2956790532774"
     ],
-    "URL_DIRECTA": "https://vd715.okcdn.ru/expires/1793102817585/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.31/type/3/sig/_v5_aTVcfNc/ct/8/urls/178.237.23.73/clientType/0/zs/43/id/1468564048550/video/",
+    "URL_DIRECTA": "https://vd715.okcdn.ru/expires/1793124411311/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.31/type/3/sig/FG0rxLrXiqY/ct/8/urls/178.237.23.73/clientType/0/zs/43/id/1468564048550/video/",
     "URLS_DIRECTAS": [
-      "https://vd715.okcdn.ru/expires/1793102817585/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.31/type/3/sig/_v5_aTVcfNc/ct/8/urls/178.237.23.73/clientType/0/zs/43/id/1468564048550/video/",
-      "https://vd754.okcdn.ru/expires/1793102820923/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.31/type/3/sig/CCS_8ivdr0w/ct/8/urls/185.180.203.36/clientType/0/zs/43/id/1468564048550/video/"
+      "https://vd715.okcdn.ru/expires/1793124411311/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.31/type/3/sig/FG0rxLrXiqY/ct/8/urls/178.237.23.73/clientType/0/zs/43/id/1468564048550/video/",
+      "https://vd715.okcdn.ru/expires/1793124414265/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.31/type/3/sig/sgdkCvg2JK8/ct/8/urls/178.237.23.73/clientType/0/zs/43/id/1468564048550/video/"
     ]
   },
   {
@@ -1727,9 +1727,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2932094864038"
     ],
-    "URL_DIRECTA": "https://vd343.okcdn.ru/expires/1793102824482/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.96/type/5/sig/bhgyXZhiIjg/ct/8/urls/176.112.172.38/clientType/0/zs/43/id/910645070493/video/",
+    "URL_DIRECTA": "https://vd343.okcdn.ru/expires/1793124417260/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.96/type/5/sig/vAKfuVArmdo/ct/8/urls/176.112.172.38/clientType/0/zs/43/id/910645070493/video/",
     "URLS_DIRECTAS": [
-      "https://vd343.okcdn.ru/expires/1793102824482/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.96/type/5/sig/bhgyXZhiIjg/ct/8/urls/176.112.172.38/clientType/0/zs/43/id/910645070493/video/"
+      "https://vd343.okcdn.ru/expires/1793124417260/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.96/type/5/sig/vAKfuVArmdo/ct/8/urls/176.112.172.38/clientType/0/zs/43/id/910645070493/video/"
     ]
   },
   {
@@ -1751,9 +1751,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2932599818918"
     ],
-    "URL_DIRECTA": "https://vd305.okcdn.ru/expires/1793102827934/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.61/type/5/sig/8-8rLlkGR2s/ct/8/urls/95.163.35.35/clientType/0/zs/43/id/911914699421/video/",
+    "URL_DIRECTA": "https://vd577.okcdn.ru/expires/1793124424715/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.99/type/5/sig/MOVQpN86HJE/ct/8/urls/185.180.203.61/clientType/0/zs/43/id/911914699421/video/",
     "URLS_DIRECTAS": [
-      "https://vd305.okcdn.ru/expires/1793102827934/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.61/type/5/sig/8-8rLlkGR2s/ct/8/urls/95.163.35.35/clientType/0/zs/43/id/911914699421/video/"
+      "https://vd577.okcdn.ru/expires/1793124424715/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.99/type/5/sig/MOVQpN86HJE/ct/8/urls/185.180.203.61/clientType/0/zs/43/id/911914699421/video/"
     ]
   },
   {
@@ -1775,9 +1775,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2889939487398"
     ],
-    "URL_DIRECTA": "https://vd289.okcdn.ru/expires/1793102831446/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.64/type/5/sig/wT4rNoFIKpE/ct/8/urls/185.180.203.82/clientType/0/zs/43/id/1388460247718/video/",
+    "URL_DIRECTA": "https://vd289.okcdn.ru/expires/1793124427977/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.64/type/5/sig/WFaDIAWwEto/ct/8/urls/185.226.55.100/clientType/0/zs/43/id/1388460247718/video/",
     "URLS_DIRECTAS": [
-      "https://vd289.okcdn.ru/expires/1793102831446/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.64/type/5/sig/wT4rNoFIKpE/ct/8/urls/185.180.203.82/clientType/0/zs/43/id/1388460247718/video/"
+      "https://vd289.okcdn.ru/expires/1793124427977/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.64/type/5/sig/WFaDIAWwEto/ct/8/urls/185.226.55.100/clientType/0/zs/43/id/1388460247718/video/"
     ]
   },
   {
@@ -1799,9 +1799,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2890122136230"
     ],
-    "URL_DIRECTA": "https://vd709.okcdn.ru/expires/1793102835733/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.25/type/5/sig/OvXb5I6IJS8/ct/8/urls/178.237.23.81/clientType/0/zs/43/id/1388793236134/video/",
+    "URL_DIRECTA": "https://vd709.okcdn.ru/expires/1793124430947/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.25/type/5/sig/S-3McgowWoc/ct/8/urls/185.226.55.17/clientType/0/zs/43/id/1388793236134/video/",
     "URLS_DIRECTAS": [
-      "https://vd709.okcdn.ru/expires/1793102835733/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.25/type/5/sig/OvXb5I6IJS8/ct/8/urls/178.237.23.81/clientType/0/zs/43/id/1388793236134/video/"
+      "https://vd709.okcdn.ru/expires/1793124430947/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.25/type/5/sig/S-3McgowWoc/ct/8/urls/185.226.55.17/clientType/0/zs/43/id/1388793236134/video/"
     ]
   },
   {
@@ -1823,9 +1823,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2759769197222"
     ],
-    "URL_DIRECTA": "https://vd330.okcdn.ru/expires/1793102839808/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.180.203.77/type/2/sig/otKHNwRg3-8/ct/8/urls/95.163.35.28/clientType/0/zs/43/id/1234665802406/video/",
+    "URL_DIRECTA": "https://vd330.okcdn.ru/expires/1793124433805/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.180.203.77/type/2/sig/7nZy1ImpXOQ/ct/8/urls/95.163.35.28/clientType/0/zs/43/id/1234665802406/video/",
     "URLS_DIRECTAS": [
-      "https://vd330.okcdn.ru/expires/1793102839808/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.180.203.77/type/2/sig/otKHNwRg3-8/ct/8/urls/95.163.35.28/clientType/0/zs/43/id/1234665802406/video/"
+      "https://vd330.okcdn.ru/expires/1793124433805/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.180.203.77/type/2/sig/7nZy1ImpXOQ/ct/8/urls/95.163.35.28/clientType/0/zs/43/id/1234665802406/video/"
     ]
   },
   {
@@ -1847,9 +1847,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2763603249830"
     ],
-    "URL_DIRECTA": "https://vd335.okcdn.ru/expires/1793102846943/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.82/type/3/sig/bQ0ij2jGAIY/ct/8/urls/176.112.172.122/clientType/0/zs/43/id/1238545205926/video/",
+    "URL_DIRECTA": "https://vd335.okcdn.ru/expires/1793124437118/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.82/type/3/sig/dLFGo-qMTDE/ct/8/urls/95.163.35.29/clientType/0/zs/43/id/1238545205926/video/",
     "URLS_DIRECTAS": [
-      "https://vd335.okcdn.ru/expires/1793102846943/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.82/type/3/sig/bQ0ij2jGAIY/ct/8/urls/176.112.172.122/clientType/0/zs/43/id/1238545205926/video/"
+      "https://vd335.okcdn.ru/expires/1793124437118/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.82/type/3/sig/dLFGo-qMTDE/ct/8/urls/95.163.35.29/clientType/0/zs/43/id/1238545205926/video/"
     ]
   },
   {
@@ -1871,9 +1871,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10313678064366"
     ],
-    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1793102870302/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.133/type/7/sig/j7paCwixvcA/ct/8/urls/95.163.35.20%3B176.112.172.13/clientType/0/zs/43/id/9221273160430/video/",
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1793124453142/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.133/type/7/sig/GTQFpol00LA/ct/8/urls/95.163.35.20%3B176.112.172.13/clientType/0/zs/43/id/9221273160430/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-6.vkuser.net/expires/1793102870302/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.133/type/7/sig/j7paCwixvcA/ct/8/urls/95.163.35.20%3B176.112.172.13/clientType/0/zs/43/id/9221273160430/video/"
+      "https://ok6-6.vkuser.net/expires/1793124453142/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.133/type/7/sig/GTQFpol00LA/ct/8/urls/95.163.35.20%3B176.112.172.13/clientType/0/zs/43/id/9221273160430/video/"
     ]
   },
   {
@@ -1895,9 +1895,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/11905450511086"
     ],
-    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1793102873949/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.141/type/7/sig/TcB-GKXuoVQ/ct/8/urls/95.163.35.14%3B185.180.203.21/clientType/0/zs/43/id/11243673553646/video/",
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1793124456203/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.141/type/7/sig/94zam95Bf-I/ct/8/urls/95.163.35.14%3B185.226.55.47/clientType/0/zs/43/id/11243673553646/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-14.vkuser.net/expires/1793102873949/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.141/type/7/sig/TcB-GKXuoVQ/ct/8/urls/95.163.35.14%3B185.180.203.21/clientType/0/zs/43/id/11243673553646/video/"
+      "https://ok6-14.vkuser.net/expires/1793124456203/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.141/type/7/sig/94zam95Bf-I/ct/8/urls/95.163.35.14%3B185.226.55.47/clientType/0/zs/43/id/11243673553646/video/"
     ]
   },
   {
@@ -1919,9 +1919,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10053656054510"
     ],
-    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1793102878009/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.141/type/7/sig/co2V1tAavnI/ct/8/urls/185.180.203.27%3B95.163.35.42/clientType/0/zs/43/id/8855271770862/video/",
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1793124459304/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.141/type/7/sig/ADsrQrwZnpc/ct/8/urls/185.180.203.27%3B95.163.35.42/clientType/0/zs/43/id/8855271770862/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-14.vkuser.net/expires/1793102878009/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.141/type/7/sig/co2V1tAavnI/ct/8/urls/185.180.203.27%3B95.163.35.42/clientType/0/zs/43/id/8855271770862/video/"
+      "https://ok6-14.vkuser.net/expires/1793124459304/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.141/type/7/sig/ADsrQrwZnpc/ct/8/urls/185.180.203.27%3B95.163.35.42/clientType/0/zs/43/id/8855271770862/video/"
     ]
   },
   {
@@ -1943,9 +1943,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7401081997956"
     ],
-    "URL_DIRECTA": "https://vd634.okcdn.ru/?expires=1793102882624&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=185.180.203.31&type=5&sig=nKdoLOjtQsw&ct=0&urls=95.163.35.118&clientType=0&zs=43&id=6034789042836",
+    "URL_DIRECTA": "https://vd525.okcdn.ru/?expires=1793124462143&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.226.55.35&type=5&sig=J23NFz43Ri8&ct=0&urls=95.163.35.118&clientType=0&zs=43&id=6034789042836",
     "URLS_DIRECTAS": [
-      "https://vd634.okcdn.ru/?expires=1793102882624&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=185.180.203.31&type=5&sig=nKdoLOjtQsw&ct=0&urls=95.163.35.118&clientType=0&zs=43&id=6034789042836"
+      "https://vd525.okcdn.ru/?expires=1793124462143&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.226.55.35&type=5&sig=J23NFz43Ri8&ct=0&urls=95.163.35.118&clientType=0&zs=43&id=6034789042836"
     ]
   },
   {
@@ -1967,9 +1967,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/11478939798254"
     ],
-    "URL_DIRECTA": "https://vd704.okcdn.ru/expires/1793102886554/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/176.112.172.20/type/7/sig/JmCDBPyn65c/ct/8/urls/178.237.29.129/clientType/0/zs/43/id/10718720494318/video/",
+    "URL_DIRECTA": "https://vd704.okcdn.ru/expires/1793124465694/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/176.112.172.20/type/7/sig/y9S3c80ZoTI/ct/8/urls/95.163.35.108/clientType/0/zs/43/id/10718720494318/video/",
     "URLS_DIRECTAS": [
-      "https://vd704.okcdn.ru/expires/1793102886554/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/176.112.172.20/type/7/sig/JmCDBPyn65c/ct/8/urls/178.237.29.129/clientType/0/zs/43/id/10718720494318/video/"
+      "https://vd704.okcdn.ru/expires/1793124465694/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/176.112.172.20/type/7/sig/y9S3c80ZoTI/ct/8/urls/95.163.35.108/clientType/0/zs/43/id/10718720494318/video/"
     ]
   },
   {
@@ -1991,9 +1991,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/12382361422574"
     ],
-    "URL_DIRECTA": "https://vd473.okcdn.ru/expires/1793102890362/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1698537241/ms/185.180.203.122/type/7/sig/u7DusObIDMo/ct/8/urls/95.163.35.83/clientType/0/zs/43/id/11845984258798/video/",
+    "URL_DIRECTA": "https://vd699.okcdn.ru/expires/1793124468822/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1698537241/ms/176.112.172.15/type/7/sig/WJEJz2nHPQk/ct/8/urls/185.180.203.122/clientType/0/zs/43/id/11845984258798/video/",
     "URLS_DIRECTAS": [
-      "https://vd473.okcdn.ru/expires/1793102890362/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1698537241/ms/185.180.203.122/type/7/sig/u7DusObIDMo/ct/8/urls/95.163.35.83/clientType/0/zs/43/id/11845984258798/video/"
+      "https://vd699.okcdn.ru/expires/1793124468822/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1698537241/ms/176.112.172.15/type/7/sig/WJEJz2nHPQk/ct/8/urls/185.180.203.122/clientType/0/zs/43/id/11845984258798/video/"
     ]
   },
   {
@@ -2015,9 +2015,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2590929324621"
     ],
-    "URL_DIRECTA": "https://vd287.okcdn.ru/expires/1793102895938/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1306413570/ms/176.112.172.62/mid/2590929324621/type/5/subId/1043200019021/sig/DvIZTqG_SLY/ct/8/du/5021472/urls/185.180.203.20/clientType/0/asubs/y/zs/43/id/1043200019021/video/",
+    "URL_DIRECTA": "https://vd287.okcdn.ru/expires/1793124471763/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1306413570/ms/176.112.172.62/mid/2590929324621/type/5/subId/1043200019021/sig/dSwqWKlfDVk/ct/8/du/5021472/urls/185.226.55.110/clientType/0/asubs/y/zs/43/id/1043200019021/video/",
     "URLS_DIRECTAS": [
-      "https://vd287.okcdn.ru/expires/1793102895938/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1306413570/ms/176.112.172.62/mid/2590929324621/type/5/subId/1043200019021/sig/DvIZTqG_SLY/ct/8/du/5021472/urls/185.180.203.20/clientType/0/asubs/y/zs/43/id/1043200019021/video/"
+      "https://vd287.okcdn.ru/expires/1793124471763/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1306413570/ms/176.112.172.62/mid/2590929324621/type/5/subId/1043200019021/sig/dSwqWKlfDVk/ct/8/du/5021472/urls/185.226.55.110/clientType/0/asubs/y/zs/43/id/1043200019021/video/"
     ]
   },
   {
@@ -2039,9 +2039,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9452577952165"
     ],
-    "URL_DIRECTA": "https://vd401.okcdn.ru/?expires=1793102899773&srcIp=20.169.52.172&pr=40&srcAg=CHROME&ms=176.112.172.120&type=5&sig=cSuFbtIXy3k&ct=0&urls=95.163.35.114&clientType=0&zs=43&id=8416767511142",
+    "URL_DIRECTA": "https://vd401.okcdn.ru/?expires=1793124475071&srcIp=20.55.46.163&pr=40&srcAg=CHROME&ms=176.112.172.120&type=5&sig=uGMgy8n9V-8&ct=0&urls=95.163.35.114&clientType=0&zs=43&id=8416767511142",
     "URLS_DIRECTAS": [
-      "https://vd401.okcdn.ru/?expires=1793102899773&srcIp=20.169.52.172&pr=40&srcAg=CHROME&ms=176.112.172.120&type=5&sig=cSuFbtIXy3k&ct=0&urls=95.163.35.114&clientType=0&zs=43&id=8416767511142"
+      "https://vd401.okcdn.ru/?expires=1793124475071&srcIp=20.55.46.163&pr=40&srcAg=CHROME&ms=176.112.172.120&type=5&sig=uGMgy8n9V-8&ct=0&urls=95.163.35.114&clientType=0&zs=43&id=8416767511142"
     ]
   },
   {
@@ -2063,9 +2063,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2602656336461"
     ],
-    "URL_DIRECTA": "https://vd352.okcdn.ru/expires/1793102904346/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.129/type/1/sig/grqCO-vI4Dg/ct/8/urls/95.163.35.38/clientType/0/zs/43/id/1050388204109/video/",
+    "URL_DIRECTA": "https://vd708.okcdn.ru/expires/1793124478873/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.24/type/1/sig/8mEqW7ItM7E/ct/8/urls/95.163.35.38/clientType/0/zs/43/id/1050388204109/video/",
     "URLS_DIRECTAS": [
-      "https://vd352.okcdn.ru/expires/1793102904346/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.129/type/1/sig/grqCO-vI4Dg/ct/8/urls/95.163.35.38/clientType/0/zs/43/id/1050388204109/video/"
+      "https://vd708.okcdn.ru/expires/1793124478873/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.24/type/1/sig/8mEqW7ItM7E/ct/8/urls/95.163.35.38/clientType/0/zs/43/id/1050388204109/video/"
     ]
   },
   {
@@ -2087,9 +2087,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6493394700982"
     ],
-    "URL_DIRECTA": "https://vd563.okcdn.ru/expires/1793102908016/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.75/type/3/sig/K40Gzo0jKHY/ct/8/urls/185.180.203.124/clientType/0/zs/43/id/4680858864310/video/",
+    "URL_DIRECTA": "https://vd563.okcdn.ru/expires/1793124482040/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.75/type/3/sig/oxqZGgT31O8/ct/8/urls/185.180.203.124/clientType/0/zs/43/id/4680858864310/video/",
     "URLS_DIRECTAS": [
-      "https://vd563.okcdn.ru/expires/1793102908016/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.75/type/3/sig/K40Gzo0jKHY/ct/8/urls/185.180.203.124/clientType/0/zs/43/id/4680858864310/video/"
+      "https://vd563.okcdn.ru/expires/1793124482040/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.75/type/3/sig/oxqZGgT31O8/ct/8/urls/185.180.203.124/clientType/0/zs/43/id/4680858864310/video/"
     ]
   },
   {
@@ -2111,9 +2111,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3457312295606"
     ],
-    "URL_DIRECTA": "https://vd234.okcdn.ru/expires/1793102913424/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.64/type/1/sig/TLKuajIjzig/ct/8/urls/176.112.172.50/clientType/0/zs/43/id/1275912653494/video/",
+    "URL_DIRECTA": "https://vd234.okcdn.ru/expires/1793124485024/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.64/type/1/sig/csq0C9__VG4/ct/8/urls/176.112.172.50/clientType/0/zs/43/id/1275912653494/video/",
     "URLS_DIRECTAS": [
-      "https://vd234.okcdn.ru/expires/1793102913424/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.64/type/1/sig/TLKuajIjzig/ct/8/urls/176.112.172.50/clientType/0/zs/43/id/1275912653494/video/"
+      "https://vd234.okcdn.ru/expires/1793124485024/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.64/type/1/sig/csq0C9__VG4/ct/8/urls/176.112.172.50/clientType/0/zs/43/id/1275912653494/video/"
     ]
   },
   {
@@ -2135,9 +2135,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2634218277522"
     ],
-    "URL_DIRECTA": "https://vd401.okcdn.ru/expires/1793102917482/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.120/type/5/sig/GcoRakxEGyE/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/1202805475986/video/",
+    "URL_DIRECTA": "https://vd401.okcdn.ru/expires/1793124488543/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.120/type/5/sig/ukfiBJJaNI8/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/1202805475986/video/",
     "URLS_DIRECTAS": [
-      "https://vd401.okcdn.ru/expires/1793102917482/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.120/type/5/sig/GcoRakxEGyE/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/1202805475986/video/"
+      "https://vd401.okcdn.ru/expires/1793124488543/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.120/type/5/sig/ukfiBJJaNI8/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/1202805475986/video/"
     ]
   },
   {
@@ -2159,9 +2159,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4527967242841"
     ],
-    "URL_DIRECTA": "https://vd565.okcdn.ru/expires/1793102920895/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.77/type/3/sig/En0dPKSlC3Q/ct/8/urls/185.180.203.105/clientType/0/zs/43/id/3297137986137/video/",
+    "URL_DIRECTA": "https://vd565.okcdn.ru/expires/1793124491565/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.77/type/3/sig/w_kAjhVr_70/ct/8/urls/185.226.55.113/clientType/0/zs/43/id/3297137986137/video/",
     "URLS_DIRECTAS": [
-      "https://vd565.okcdn.ru/expires/1793102920895/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.77/type/3/sig/En0dPKSlC3Q/ct/8/urls/185.180.203.105/clientType/0/zs/43/id/3297137986137/video/"
+      "https://vd565.okcdn.ru/expires/1793124491565/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.77/type/3/sig/w_kAjhVr_70/ct/8/urls/185.226.55.113/clientType/0/zs/43/id/3297137986137/video/"
     ]
   },
   {
@@ -2183,9 +2183,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6540379490838"
     ],
-    "URL_DIRECTA": "https://vd743.okcdn.ru/expires/1793102924242/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.20/type/3/sig/3rSB-XMPpMQ/ct/8/urls/178.237.23.81/clientType/0/zs/43/id/9110936554006/video/",
+    "URL_DIRECTA": "https://vd743.okcdn.ru/expires/1793124494695/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.20/type/3/sig/QxLTCmmKBqA/ct/8/urls/176.112.172.13/clientType/0/zs/43/id/9110936554006/video/",
     "URLS_DIRECTAS": [
-      "https://vd743.okcdn.ru/expires/1793102924242/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.20/type/3/sig/3rSB-XMPpMQ/ct/8/urls/178.237.23.81/clientType/0/zs/43/id/9110936554006/video/"
+      "https://vd743.okcdn.ru/expires/1793124494695/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.20/type/3/sig/QxLTCmmKBqA/ct/8/urls/176.112.172.13/clientType/0/zs/43/id/9110936554006/video/"
     ]
   },
   {
@@ -2207,9 +2207,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3721206499929"
     ],
-    "URL_DIRECTA": "https://vd272.okcdn.ru/expires/1793102927578/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.53/type/3/sig/2hur5bgSfBA/ct/8/urls/185.180.203.81/clientType/0/zs/43/id/2375832308313/video/",
+    "URL_DIRECTA": "https://vd542.okcdn.ru/expires/1793124497842/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.226.55.52/type/3/sig/OMS-2-rXflw/ct/8/urls/185.180.203.81/clientType/0/zs/43/id/2375832308313/video/",
     "URLS_DIRECTAS": [
-      "https://vd272.okcdn.ru/expires/1793102927578/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.53/type/3/sig/2hur5bgSfBA/ct/8/urls/185.180.203.81/clientType/0/zs/43/id/2375832308313/video/"
+      "https://vd542.okcdn.ru/expires/1793124497842/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.226.55.52/type/3/sig/OMS-2-rXflw/ct/8/urls/185.180.203.81/clientType/0/zs/43/id/2375832308313/video/"
     ]
   },
   {
@@ -2231,9 +2231,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6658325351071"
     ],
-    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1793102931538/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/N5aneYZw5Vk/ct/8/urls/185.180.203.77%3B95.163.35.38/clientType/0/zs/43/id/10622999661215/video/",
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1793124501095/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/dqeKT01VHf0/ct/8/urls/185.180.203.77%3B95.163.35.38/clientType/0/zs/43/id/10622999661215/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-4.vkuser.net/expires/1793102931538/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/N5aneYZw5Vk/ct/8/urls/185.180.203.77%3B95.163.35.38/clientType/0/zs/43/id/10622999661215/video/"
+      "https://ok6-4.vkuser.net/expires/1793124501095/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/dqeKT01VHf0/ct/8/urls/185.180.203.77%3B95.163.35.38/clientType/0/zs/43/id/10622999661215/video/"
     ]
   },
   {
@@ -2255,9 +2255,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3852187667021"
     ],
-    "URL_DIRECTA": "https://vd453.okcdn.ru/expires/1793102935665/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.106/type/3/sig/RnAF5y8hi84/ct/8/urls/176.112.172.99/clientType/0/zs/43/id/2141244688973/video/",
+    "URL_DIRECTA": "https://vd453.okcdn.ru/expires/1793124503940/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.106/type/3/sig/1knGhV1_x2w/ct/8/urls/176.112.172.99/clientType/0/zs/43/id/2141244688973/video/",
     "URLS_DIRECTAS": [
-      "https://vd453.okcdn.ru/expires/1793102935665/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.106/type/3/sig/RnAF5y8hi84/ct/8/urls/176.112.172.99/clientType/0/zs/43/id/2141244688973/video/"
+      "https://vd453.okcdn.ru/expires/1793124503940/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.106/type/3/sig/1knGhV1_x2w/ct/8/urls/176.112.172.99/clientType/0/zs/43/id/2141244688973/video/"
     ]
   },
   {
@@ -2279,9 +2279,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3336459782737"
     ],
-    "URL_DIRECTA": "https://vd205.okcdn.ru/expires/1793102939252/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.38/type/1/sig/lWlYGt8wlnQ/ct/8/urls/95.163.35.24/clientType/0/zs/43/id/1468642691665/video/",
+    "URL_DIRECTA": "https://vd205.okcdn.ru/expires/1793124507096/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.38/type/1/sig/9P06JrT9IuI/ct/8/urls/176.112.172.40/clientType/0/zs/43/id/1468642691665/video/",
     "URLS_DIRECTAS": [
-      "https://vd205.okcdn.ru/expires/1793102939252/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.38/type/1/sig/lWlYGt8wlnQ/ct/8/urls/95.163.35.24/clientType/0/zs/43/id/1468642691665/video/"
+      "https://vd205.okcdn.ru/expires/1793124507096/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.38/type/1/sig/9P06JrT9IuI/ct/8/urls/176.112.172.40/clientType/0/zs/43/id/1468642691665/video/"
     ]
   },
   {
@@ -2303,9 +2303,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4519400180374"
     ],
-    "URL_DIRECTA": "https://vd681.okcdn.ru/expires/1793102943418/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.32/type/3/sig/sj2VtkeSu64/ct/8/urls/185.180.203.120/clientType/0/zs/43/id/4681836202646/video/",
+    "URL_DIRECTA": "https://vd681.okcdn.ru/expires/1793124510202/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.32/type/3/sig/u4ZODUOpPLo/ct/8/urls/185.226.55.51/clientType/0/zs/43/id/4681836202646/video/",
     "URLS_DIRECTAS": [
-      "https://vd681.okcdn.ru/expires/1793102943418/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.32/type/3/sig/sj2VtkeSu64/ct/8/urls/185.180.203.120/clientType/0/zs/43/id/4681836202646/video/"
+      "https://vd681.okcdn.ru/expires/1793124510202/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.32/type/3/sig/u4ZODUOpPLo/ct/8/urls/185.226.55.51/clientType/0/zs/43/id/4681836202646/video/"
     ]
   },
   {
@@ -2327,9 +2327,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10709688191553"
     ],
-    "URL_DIRECTA": "https://vd751.okcdn.ru/expires/1793102947141/clientType/0/srcIp/20.169.52.172/type/2/mid/10709688191553/id/9897489730113/ms/95.163.35.28/zs/43/srcAg/CHROME/urls/185.180.203.40/oq/0/pr/10/ct/28/sig/-BjD87EttFM/ondemand/CMGU8IKHoAISFAjBlPCCh6ACEMGU8IKHoAIYASABGhQIwZTwgoegAhDBlPCCh6ACGAEgAiADKAIwAzgCeKsF16NFTIZJ-Jk/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd538.okcdn.ru/expires/1793124513429/clientType/0/srcIp/20.55.46.163/type/2/mid/10709688191553/id/9897489730113/ms/185.226.55.48/zs/43/srcAg/CHROME/urls/95.163.35.28/oq/0/pr/10/ct/28/sig/6pdg2Q4JHhs/ondemand/CMGU8IKHoAISFAjBlPCCh6ACEMGU8IKHoAIYASABGhQIwZTwgoegAhDBlPCCh6ACGAEgAiADKAIwAzgCeKsF16NFTIZJ-Jk/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd751.okcdn.ru/expires/1793102947141/clientType/0/srcIp/20.169.52.172/type/2/mid/10709688191553/id/9897489730113/ms/95.163.35.28/zs/43/srcAg/CHROME/urls/185.180.203.40/oq/0/pr/10/ct/28/sig/-BjD87EttFM/ondemand/CMGU8IKHoAISFAjBlPCCh6ACEMGU8IKHoAIYASABGhQIwZTwgoegAhDBlPCCh6ACGAEgAiADKAIwAzgCeKsF16NFTIZJ-Jk/fn/track.m3u8"
+      "https://vd538.okcdn.ru/expires/1793124513429/clientType/0/srcIp/20.55.46.163/type/2/mid/10709688191553/id/9897489730113/ms/185.226.55.48/zs/43/srcAg/CHROME/urls/95.163.35.28/oq/0/pr/10/ct/28/sig/6pdg2Q4JHhs/ondemand/CMGU8IKHoAISFAjBlPCCh6ACEMGU8IKHoAIYASABGhQIwZTwgoegAhDBlPCCh6ACGAEgAiADKAIwAzgCeKsF16NFTIZJ-Jk/fn/track.m3u8"
     ]
   },
   {
@@ -2351,9 +2351,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10025694333678"
     ],
-    "URL_DIRECTA": "https://vd572.okcdn.ru/expires/1793102951062/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.84/type/5/sig/t4Ehg4DoCeQ/ct/8/urls/176.112.172.36/clientType/0/zs/43/id/8816944220910/video/",
+    "URL_DIRECTA": "https://vd572.okcdn.ru/expires/1793124516884/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.84/type/5/sig/WMyD7nALuws/ct/8/urls/95.163.35.32/clientType/0/zs/43/id/8816944220910/video/",
     "URLS_DIRECTAS": [
-      "https://vd572.okcdn.ru/expires/1793102951062/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.84/type/5/sig/t4Ehg4DoCeQ/ct/8/urls/176.112.172.36/clientType/0/zs/43/id/8816944220910/video/"
+      "https://vd572.okcdn.ru/expires/1793124516884/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.84/type/5/sig/WMyD7nALuws/ct/8/urls/95.163.35.32/clientType/0/zs/43/id/8816944220910/video/"
     ]
   },
   {
@@ -2375,9 +2375,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4392572947081"
     ],
-    "URL_DIRECTA": "https://vd375.okcdn.ru/expires/1793102954580/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.88/type/1/sig/YJhyHuPYV6c/ct/8/urls/178.237.23.37/clientType/0/zs/43/id/3338780478089/video/",
+    "URL_DIRECTA": "https://vd375.okcdn.ru/expires/1793124520211/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.88/type/1/sig/1_1JJpED5b8/ct/8/urls/176.112.172.100/clientType/0/zs/43/id/3338780478089/video/",
     "URLS_DIRECTAS": [
-      "https://vd375.okcdn.ru/expires/1793102954580/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.88/type/1/sig/YJhyHuPYV6c/ct/8/urls/178.237.23.37/clientType/0/zs/43/id/3338780478089/video/"
+      "https://vd375.okcdn.ru/expires/1793124520211/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.88/type/1/sig/1_1JJpED5b8/ct/8/urls/176.112.172.100/clientType/0/zs/43/id/3338780478089/video/"
     ]
   },
   {
@@ -2399,9 +2399,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4366992214665"
     ],
-    "URL_DIRECTA": "https://vd598.okcdn.ru/expires/1793102958690/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.193/type/1/sig/p_snRBpMBlA/ct/8/urls/95.163.35.93/clientType/0/zs/43/id/3308998232713/video/",
+    "URL_DIRECTA": "https://vd598.okcdn.ru/expires/1793124524758/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.193/type/1/sig/dkpBwZKoxxs/ct/8/urls/95.163.35.93/clientType/0/zs/43/id/3308998232713/video/",
     "URLS_DIRECTAS": [
-      "https://vd598.okcdn.ru/expires/1793102958690/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.193/type/1/sig/p_snRBpMBlA/ct/8/urls/95.163.35.93/clientType/0/zs/43/id/3308998232713/video/"
+      "https://vd598.okcdn.ru/expires/1793124524758/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.193/type/1/sig/dkpBwZKoxxs/ct/8/urls/95.163.35.93/clientType/0/zs/43/id/3308998232713/video/"
     ]
   },
   {
@@ -2423,9 +2423,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4386062797449"
     ],
-    "URL_DIRECTA": "https://vd366.okcdn.ru/expires/1793102962208/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.92/type/1/sig/7qbc4y6OH3s/ct/8/urls/95.163.35.4/clientType/0/zs/43/id/3329966606985/video/",
+    "URL_DIRECTA": "https://vd366.okcdn.ru/expires/1793124528792/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.92/type/1/sig/ZVJbVSibu28/ct/8/urls/95.163.35.4/clientType/0/zs/43/id/3329966606985/video/",
     "URLS_DIRECTAS": [
-      "https://vd366.okcdn.ru/expires/1793102962208/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.92/type/1/sig/7qbc4y6OH3s/ct/8/urls/95.163.35.4/clientType/0/zs/43/id/3329966606985/video/"
+      "https://vd366.okcdn.ru/expires/1793124528792/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.92/type/1/sig/ZVJbVSibu28/ct/8/urls/95.163.35.4/clientType/0/zs/43/id/3329966606985/video/"
     ]
   },
   {
@@ -2447,9 +2447,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4391069354633"
     ],
-    "URL_DIRECTA": "https://vd364.okcdn.ru/expires/1793102965748/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.90/type/1/sig/F72xkJBhVpc/ct/8/urls/176.112.172.5/clientType/0/zs/43/id/3336477280905/scl/5/video/",
+    "URL_DIRECTA": "https://vd364.okcdn.ru/expires/1793124532128/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.90/type/1/sig/e6R7dPPZZeQ/ct/8/urls/185.226.55.65/clientType/0/zs/43/id/3336477280905/scl/5/video/",
     "URLS_DIRECTAS": [
-      "https://vd364.okcdn.ru/expires/1793102965748/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.90/type/1/sig/F72xkJBhVpc/ct/8/urls/176.112.172.5/clientType/0/zs/43/id/3336477280905/scl/5/video/"
+      "https://vd364.okcdn.ru/expires/1793124532128/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.90/type/1/sig/e6R7dPPZZeQ/ct/8/urls/185.226.55.65/clientType/0/zs/43/id/3336477280905/scl/5/video/"
     ]
   },
   {
@@ -2471,9 +2471,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7176715438759"
     ],
-    "URL_DIRECTA": "https://vd345.okcdn.ru/expires/1793102969042/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.98/type/1/sig/XtOBiAXD_n4/ct/8/urls/176.112.172.67/clientType/0/zs/43/id/5707224386215/video/",
+    "URL_DIRECTA": "https://vd345.okcdn.ru/expires/1793124535441/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.98/type/1/sig/AuoZJQyiIM0/ct/8/urls/176.112.172.67/clientType/0/zs/43/id/5707224386215/video/",
     "URLS_DIRECTAS": [
-      "https://vd345.okcdn.ru/expires/1793102969042/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.98/type/1/sig/XtOBiAXD_n4/ct/8/urls/176.112.172.67/clientType/0/zs/43/id/5707224386215/video/"
+      "https://vd345.okcdn.ru/expires/1793124535441/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.98/type/1/sig/AuoZJQyiIM0/ct/8/urls/176.112.172.67/clientType/0/zs/43/id/5707224386215/video/"
     ]
   },
   {
@@ -2517,9 +2517,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/1379845868093"
     ],
-    "URL_DIRECTA": "https://vd617.okcdn.ru/expires/1793102975162/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.16/type/5/sig/e_8BIMnHGKA/ct/8/urls/185.180.203.55/clientType/0/zs/43/id/672077974077/video/",
+    "URL_DIRECTA": "https://vd613.okcdn.ru/expires/1793124540652/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.122/type/5/sig/h09KGF-c0X4/ct/8/urls/185.226.55.38/clientType/0/zs/43/id/672077974077/video/",
     "URLS_DIRECTAS": [
-      "https://vd617.okcdn.ru/expires/1793102975162/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.16/type/5/sig/e_8BIMnHGKA/ct/8/urls/185.180.203.55/clientType/0/zs/43/id/672077974077/video/"
+      "https://vd613.okcdn.ru/expires/1793124540652/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.122/type/5/sig/h09KGF-c0X4/ct/8/urls/185.226.55.38/clientType/0/zs/43/id/672077974077/video/"
     ]
   },
   {
@@ -2541,9 +2541,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/1379846326845"
     ],
-    "URL_DIRECTA": "https://vd452.okcdn.ru/expires/1793102978758/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.105/type/5/sig/FiIzQWRmG5w/ct/8/urls/95.163.35.110/clientType/0/zs/43/id/672080595517/video/",
+    "URL_DIRECTA": "https://vd452.okcdn.ru/expires/1793124544421/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.105/type/5/sig/1lLa01fQI40/ct/8/urls/95.163.35.110/clientType/0/zs/43/id/672080595517/video/",
     "URLS_DIRECTAS": [
-      "https://vd452.okcdn.ru/expires/1793102978758/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.105/type/5/sig/FiIzQWRmG5w/ct/8/urls/95.163.35.110/clientType/0/zs/43/id/672080595517/video/"
+      "https://vd452.okcdn.ru/expires/1793124544421/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.105/type/5/sig/1lLa01fQI40/ct/8/urls/95.163.35.110/clientType/0/zs/43/id/672080595517/video/"
     ]
   },
   {
@@ -2565,9 +2565,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/1379846392381"
     ],
-    "URL_DIRECTA": "https://vd402.okcdn.ru/expires/1793102982197/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.122/type/5/sig/7DY8nCeaC20/ct/8/urls/95.163.35.36/clientType/0/zs/43/id/672081840701/video/",
+    "URL_DIRECTA": "https://vd523.okcdn.ru/expires/1793124547715/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.33/type/5/sig/knyOUlQYo-c/ct/8/urls/176.112.172.122/clientType/0/zs/43/id/672081840701/video/",
     "URLS_DIRECTAS": [
-      "https://vd402.okcdn.ru/expires/1793102982197/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.122/type/5/sig/7DY8nCeaC20/ct/8/urls/95.163.35.36/clientType/0/zs/43/id/672081840701/video/"
+      "https://vd523.okcdn.ru/expires/1793124547715/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.33/type/5/sig/knyOUlQYo-c/ct/8/urls/176.112.172.122/clientType/0/zs/43/id/672081840701/video/"
     ]
   },
   {
@@ -2589,9 +2589,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/1379846523453"
     ],
-    "URL_DIRECTA": "https://vd692.okcdn.ru/expires/1793102985801/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.8/type/5/sig/HxiGKTX_3Is/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/672083348029/video/",
+    "URL_DIRECTA": "https://vd692.okcdn.ru/expires/1793124551127/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.8/type/5/sig/0zHovwst9Xc/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/672083348029/video/",
     "URLS_DIRECTAS": [
-      "https://vd692.okcdn.ru/expires/1793102985801/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.8/type/5/sig/HxiGKTX_3Is/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/672083348029/video/"
+      "https://vd692.okcdn.ru/expires/1793124551127/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.8/type/5/sig/0zHovwst9Xc/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/672083348029/video/"
     ]
   },
   {
@@ -2613,9 +2613,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/1379846720061"
     ],
-    "URL_DIRECTA": "https://vd622.okcdn.ru/expires/1793102989096/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.21/type/5/sig/6HXoQUUpQfw/ct/8/urls/178.237.23.57/clientType/0/zs/43/id/672084724285/video/",
+    "URL_DIRECTA": "https://vd622.okcdn.ru/expires/1793124554500/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.21/type/5/sig/LvWUn6L93d8/ct/8/urls/178.237.23.57/clientType/0/zs/43/id/672084724285/video/",
     "URLS_DIRECTAS": [
-      "https://vd622.okcdn.ru/expires/1793102989096/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.21/type/5/sig/6HXoQUUpQfw/ct/8/urls/178.237.23.57/clientType/0/zs/43/id/672084724285/video/"
+      "https://vd622.okcdn.ru/expires/1793124554500/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.21/type/5/sig/LvWUn6L93d8/ct/8/urls/178.237.23.57/clientType/0/zs/43/id/672084724285/video/"
     ]
   },
   {
@@ -2637,9 +2637,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/1380944579133"
     ],
-    "URL_DIRECTA": "https://vd633.okcdn.ru/expires/1793102992419/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.30/type/5/sig/DFxBpR8SBDI/ct/8/urls/176.112.172.5/clientType/0/zs/43/id/672536201789/video/",
+    "URL_DIRECTA": "https://vd633.okcdn.ru/expires/1793124557881/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.30/type/5/sig/8cn3umZpwi4/ct/8/urls/176.112.172.5/clientType/0/zs/43/id/672536201789/video/",
     "URLS_DIRECTAS": [
-      "https://vd633.okcdn.ru/expires/1793102992419/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.30/type/5/sig/DFxBpR8SBDI/ct/8/urls/176.112.172.5/clientType/0/zs/43/id/672536201789/video/"
+      "https://vd633.okcdn.ru/expires/1793124557881/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.30/type/5/sig/8cn3umZpwi4/ct/8/urls/176.112.172.5/clientType/0/zs/43/id/672536201789/video/"
     ]
   },
   {
@@ -2661,9 +2661,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16263253133889"
     ],
-    "URL_DIRECTA": "https://vd250.okcdn.ru/expires/1793103026693/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.107/type/5/sig/oxmE1hD-8zw/ct/8/urls/185.180.203.12/clientType/0/zs/43/id/16488197458516/video/",
+    "URL_DIRECTA": "https://vd250.okcdn.ru/expires/1793124589031/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.107/type/5/sig/splZewSv_g8/ct/8/urls/185.226.55.107/clientType/0/zs/43/id/16488197458516/video/",
     "URLS_DIRECTAS": [
-      "https://vd250.okcdn.ru/expires/1793103026693/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.107/type/5/sig/oxmE1hD-8zw/ct/8/urls/185.180.203.12/clientType/0/zs/43/id/16488197458516/video/"
+      "https://vd250.okcdn.ru/expires/1793124589031/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.107/type/5/sig/splZewSv_g8/ct/8/urls/185.226.55.107/clientType/0/zs/43/id/16488197458516/video/"
     ]
   },
   {
@@ -2685,9 +2685,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8510816979551"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1793103029899/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/DgXbD2qnSF0/ct/8/urls/176.112.172.26%3B95.163.35.44/clientType/0/zs/43/id/8300312267359/video/",
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1793124592314/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/zKa7SUVY8po/ct/8/urls/176.112.172.26%3B95.163.35.44/clientType/0/zs/43/id/8300312267359/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/expires/1793103029899/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/DgXbD2qnSF0/ct/8/urls/176.112.172.26%3B95.163.35.44/clientType/0/zs/43/id/8300312267359/video/"
+      "https://ok6-11.vkuser.net/expires/1793124592314/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/zKa7SUVY8po/ct/8/urls/176.112.172.26%3B95.163.35.44/clientType/0/zs/43/id/8300312267359/video/"
     ]
   },
   {
@@ -2709,9 +2709,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2558241213071"
     ],
-    "URL_DIRECTA": "https://vd377.okcdn.ru/expires/1793103033646/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.82/type/2/sig/Z-1C8xKnAnI/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/1211599096463/video/",
+    "URL_DIRECTA": "https://vd377.okcdn.ru/expires/1793124595250/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.82/type/2/sig/FDV9EMKs5Q0/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/1211599096463/video/",
     "URLS_DIRECTAS": [
-      "https://vd377.okcdn.ru/expires/1793103033646/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.82/type/2/sig/Z-1C8xKnAnI/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/1211599096463/video/"
+      "https://vd377.okcdn.ru/expires/1793124595250/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.82/type/2/sig/FDV9EMKs5Q0/ct/8/urls/178.237.23.52/clientType/0/zs/43/id/1211599096463/video/"
     ]
   },
   {
@@ -2733,9 +2733,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6920146193063"
     ],
-    "URL_DIRECTA": "https://vd700.okcdn.ru/expires/1793103037364/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.16/type/5/sig/UoTFkDRCVMY/ct/8/urls/185.180.203.125/clientType/0/zs/43/id/11185651059367/video/",
+    "URL_DIRECTA": "https://vd700.okcdn.ru/expires/1793124598449/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.16/type/5/sig/U3Oj2G16dEQ/ct/8/urls/185.226.55.49/clientType/0/zs/43/id/11185651059367/video/",
     "URLS_DIRECTAS": [
-      "https://vd700.okcdn.ru/expires/1793103037364/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.16/type/5/sig/UoTFkDRCVMY/ct/8/urls/185.180.203.125/clientType/0/zs/43/id/11185651059367/video/"
+      "https://vd700.okcdn.ru/expires/1793124598449/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.16/type/5/sig/U3Oj2G16dEQ/ct/8/urls/185.226.55.49/clientType/0/zs/43/id/11185651059367/video/"
     ]
   },
   {
@@ -2757,9 +2757,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/78820739715"
     ],
-    "URL_DIRECTA": "https://vd653.okcdn.ru/expires/1793103040569/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/jCrWkt_sxMY/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/109598083715/video/",
+    "URL_DIRECTA": "https://vd653.okcdn.ru/expires/1793124601589/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/ZT_gYMXwpkM/ct/8/urls/176.112.172.99/clientType/0/zs/43/id/109598083715/video/",
     "URLS_DIRECTAS": [
-      "https://vd653.okcdn.ru/expires/1793103040569/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/jCrWkt_sxMY/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/109598083715/video/"
+      "https://vd653.okcdn.ru/expires/1793124601589/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/ZT_gYMXwpkM/ct/8/urls/176.112.172.99/clientType/0/zs/43/id/109598083715/video/"
     ]
   },
   {
@@ -2781,9 +2781,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7368868825695"
     ],
-    "URL_DIRECTA": "https://ok6-3.vkuser.net/?expires=1793103044326&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.142.206.130&type=5&subId=7061856848479&sig=zy6KLQBs2nc&ct=0&urls=95.163.35.25%3B185.180.203.82&clientType=0&zs=43&id=7061856848479",
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/?expires=1793124605071&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.142.206.130&type=5&subId=7061856848479&sig=VfPvYLjXKZg&ct=0&urls=95.163.35.25%3B95.163.35.98&clientType=0&zs=43&id=7061856848479",
     "URLS_DIRECTAS": [
-      "https://ok6-3.vkuser.net/?expires=1793103044326&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=95.142.206.130&type=5&subId=7061856848479&sig=zy6KLQBs2nc&ct=0&urls=95.163.35.25%3B185.180.203.82&clientType=0&zs=43&id=7061856848479"
+      "https://ok6-3.vkuser.net/?expires=1793124605071&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=95.142.206.130&type=5&subId=7061856848479&sig=VfPvYLjXKZg&ct=0&urls=95.163.35.25%3B95.163.35.98&clientType=0&zs=43&id=7061856848479"
     ]
   },
   {
@@ -2805,9 +2805,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10988516936430"
     ],
-    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1793103051610/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/suT4ZcThIEw/ct/8/urls/176.112.172.97%3B178.237.29.131/clientType/0/zs/43/id/10098589764334/video/",
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1793124611342/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/q7BTHgGkw5k/ct/8/urls/176.112.172.97%3B185.226.55.49/clientType/0/zs/43/id/10098589764334/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-5.vkuser.net/expires/1793103051610/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/suT4ZcThIEw/ct/8/urls/176.112.172.97%3B178.237.29.131/clientType/0/zs/43/id/10098589764334/video/"
+      "https://ok6-5.vkuser.net/expires/1793124611342/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/q7BTHgGkw5k/ct/8/urls/176.112.172.97%3B185.226.55.49/clientType/0/zs/43/id/10098589764334/video/"
     ]
   },
   {
@@ -2829,9 +2829,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7481434245764"
     ],
-    "URL_DIRECTA": "https://vd703.okcdn.ru/expires/1793103055329/clientType/0/srcIp/20.169.52.172/type/2/mid/7481434245764/id/6771002182276/ms/176.112.172.19/zs/43/srcAg/CHROME/urls/185.180.203.40/oq/0/pr/10/ct/28/sig/BqAuVTx6Y9c/ondemand/CISVuPmHxQESFAiElbj5h8UBEISVuPmHxQEYASABGhQIhJW4-YfFARCElbj5h8UBGAEgAiADKAIwAzgCeNYPDb0Kie-3RI8/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd703.okcdn.ru/expires/1793124614355/clientType/0/srcIp/20.55.46.163/type/2/mid/7481434245764/id/6771002182276/ms/176.112.172.19/zs/43/srcAg/CHROME/urls/185.180.203.40/oq/0/pr/10/ct/28/sig/Hr0Z1sXb42Q/ondemand/CISVuPmHxQESFAiElbj5h8UBEISVuPmHxQEYASABGhQIhJW4-YfFARCElbj5h8UBGAEgAiADKAIwAzgCeNYPDb0Kie-3RI8/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd703.okcdn.ru/expires/1793103055329/clientType/0/srcIp/20.169.52.172/type/2/mid/7481434245764/id/6771002182276/ms/176.112.172.19/zs/43/srcAg/CHROME/urls/185.180.203.40/oq/0/pr/10/ct/28/sig/BqAuVTx6Y9c/ondemand/CISVuPmHxQESFAiElbj5h8UBEISVuPmHxQEYASABGhQIhJW4-YfFARCElbj5h8UBGAEgAiADKAIwAzgCeNYPDb0Kie-3RI8/fn/track.m3u8"
+      "https://vd703.okcdn.ru/expires/1793124614355/clientType/0/srcIp/20.55.46.163/type/2/mid/7481434245764/id/6771002182276/ms/176.112.172.19/zs/43/srcAg/CHROME/urls/185.180.203.40/oq/0/pr/10/ct/28/sig/Hr0Z1sXb42Q/ondemand/CISVuPmHxQESFAiElbj5h8UBEISVuPmHxQEYASABGhQIhJW4-YfFARCElbj5h8UBGAEgAiADKAIwAzgCeNYPDb0Kie-3RI8/fn/track.m3u8"
     ]
   },
   {
@@ -2853,9 +2853,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8149976681092"
     ],
-    "URL_DIRECTA": "https://vd329.okcdn.ru/expires/1793103059131/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.76/type/3/sig/x7XZ_p4VSr4/ct/8/urls/95.163.35.45/clientType/0/zs/43/id/7182212139652/video/",
+    "URL_DIRECTA": "https://vd329.okcdn.ru/expires/1793124618547/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.76/type/3/sig/g3bLgNnE4hk/ct/8/urls/185.226.55.102/clientType/0/zs/43/id/7182212139652/video/",
     "URLS_DIRECTAS": [
-      "https://vd329.okcdn.ru/expires/1793103059131/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.76/type/3/sig/x7XZ_p4VSr4/ct/8/urls/95.163.35.45/clientType/0/zs/43/id/7182212139652/video/"
+      "https://vd329.okcdn.ru/expires/1793124618547/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.76/type/3/sig/g3bLgNnE4hk/ct/8/urls/185.226.55.102/clientType/0/zs/43/id/7182212139652/video/"
     ]
   },
   {
@@ -2877,9 +2877,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7575386131076"
     ],
-    "URL_DIRECTA": "https://vd274.okcdn.ru/expires/1793103072626/clientType/0/srcIp/20.169.52.172/type/2/mid/7575386131076/id/6925417712260/ms/176.112.172.54/zs/43/srcAg/CHROME/urls/95.163.35.32/oq/0/pr/10/ct/28/sig/-1SUAZTyMOY/ondemand/CISVwJjHyQESFAiElcCYx8kBEISVwJjHyQEYAiABGhQIhJXAmMfJARCElcCYx8kBGAIgAiAEKAMwAzgCeO8Jdqa0IM7zZ4Y/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd274.okcdn.ru/expires/1793124631242/clientType/0/srcIp/20.55.46.163/type/2/mid/7575386131076/id/6925417712260/ms/176.112.172.54/zs/43/srcAg/CHROME/urls/185.226.55.47/oq/0/pr/10/ct/28/sig/n_mEHIYVYoA/ondemand/CISVwJjHyQESFAiElcCYx8kBEISVwJjHyQEYAiABGhQIhJXAmMfJARCElcCYx8kBGAIgAiAEKAMwAzgCeO8Jdqa0IM7zZ4Y/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd274.okcdn.ru/expires/1793103072626/clientType/0/srcIp/20.169.52.172/type/2/mid/7575386131076/id/6925417712260/ms/176.112.172.54/zs/43/srcAg/CHROME/urls/95.163.35.32/oq/0/pr/10/ct/28/sig/-1SUAZTyMOY/ondemand/CISVwJjHyQESFAiElcCYx8kBEISVwJjHyQEYAiABGhQIhJXAmMfJARCElcCYx8kBGAIgAiAEKAMwAzgCeO8Jdqa0IM7zZ4Y/fn/track.m3u8"
+      "https://vd274.okcdn.ru/expires/1793124631242/clientType/0/srcIp/20.55.46.163/type/2/mid/7575386131076/id/6925417712260/ms/176.112.172.54/zs/43/srcAg/CHROME/urls/185.226.55.47/oq/0/pr/10/ct/28/sig/n_mEHIYVYoA/ondemand/CISVwJjHyQESFAiElcCYx8kBEISVwJjHyQEYAiABGhQIhJXAmMfJARCElcCYx8kBGAIgAiAEKAMwAzgCeO8Jdqa0IM7zZ4Y/fn/track.m3u8"
     ]
   },
   {
@@ -2901,9 +2901,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7570451139204"
     ],
-    "URL_DIRECTA": "https://vd680.okcdn.ru/expires/1793103077219/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/178.237.23.31/type/2/sig/T6dKS_Eo65g/ct/8/urls/176.112.172.81/clientType/0/zs/43/id/6918565792388/video/",
+    "URL_DIRECTA": "https://vd526.okcdn.ru/expires/1793124634696/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.226.55.36/type/2/sig/eg3A63RQwGM/ct/8/urls/178.237.23.31/clientType/0/zs/43/id/6918565792388/video/",
     "URLS_DIRECTAS": [
-      "https://vd680.okcdn.ru/expires/1793103077219/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/178.237.23.31/type/2/sig/T6dKS_Eo65g/ct/8/urls/176.112.172.81/clientType/0/zs/43/id/6918565792388/video/"
+      "https://vd526.okcdn.ru/expires/1793124634696/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.226.55.36/type/2/sig/eg3A63RQwGM/ct/8/urls/178.237.23.31/clientType/0/zs/43/id/6918565792388/video/"
     ]
   },
   {
@@ -2925,9 +2925,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7482563365508"
     ],
-    "URL_DIRECTA": "https://vd339.okcdn.ru/?expires=1793103080738&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=176.112.172.78&type=5&sig=X_W73dRMz10&ct=0&urls=176.112.172.50&clientType=0&zs=43&id=6772853246596",
+    "URL_DIRECTA": "https://vd647.okcdn.ru/?expires=1793124637811&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.180.203.44&type=5&sig=Ef7_9StWgjA&ct=0&urls=185.226.55.43&clientType=0&zs=43&id=6772853246596",
     "URLS_DIRECTAS": [
-      "https://vd339.okcdn.ru/?expires=1793103080738&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=176.112.172.78&type=5&sig=X_W73dRMz10&ct=0&urls=176.112.172.50&clientType=0&zs=43&id=6772853246596"
+      "https://vd647.okcdn.ru/?expires=1793124637811&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.180.203.44&type=5&sig=Ef7_9StWgjA&ct=0&urls=185.226.55.43&clientType=0&zs=43&id=6772853246596"
     ]
   },
   {
@@ -2949,9 +2949,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7478314994308"
     ],
-    "URL_DIRECTA": "https://vd430.okcdn.ru/expires/1793103085104/clientType/0/srcIp/20.169.52.172/type/2/mid/7478314994308/id/6765919931012/ms/178.237.23.50/zs/43/srcAg/CHROME/urls/95.163.35.20/oq/0/pr/10/ct/28/sig/TwRCNhxiEek/ondemand/CISVhIL1xAESFAiElYSC9cQBEISVhIL1xAEYAiABGhQIhJWEgvXEARCElYSC9cQBGAIgAiAEKAMwAzgCeNoL-_UbRgtY6GY/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd430.okcdn.ru/expires/1793124641399/clientType/0/srcIp/20.55.46.163/type/2/mid/7478314994308/id/6765919931012/ms/178.237.23.50/zs/43/srcAg/CHROME/urls/95.163.35.20/oq/0/pr/10/ct/28/sig/cQgr0t35IDM/ondemand/CISVhIL1xAESFAiElYSC9cQBEISVhIL1xAEYAiABGhQIhJWEgvXEARCElYSC9cQBGAIgAiAEKAMwAzgCeNoL-_UbRgtY6GY/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd430.okcdn.ru/expires/1793103085104/clientType/0/srcIp/20.169.52.172/type/2/mid/7478314994308/id/6765919931012/ms/178.237.23.50/zs/43/srcAg/CHROME/urls/95.163.35.20/oq/0/pr/10/ct/28/sig/TwRCNhxiEek/ondemand/CISVhIL1xAESFAiElYSC9cQBEISVhIL1xAEYAiABGhQIhJWEgvXEARCElYSC9cQBGAIgAiAEKAMwAzgCeNoL-_UbRgtY6GY/fn/track.m3u8"
+      "https://vd430.okcdn.ru/expires/1793124641399/clientType/0/srcIp/20.55.46.163/type/2/mid/7478314994308/id/6765919931012/ms/178.237.23.50/zs/43/srcAg/CHROME/urls/95.163.35.20/oq/0/pr/10/ct/28/sig/cQgr0t35IDM/ondemand/CISVhIL1xAESFAiElYSC9cQBEISVhIL1xAEYAiABGhQIhJWEgvXEARCElYSC9cQBGAIgAiAEKAMwAzgCeNoL-_UbRgtY6GY/fn/track.m3u8"
     ]
   },
   {
@@ -2973,9 +2973,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7478253587076"
     ],
-    "URL_DIRECTA": "https://vd734.okcdn.ru/expires/1793103088732/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.11/type/2/sig/fgFJYVMZVZo/ct/8/urls/185.180.203.37/clientType/0/zs/43/id/11028694829700/video/",
+    "URL_DIRECTA": "https://vd734.okcdn.ru/expires/1793124645067/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.11/type/2/sig/cReuen_DRAQ/ct/8/urls/185.180.203.37/clientType/0/zs/43/id/11028694829700/video/",
     "URLS_DIRECTAS": [
-      "https://vd734.okcdn.ru/expires/1793103088732/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.11/type/2/sig/fgFJYVMZVZo/ct/8/urls/185.180.203.37/clientType/0/zs/43/id/11028694829700/video/"
+      "https://vd734.okcdn.ru/expires/1793124645067/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.11/type/2/sig/cReuen_DRAQ/ct/8/urls/185.180.203.37/clientType/0/zs/43/id/11028694829700/video/"
     ]
   },
   {
@@ -2997,9 +2997,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7477542718084"
     ],
-    "URL_DIRECTA": "https://vd731.okcdn.ru/expires/1793103092153/clientType/0/srcIp/20.169.52.172/type/2/mid/7477542718084/id/6764563663492/ms/95.163.35.8/zs/43/srcAg/CHROME/urls/185.180.203.91/oq/0/pr/10/ct/28/sig/gMHruyp7xyg/ondemand/CISVqPvvxAESFAiElaj778QBEISVqPvvxAEYAiABGhQIhJWo--_EARCElaj778QBGAIgAiAEKAMwAzgCeMQLlvM_GGU42TI/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd612.okcdn.ru/expires/1793124648150/clientType/0/srcIp/20.55.46.163/type/2/mid/7477542718084/id/6764563663492/ms/185.226.55.121/zs/43/srcAg/CHROME/urls/185.180.203.91/oq/0/pr/10/ct/28/sig/U2vCotLp_L0/ondemand/CISVqPvvxAESFAiElaj778QBEISVqPvvxAEYAiABGhQIhJWo--_EARCElaj778QBGAIgAiAEKAMwAzgCeMQLlvM_GGU42TI/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd731.okcdn.ru/expires/1793103092153/clientType/0/srcIp/20.169.52.172/type/2/mid/7477542718084/id/6764563663492/ms/95.163.35.8/zs/43/srcAg/CHROME/urls/185.180.203.91/oq/0/pr/10/ct/28/sig/gMHruyp7xyg/ondemand/CISVqPvvxAESFAiElaj778QBEISVqPvvxAEYAiABGhQIhJWo--_EARCElaj778QBGAIgAiAEKAMwAzgCeMQLlvM_GGU42TI/fn/track.m3u8"
+      "https://vd612.okcdn.ru/expires/1793124648150/clientType/0/srcIp/20.55.46.163/type/2/mid/7477542718084/id/6764563663492/ms/185.226.55.121/zs/43/srcAg/CHROME/urls/185.180.203.91/oq/0/pr/10/ct/28/sig/U2vCotLp_L0/ondemand/CISVqPvvxAESFAiElaj778QBEISVqPvvxAEYAiABGhQIhJWo--_EARCElaj778QBGAIgAiAEKAMwAzgCeMQLlvM_GGU42TI/fn/track.m3u8"
     ]
   },
   {
@@ -3021,9 +3021,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7477505821316"
     ],
-    "URL_DIRECTA": "https://vd452.okcdn.ru/expires/1793103096119/clientType/0/srcIp/20.169.52.172/type/2/mid/7477505821316/id/6764472240772/ms/185.180.203.105/zs/43/srcAg/CHROME/urls/95.163.35.84/oq/0/pr/10/ct/28/sig/2OFd4xse9jc/ondemand/CISV3M_vxAESFAiEldzP78QBEISV3M_vxAEYAiABGhQIhJXcz-_EARCEldzP78QBGAIgAiAEKAMwAzgCeIcMo3EnNbGI318/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd501.okcdn.ru/expires/1793124651580/clientType/0/srcIp/20.55.46.163/type/2/mid/7477505821316/id/6764472240772/ms/185.226.55.11/zs/43/srcAg/CHROME/urls/185.180.203.105/oq/0/pr/10/ct/28/sig/M9J1qM6Ybns/ondemand/CISV3M_vxAESFAiEldzP78QBEISV3M_vxAEYAiABGhQIhJXcz-_EARCEldzP78QBGAIgAiAEKAMwAzgCeIcMo3EnNbGI318/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd452.okcdn.ru/expires/1793103096119/clientType/0/srcIp/20.169.52.172/type/2/mid/7477505821316/id/6764472240772/ms/185.180.203.105/zs/43/srcAg/CHROME/urls/95.163.35.84/oq/0/pr/10/ct/28/sig/2OFd4xse9jc/ondemand/CISV3M_vxAESFAiEldzP78QBEISV3M_vxAEYAiABGhQIhJXcz-_EARCEldzP78QBGAIgAiAEKAMwAzgCeIcMo3EnNbGI318/fn/track.m3u8"
+      "https://vd501.okcdn.ru/expires/1793124651580/clientType/0/srcIp/20.55.46.163/type/2/mid/7477505821316/id/6764472240772/ms/185.226.55.11/zs/43/srcAg/CHROME/urls/185.180.203.105/oq/0/pr/10/ct/28/sig/M9J1qM6Ybns/ondemand/CISV3M_vxAESFAiEldzP78QBEISV3M_vxAEYAiABGhQIhJXcz-_EARCEldzP78QBGAIgAiAEKAMwAzgCeIcMo3EnNbGI318/fn/track.m3u8"
     ]
   },
   {
@@ -3045,9 +3045,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7471216265860"
     ],
-    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1793103100671/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.132/type/3/sig/JXw-ac3RXp0/ct/8/urls/95.163.35.125%3B176.112.172.23/clientType/0/zs/43/id/14431658379986/video/",
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1793124655412/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.132/type/3/sig/iC7woyPMY5k/ct/8/urls/95.163.35.125%3B176.112.172.23/clientType/0/zs/43/id/14431658379986/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-5.vkuser.net/expires/1793103100671/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.132/type/3/sig/JXw-ac3RXp0/ct/8/urls/95.163.35.125%3B176.112.172.23/clientType/0/zs/43/id/14431658379986/video/"
+      "https://ok6-5.vkuser.net/expires/1793124655412/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.132/type/3/sig/iC7woyPMY5k/ct/8/urls/95.163.35.125%3B176.112.172.23/clientType/0/zs/43/id/14431658379986/video/"
     ]
   },
   {
@@ -3069,9 +3069,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7449452677764"
     ],
-    "URL_DIRECTA": "https://vd372.okcdn.ru/expires/1793103112550/clientType/0/srcIp/20.169.52.172/type/2/mid/7449452677764/id/6718817176196/ms/95.163.35.85/zs/43/srcAg/CHROME/urls/178.237.23.16/oq/0/pr/10/ct/28/sig/7E3Wewso6w0/ondemand/CISV2MXFwwESFAiEldjFxcMBEISV2MXFwwEYASABGhQIhJXYxcXDARCEldjFxcMBGAEgAiADKAIwAzgCeKgPgw6RwAtmZzw/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd372.okcdn.ru/expires/1793124666149/clientType/0/srcIp/20.55.46.163/type/2/mid/7449452677764/id/6718817176196/ms/95.163.35.85/zs/43/srcAg/CHROME/urls/185.226.55.28/oq/0/pr/10/ct/28/sig/fCo-cM4SiBg/ondemand/CISV2MXFwwESFAiEldjFxcMBEISV2MXFwwEYASABGhQIhJXYxcXDARCEldjFxcMBGAEgAiADKAIwAzgCeKgPgw6RwAtmZzw/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd372.okcdn.ru/expires/1793103112550/clientType/0/srcIp/20.169.52.172/type/2/mid/7449452677764/id/6718817176196/ms/95.163.35.85/zs/43/srcAg/CHROME/urls/178.237.23.16/oq/0/pr/10/ct/28/sig/7E3Wewso6w0/ondemand/CISV2MXFwwESFAiEldjFxcMBEISV2MXFwwEYASABGhQIhJXYxcXDARCEldjFxcMBGAEgAiADKAIwAzgCeKgPgw6RwAtmZzw/fn/track.m3u8"
+      "https://vd372.okcdn.ru/expires/1793124666149/clientType/0/srcIp/20.55.46.163/type/2/mid/7449452677764/id/6718817176196/ms/95.163.35.85/zs/43/srcAg/CHROME/urls/185.226.55.28/oq/0/pr/10/ct/28/sig/fCo-cM4SiBg/ondemand/CISV2MXFwwESFAiEldjFxcMBEISV2MXFwwEYASABGhQIhJXYxcXDARCEldjFxcMBGAEgAiADKAIwAzgCeKgPgw6RwAtmZzw/fn/track.m3u8"
     ]
   },
   {
@@ -3093,9 +3093,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7424576653956"
     ],
-    "URL_DIRECTA": "https://vd307.okcdn.ru/?expires=1793103134266&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=185.180.203.62&type=3&sig=R5U6BNDAKCE&ct=0&urls=176.112.172.24&clientType=0&zs=43&id=6678964472452",
+    "URL_DIRECTA": "https://vd708.okcdn.ru/?expires=1793124683796&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=176.112.172.24&type=3&sig=bP1MHP4WDq4&ct=0&urls=185.180.203.62&clientType=0&zs=43&id=6678964472452",
     "URLS_DIRECTAS": [
-      "https://vd307.okcdn.ru/?expires=1793103134266&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=185.180.203.62&type=3&sig=R5U6BNDAKCE&ct=0&urls=176.112.172.24&clientType=0&zs=43&id=6678964472452"
+      "https://vd708.okcdn.ru/?expires=1793124683796&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=176.112.172.24&type=3&sig=bP1MHP4WDq4&ct=0&urls=185.180.203.62&clientType=0&zs=43&id=6678964472452"
     ]
   },
   {
@@ -3117,9 +3117,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7785377630852"
     ],
-    "URL_DIRECTA": "https://vd481.okcdn.ru/expires/1793103203424/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.98/type/2/sig/yPhzlGYmkL4/ct/8/urls/95.163.35.1/clientType/0/zs/43/id/7109940152964/video/",
+    "URL_DIRECTA": "https://vd481.okcdn.ru/expires/1793124746831/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.98/type/2/sig/vLwLrff1yxY/ct/8/urls/185.226.55.102/clientType/0/zs/43/id/7109940152964/video/",
     "URLS_DIRECTAS": [
-      "https://vd481.okcdn.ru/expires/1793103203424/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.98/type/2/sig/yPhzlGYmkL4/ct/8/urls/95.163.35.1/clientType/0/zs/43/id/7109940152964/video/"
+      "https://vd481.okcdn.ru/expires/1793124746831/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.98/type/2/sig/vLwLrff1yxY/ct/8/urls/185.226.55.102/clientType/0/zs/43/id/7109940152964/video/"
     ]
   },
   {
@@ -3141,9 +3141,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/1867168090756"
     ],
-    "URL_DIRECTA": "https://vd673.okcdn.ru/expires/1793103206943/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1811865663/ms/178.237.23.24/type/0/sig/eYuxyXcrsmY/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/751593785988/video/",
+    "URL_DIRECTA": "https://vd673.okcdn.ru/expires/1793124749869/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1811865663/ms/178.237.23.24/type/0/sig/GyKASLgip9I/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/751593785988/video/",
     "URLS_DIRECTAS": [
-      "https://vd673.okcdn.ru/expires/1793103206943/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1811865663/ms/178.237.23.24/type/0/sig/eYuxyXcrsmY/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/751593785988/video/"
+      "https://vd673.okcdn.ru/expires/1793124749869/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1811865663/ms/178.237.23.24/type/0/sig/GyKASLgip9I/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/751593785988/video/"
     ]
   },
   {
@@ -3165,9 +3165,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2823588219574"
     ],
-    "URL_DIRECTA": "https://vd378.okcdn.ru/expires/1793103210159/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.83/type/1/sig/YuoI1ktWnH4/ct/8/urls/185.180.203.25/clientType/0/zs/43/id/835455355574/video/",
+    "URL_DIRECTA": "https://vd378.okcdn.ru/expires/1793124752913/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.83/type/1/sig/vAJvQqq3IeE/ct/8/urls/185.180.203.25/clientType/0/zs/43/id/835455355574/video/",
     "URLS_DIRECTAS": [
-      "https://vd378.okcdn.ru/expires/1793103210159/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.83/type/1/sig/YuoI1ktWnH4/ct/8/urls/185.180.203.25/clientType/0/zs/43/id/835455355574/video/"
+      "https://vd378.okcdn.ru/expires/1793124752913/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.83/type/1/sig/vAJvQqq3IeE/ct/8/urls/185.180.203.25/clientType/0/zs/43/id/835455355574/video/"
     ]
   },
   {
@@ -3189,9 +3189,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2879797070518"
     ],
-    "URL_DIRECTA": "https://vd591.okcdn.ru/expires/1793103213445/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.10/type/1/sig/Va8To2FbJOk/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/866105035446/video/",
+    "URL_DIRECTA": "https://vd591.okcdn.ru/expires/1793124756155/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.10/type/1/sig/J0A94pRrZwY/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/866105035446/video/",
     "URLS_DIRECTAS": [
-      "https://vd591.okcdn.ru/expires/1793103213445/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.10/type/1/sig/Va8To2FbJOk/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/866105035446/video/"
+      "https://vd591.okcdn.ru/expires/1793124756155/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.10/type/1/sig/J0A94pRrZwY/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/866105035446/video/"
     ]
   },
   {
@@ -3213,9 +3213,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/1993814118694"
     ],
-    "URL_DIRECTA": "https://vd617.okcdn.ru/expires/1793103217198/srcIp/20.169.52.172/pr/5/srcAg/CHROME/ch/1859034457/ms/185.180.203.16/type/1/sig/OTF6u59EJx8/ct/8/urls/95.163.35.119/clientType/0/zs/43/id/420980198002/video/",
+    "URL_DIRECTA": "https://vd617.okcdn.ru/expires/1793124759868/srcIp/20.55.46.163/pr/5/srcAg/CHROME/ch/1859034457/ms/185.180.203.16/type/1/sig/Gi4XOi5fnO0/ct/8/urls/95.163.35.119/clientType/0/zs/43/id/420980198002/video/",
     "URLS_DIRECTAS": [
-      "https://vd617.okcdn.ru/expires/1793103217198/srcIp/20.169.52.172/pr/5/srcAg/CHROME/ch/1859034457/ms/185.180.203.16/type/1/sig/OTF6u59EJx8/ct/8/urls/95.163.35.119/clientType/0/zs/43/id/420980198002/video/"
+      "https://vd617.okcdn.ru/expires/1793124759868/srcIp/20.55.46.163/pr/5/srcAg/CHROME/ch/1859034457/ms/185.180.203.16/type/1/sig/Gi4XOi5fnO0/ct/8/urls/95.163.35.119/clientType/0/zs/43/id/420980198002/video/"
     ]
   },
   {
@@ -3237,9 +3237,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/15222486272750"
     ],
-    "URL_DIRECTA": "https://ok6-3.vkuser.net/expires/1793103220713/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.130/type/7/sig/tHvkA4MpeMI/ct/8/urls/185.180.203.26%3B176.112.172.20/clientType/0/zs/43/id/16981862714094/video/",
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/expires/1793124763558/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.130/type/7/sig/eD_jMGebSU8/ct/8/urls/185.180.203.26%3B176.112.172.20/clientType/0/zs/43/id/16981862714094/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-3.vkuser.net/expires/1793103220713/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.130/type/7/sig/tHvkA4MpeMI/ct/8/urls/185.180.203.26%3B176.112.172.20/clientType/0/zs/43/id/16981862714094/video/"
+      "https://ok6-3.vkuser.net/expires/1793124763558/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.130/type/7/sig/eD_jMGebSU8/ct/8/urls/185.180.203.26%3B176.112.172.20/clientType/0/zs/43/id/16981862714094/video/"
     ]
   },
   {
@@ -3261,9 +3261,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/12403799034606"
     ],
-    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1793103228741/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/ycbaoSunnVQ/ct/8/urls/95.163.35.27%3B176.112.172.63/clientType/0/zs/43/id/11874613136110/video/",
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1793124770600/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/7zC8DqKbtfw/ct/8/urls/95.163.35.27%3B176.112.172.63/clientType/0/zs/43/id/11874613136110/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-5.vkuser.net/expires/1793103228741/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/ycbaoSunnVQ/ct/8/urls/95.163.35.27%3B176.112.172.63/clientType/0/zs/43/id/11874613136110/video/"
+      "https://ok6-5.vkuser.net/expires/1793124770600/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/7zC8DqKbtfw/ct/8/urls/95.163.35.27%3B176.112.172.63/clientType/0/zs/43/id/11874613136110/video/"
     ]
   },
   {
@@ -3285,9 +3285,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/15261832710894"
     ],
-    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1793103231970/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.137/type/7/sig/Yi2uNypXPwA/ct/8/urls/95.163.35.82%3B95.163.35.61/clientType/0/zs/43/id/17049617500910/video/",
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1793124773861/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.137/type/7/sig/MxVGJ-LjDNg/ct/8/urls/95.163.35.82%3B95.163.35.61/clientType/0/zs/43/id/17049617500910/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-10.vkuser.net/expires/1793103231970/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.137/type/7/sig/Yi2uNypXPwA/ct/8/urls/95.163.35.82%3B95.163.35.61/clientType/0/zs/43/id/17049617500910/video/"
+      "https://ok6-10.vkuser.net/expires/1793124773861/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.137/type/7/sig/MxVGJ-LjDNg/ct/8/urls/95.163.35.82%3B95.163.35.61/clientType/0/zs/43/id/17049617500910/video/"
     ]
   },
   {
@@ -3312,9 +3312,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-10.vkuser.net/expires/1793103460474/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/59258807/ms/95.142.206.137/type/7/sig/4jhgRkwDqOY/ct/8/urls/176.112.172.69%3B95.163.35.35/clientType/0/zs/43/id/17095828179694/video/"
+      "https://ok6-10.vkuser.net/expires/1793124987551/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/59258807/ms/95.142.206.137/type/7/sig/aDVCnv2TCFM/ct/8/urls/176.112.172.69%3B95.163.35.35/clientType/0/zs/43/id/17095828179694/video/"
     ],
-    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1793103460474/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/59258807/ms/95.142.206.137/type/7/sig/4jhgRkwDqOY/ct/8/urls/176.112.172.69%3B95.163.35.35/clientType/0/zs/43/id/17095828179694/video/"
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1793124987551/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/59258807/ms/95.142.206.137/type/7/sig/aDVCnv2TCFM/ct/8/urls/176.112.172.69%3B95.163.35.35/clientType/0/zs/43/id/17095828179694/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3335,9 +3335,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10980461775598"
     ],
-    "URL_DIRECTA": "https://vd355.okcdn.ru/expires/1793103238692/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.133/type/5/sig/UxR5JhQPYDY/ct/8/urls/95.163.35.59/clientType/0/zs/43/id/10085852515054/video/",
+    "URL_DIRECTA": "https://vd355.okcdn.ru/expires/1793124780053/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.133/type/5/sig/kErXzlxWIuM/ct/8/urls/185.180.203.32/clientType/0/zs/43/id/10085852515054/video/",
     "URLS_DIRECTAS": [
-      "https://vd355.okcdn.ru/expires/1793103238692/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.133/type/5/sig/UxR5JhQPYDY/ct/8/urls/95.163.35.59/clientType/0/zs/43/id/10085852515054/video/"
+      "https://vd355.okcdn.ru/expires/1793124780053/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.133/type/5/sig/kErXzlxWIuM/ct/8/urls/185.180.203.32/clientType/0/zs/43/id/10085852515054/video/"
     ]
   },
   {
@@ -3359,9 +3359,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10050374666990"
     ],
-    "URL_DIRECTA": "https://vd566.okcdn.ru/expires/1793103272340/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/178.237.23.78/type/7/sig/bFK4K_dRXJw/ct/8/urls/176.112.172.22/clientType/0/zs/43/id/8850719640302/video/",
+    "URL_DIRECTA": "https://vd516.okcdn.ru/expires/1793124815089/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/185.226.55.26/type/7/sig/aDoJuQxvje8/ct/8/urls/178.237.23.78/clientType/0/zs/43/id/8850719640302/video/",
     "URLS_DIRECTAS": [
-      "https://vd566.okcdn.ru/expires/1793103272340/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/178.237.23.78/type/7/sig/bFK4K_dRXJw/ct/8/urls/176.112.172.22/clientType/0/zs/43/id/8850719640302/video/"
+      "https://vd516.okcdn.ru/expires/1793124815089/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/185.226.55.26/type/7/sig/aDoJuQxvje8/ct/8/urls/178.237.23.78/clientType/0/zs/43/id/8850719640302/video/"
     ]
   },
   {
@@ -3383,9 +3383,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10036020775662"
     ],
-    "URL_DIRECTA": "https://vd687.okcdn.ru/expires/1793103275715/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.3/type/5/sig/SD6LZUXGYLQ/ct/8/urls/178.237.23.6/clientType/0/zs/43/id/8830539860718/video/",
+    "URL_DIRECTA": "https://vd687.okcdn.ru/expires/1793124818508/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.3/type/5/sig/ZCp1bQAwrWQ/ct/8/urls/185.226.55.61/clientType/0/zs/43/id/8830539860718/video/",
     "URLS_DIRECTAS": [
-      "https://vd687.okcdn.ru/expires/1793103275715/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.3/type/5/sig/SD6LZUXGYLQ/ct/8/urls/178.237.23.6/clientType/0/zs/43/id/8830539860718/video/"
+      "https://vd687.okcdn.ru/expires/1793124818508/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.3/type/5/sig/ZCp1bQAwrWQ/ct/8/urls/185.226.55.61/clientType/0/zs/43/id/8830539860718/video/"
     ]
   },
   {
@@ -3407,9 +3407,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9952445401838"
     ],
-    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1793103279023/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/VnfY51uMbpc/ct/8/urls/95.163.35.17%3B178.237.23.10/clientType/0/zs/43/id/8709547625198/video/",
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1793124821949/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/bncVaz2GKLg/ct/8/urls/178.237.23.10%3B95.163.35.17/clientType/0/zs/43/id/8709547625198/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-4.vkuser.net/expires/1793103279023/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/VnfY51uMbpc/ct/8/urls/95.163.35.17%3B178.237.23.10/clientType/0/zs/43/id/8709547625198/video/"
+      "https://ok6-4.vkuser.net/expires/1793124821949/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/bncVaz2GKLg/ct/8/urls/178.237.23.10%3B95.163.35.17/clientType/0/zs/43/id/8709547625198/video/"
     ]
   },
   {
@@ -3431,9 +3431,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9951553325806"
     ],
-    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1793103282444/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.140/type/5/sig/hQBgRQV5A-E/ct/8/urls/176.112.172.67%3B185.180.203.119/clientType/0/zs/43/id/8708341435118/video/",
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1793124825023/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.140/type/5/sig/b8Cwb5Nf5vY/ct/8/urls/176.112.172.67%3B185.226.55.61/clientType/0/zs/43/id/8708341435118/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-13.vkuser.net/expires/1793103282444/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.140/type/5/sig/hQBgRQV5A-E/ct/8/urls/176.112.172.67%3B185.180.203.119/clientType/0/zs/43/id/8708341435118/video/"
+      "https://ok6-13.vkuser.net/expires/1793124825023/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.140/type/5/sig/b8Cwb5Nf5vY/ct/8/urls/176.112.172.67%3B185.226.55.61/clientType/0/zs/43/id/8708341435118/video/"
     ]
   },
   {
@@ -3455,9 +3455,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9906840472302"
     ],
-    "URL_DIRECTA": "https://ok6-7.vkuser.net/expires/1793103286442/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.134/type/5/sig/XwvMBzvgdFY/ct/8/urls/185.180.203.98%3B95.163.35.119/clientType/0/zs/43/id/8644737895150/video/",
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/expires/1793124828169/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.134/type/5/sig/bXTGO7PdatY/ct/8/urls/185.180.203.98%3B95.163.35.119/clientType/0/zs/43/id/8644737895150/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-7.vkuser.net/expires/1793103286442/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.134/type/5/sig/XwvMBzvgdFY/ct/8/urls/185.180.203.98%3B95.163.35.119/clientType/0/zs/43/id/8644737895150/video/"
+      "https://ok6-7.vkuser.net/expires/1793124828169/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.134/type/5/sig/bXTGO7PdatY/ct/8/urls/185.180.203.98%3B95.163.35.119/clientType/0/zs/43/id/8644737895150/video/"
     ]
   },
   {
@@ -3479,9 +3479,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9823113448174"
     ],
-    "URL_DIRECTA": "https://ok6-15.vkuser.net/expires/1793103290028/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.142/type/7/sig/EntSlNuCzuM/ct/8/urls/178.237.23.26%3B95.163.35.79/clientType/0/zs/43/id/8513637255918/video/",
+    "URL_DIRECTA": "https://ok6-15.vkuser.net/expires/1793124831188/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.142/type/7/sig/NGB2Ie4dovg/ct/8/urls/178.237.23.26%3B185.226.55.37/clientType/0/zs/43/id/8513637255918/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-15.vkuser.net/expires/1793103290028/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.142/type/7/sig/EntSlNuCzuM/ct/8/urls/178.237.23.26%3B95.163.35.79/clientType/0/zs/43/id/8513637255918/video/"
+      "https://ok6-15.vkuser.net/expires/1793124831188/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.142/type/7/sig/NGB2Ie4dovg/ct/8/urls/178.237.23.26%3B185.226.55.37/clientType/0/zs/43/id/8513637255918/video/"
     ]
   },
   {
@@ -3503,9 +3503,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9811901549294"
     ],
-    "URL_DIRECTA": "https://vd718.okcdn.ru/expires/1793103293129/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.34/type/5/sig/jKIKyYKFYTM/ct/8/urls/185.180.203.120/clientType/0/zs/43/id/15230294428398/video/",
+    "URL_DIRECTA": "https://vd576.okcdn.ru/expires/1793124834263/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.98/type/5/sig/DK8LfH-M-HM/ct/8/urls/185.180.203.120/clientType/0/zs/43/id/15230294428398/video/",
     "URLS_DIRECTAS": [
-      "https://vd718.okcdn.ru/expires/1793103293129/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.34/type/5/sig/jKIKyYKFYTM/ct/8/urls/185.180.203.120/clientType/0/zs/43/id/15230294428398/video/"
+      "https://vd576.okcdn.ru/expires/1793124834263/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.98/type/5/sig/DK8LfH-M-HM/ct/8/urls/185.180.203.120/clientType/0/zs/43/id/15230294428398/video/"
     ]
   },
   {
@@ -3527,9 +3527,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9761679674094"
     ],
-    "URL_DIRECTA": "https://vd361.okcdn.ru/?expires=1793103296326&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.126&type=3&sig=RInGfoJYpW0&ct=0&urls=176.112.172.54&clientType=0&zs=43&id=8420105259758",
+    "URL_DIRECTA": "https://vd539.okcdn.ru/?expires=1793124837417&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.226.55.49&type=3&sig=52tOVsyifys&ct=0&urls=178.237.23.126&clientType=0&zs=43&id=8420105259758",
     "URLS_DIRECTAS": [
-      "https://vd361.okcdn.ru/?expires=1793103296326&srcIp=20.169.52.172&pr=10&srcAg=CHROME&ms=178.237.23.126&type=3&sig=RInGfoJYpW0&ct=0&urls=176.112.172.54&clientType=0&zs=43&id=8420105259758"
+      "https://vd539.okcdn.ru/?expires=1793124837417&srcIp=20.55.46.163&pr=10&srcAg=CHROME&ms=185.226.55.49&type=3&sig=52tOVsyifys&ct=0&urls=178.237.23.126&clientType=0&zs=43&id=8420105259758"
     ]
   },
   {
@@ -3551,9 +3551,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16224128404164"
     ],
-    "URL_DIRECTA": "https://vd668.okcdn.ru/expires/1793103335835/clientType/0/srcIp/20.169.52.172/type/2/mid/16224128404164/id/19088256273092/ms/178.237.23.19/zs/43/srcAg/CHROME/urls/185.180.203.15/oq/0/pr/10/ct/28/sig/90YbYUV0MYw/ondemand/CMSV8KXFqwQSFAjElfClxasEEMSV8KXFqwQYAiABGhQIxJXwpcWrBBDElfClxasEGAIgAiAEKAMwAzgCeJoIZ-ih9f-9FHc/fn/track.m3u8",
+    "URL_DIRECTA": "https://vd668.okcdn.ru/expires/1793124872635/clientType/0/srcIp/20.55.46.163/type/2/mid/16224128404164/id/19088256273092/ms/178.237.23.19/zs/43/srcAg/CHROME/urls/185.180.203.15/oq/0/pr/10/ct/28/sig/yLexdSh_d-Y/ondemand/CMSV8KXFqwQSFAjElfClxasEEMSV8KXFqwQYAiABGhQIxJXwpcWrBBDElfClxasEGAIgAiAEKAMwAzgCeJoIZ-ih9f-9FHc/fn/track.m3u8",
     "URLS_DIRECTAS": [
-      "https://vd668.okcdn.ru/expires/1793103335835/clientType/0/srcIp/20.169.52.172/type/2/mid/16224128404164/id/19088256273092/ms/178.237.23.19/zs/43/srcAg/CHROME/urls/185.180.203.15/oq/0/pr/10/ct/28/sig/90YbYUV0MYw/ondemand/CMSV8KXFqwQSFAjElfClxasEEMSV8KXFqwQYAiABGhQIxJXwpcWrBBDElfClxasEGAIgAiAEKAMwAzgCeJoIZ-ih9f-9FHc/fn/track.m3u8"
+      "https://vd668.okcdn.ru/expires/1793124872635/clientType/0/srcIp/20.55.46.163/type/2/mid/16224128404164/id/19088256273092/ms/178.237.23.19/zs/43/srcAg/CHROME/urls/185.180.203.15/oq/0/pr/10/ct/28/sig/yLexdSh_d-Y/ondemand/CMSV8KXFqwQSFAjElfClxasEEMSV8KXFqwQYAiABGhQIxJXwpcWrBBDElfClxasEGAIgAiAEKAMwAzgCeJoIZ-ih9f-9FHc/fn/track.m3u8"
     ]
   },
   {
@@ -3575,9 +3575,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10781343550190"
     ],
-    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1793103343691/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.139/type/7/sig/XeaALIcqnUA/ct/8/urls/185.180.203.45%3B178.237.23.41/clientType/0/zs/43/id/9825393380078/video/",
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1793124879610/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.139/type/7/sig/BiMnloP3TAA/ct/8/urls/185.180.203.45%3B95.163.35.124/clientType/0/zs/43/id/9825393380078/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-12.vkuser.net/expires/1793103343691/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.139/type/7/sig/XeaALIcqnUA/ct/8/urls/185.180.203.45%3B178.237.23.41/clientType/0/zs/43/id/9825393380078/video/"
+      "https://ok6-12.vkuser.net/expires/1793124879610/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.139/type/7/sig/BiMnloP3TAA/ct/8/urls/185.180.203.45%3B95.163.35.124/clientType/0/zs/43/id/9825393380078/video/"
     ]
   },
   {
@@ -3599,9 +3599,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/15235336964846"
     ],
-    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1793103347292/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.136/mid/15235336964846/type/5/subId/17003706190574/sig/c6gqCE4ugsM/ct/8/du/5340320/urls/176.112.172.103%3B95.163.35.19/clientType/0/asubs/y/zs/43/id/17003706190574/video/",
+    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1793124882883/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.136/mid/15235336964846/type/5/subId/17003706190574/sig/haBmHdpr60A/ct/8/du/5340320/urls/185.226.55.57%3B176.112.172.103/clientType/0/asubs/y/zs/43/id/17003706190574/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-9.vkuser.net/expires/1793103347292/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.136/mid/15235336964846/type/5/subId/17003706190574/sig/c6gqCE4ugsM/ct/8/du/5340320/urls/176.112.172.103%3B95.163.35.19/clientType/0/asubs/y/zs/43/id/17003706190574/video/"
+      "https://ok6-9.vkuser.net/expires/1793124882883/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.136/mid/15235336964846/type/5/subId/17003706190574/sig/haBmHdpr60A/ct/8/du/5340320/urls/185.226.55.57%3B176.112.172.103/clientType/0/asubs/y/zs/43/id/17003706190574/video/"
     ]
   },
   {
@@ -3624,9 +3624,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigiel-cascanueces-y-los-cuatro-PhkBeRx7ciH7Ar3F"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=_-chZqxt3aTaRtc9Y9AMWQ&expires=1793045755",
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=2MPYwsqGKjooBFCkTCzATg&expires=1793067290",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=_-chZqxt3aTaRtc9Y9AMWQ&expires=1793045755"
+      "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=2MPYwsqGKjooBFCkTCzATg&expires=1793067290"
     ]
   },
   {
@@ -3649,9 +3649,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/wish-el-poder-de-los-FLBZA5IfpTPqCisq"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=EfTcnp9C-S3eMd05QPDMWA&expires=1793045769",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=okq7LuxSxDZwwEN33Hf-gQ&expires=1793067303",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=EfTcnp9C-S3eMd05QPDMWA&expires=1793045769"
+      "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=okq7LuxSxDZwwEN33Hf-gQ&expires=1793067303"
     ]
   },
   {
@@ -3674,9 +3674,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/tron-legacy-dan-VRz6rBHcfqVlqqgg"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=7rBFzsbFTCL3gHAqfdxtoA&expires=1793045786",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=qPTF0cou5hP4OtZaUrdMlw&expires=1793067318",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=7rBFzsbFTCL3gHAqfdxtoA&expires=1793045786"
+      "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=qPTF0cou5hP4OtZaUrdMlw&expires=1793067318"
     ]
   },
   {
@@ -3699,9 +3699,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/raya-y-el-ultimo-dragon-gtjyx0xrv0Jd1NNN"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=ZPYhYEyiex15drVV5I4KWA&expires=1793045789",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=5BH5ndq_8qXsV9Qcsn1EaQ&expires=1793067322",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=ZPYhYEyiex15drVV5I4KWA&expires=1793045789"
+      "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=5BH5ndq_8qXsV9Qcsn1EaQ&expires=1793067322"
     ]
   },
   {
@@ -3724,9 +3724,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-2-el-retorno-de-qe6e2othPRJzl3T5"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=mgkDXb0TS0Vy6HcyJQXd_w&expires=1793045847",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=KYLqRzgTjf09zRFEOgK6sg&expires=1793067375",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=mgkDXb0TS0Vy6HcyJQXd_w&expires=1793045847"
+      "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=KYLqRzgTjf09zRFEOgK6sg&expires=1793067375"
     ]
   },
   {
@@ -3749,9 +3749,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-1992-latino-yXjipIfywPjCLS6N"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=QhYjNxi671RWrjVgMeSRLw&expires=1793045850",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=fS28JpBCurW_YwTzYo91Tw&expires=1793067378",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=QhYjNxi671RWrjVgMeSRLw&expires=1793045850"
+      "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=fS28JpBCurW_YwTzYo91Tw&expires=1793067378"
     ]
   },
   {
@@ -3776,9 +3776,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-9.vkuser.net/expires/1793103453793/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.136/type/7/sig/c0k5VFfxtCM/ct/8/urls/95.163.35.83%3B176.112.172.48/clientType/0/zs/43/id/17151597677294/video/"
+      "https://ok6-9.vkuser.net/expires/1793124981682/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.136/type/7/sig/LDhVV9VRO98/ct/8/urls/95.163.35.83%3B176.112.172.48/clientType/0/zs/43/id/17151597677294/video/"
     ],
-    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1793103453793/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.136/type/7/sig/c0k5VFfxtCM/ct/8/urls/95.163.35.83%3B176.112.172.48/clientType/0/zs/43/id/17151597677294/video/"
+    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1793124981682/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.136/type/7/sig/LDhVV9VRO98/ct/8/urls/95.163.35.83%3B176.112.172.48/clientType/0/zs/43/id/17151597677294/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3802,9 +3802,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-9.vkuser.net/expires/1793103457277/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.136/type/7/sig/Pgn4L644itk/ct/8/urls/95.163.35.83%3B176.112.172.48/clientType/0/zs/43/id/17151597677294/video/"
+      "https://ok6-9.vkuser.net/expires/1793124984678/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.136/type/7/sig/sielW6GXzBM/ct/8/urls/95.163.35.83%3B178.237.23.20/clientType/0/zs/43/id/17151597677294/video/"
     ],
-    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1793103457277/srcIp/20.169.52.172/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.136/type/7/sig/Pgn4L644itk/ct/8/urls/95.163.35.83%3B176.112.172.48/clientType/0/zs/43/id/17151597677294/video/"
+    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1793124984678/srcIp/20.55.46.163/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.136/type/7/sig/sielW6GXzBM/ct/8/urls/95.163.35.83%3B178.237.23.20/clientType/0/zs/43/id/17151597677294/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3827,10 +3827,8 @@
       "https://vimeos.net/embed-fjxz3dlhoyqw.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=_6SDnE8wekd_cDVwgHxhAdVxJULUwsfbTH0xxIqkmVg&s=1793017064&e=43200&v=410855376&i=0.0&sp=0&r=e"
-    ],
-    "URL_DIRECTA": "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=_6SDnE8wekd_cDVwgHxhAdVxJULUwsfbTH0xxIqkmVg&s=1793017064&e=43200&v=410855376&i=0.0&sp=0&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3998,8 +3996,8 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=oTf0Ccz-p6OQYUAQab5jaA%3D%3D%2C1793103476"
+      "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=3GYan7u95tejk-HLedhHhQ%3D%3D%2C1793125002"
     ],
-    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=oTf0Ccz-p6OQYUAQab5jaA%3D%3D%2C1793103476"
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824442/mp4/ff0aaaa0688b0fc102bf98aa938a4725472fb1d4c2dc73621ee66915190cb5f4.mp4?secure=3GYan7u95tejk-HLedhHhQ%3D%3D%2C1793125002"
   }
 ]
