@@ -20,8 +20,10 @@
       "https://vimeos.net/embed-woptqizvlzxi.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [],
-    "URL_DIRECTA": ""
+    "URLS_DIRECTAS": [
+      "https://s14.vimeos.net/hls2/02/00000/yx1a37tzkqrr_,n,h,.urlset/master.m3u8?t=Tle4dzCzrkLqP7CQmZV-4q2B-3dMij7U2q0SQFRElDc&s=1795571086&e=43200&v=454082060&i=0.0&sp=0&r=e"
+    ],
+    "URL_DIRECTA": "https://s14.vimeos.net/hls2/02/00000/yx1a37tzkqrr_,n,h,.urlset/master.m3u8?t=Tle4dzCzrkLqP7CQmZV-4q2B-3dMij7U2q0SQFRElDc&s=1795571086&e=43200&v=454082060&i=0.0&sp=0&r=e"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -42,9 +44,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6895676557990"
     ],
-    "URL_DIRECTA": "https://vd305.okcdn.ru/expires/1795625302554/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.180.203.61/type/5/sig/07lu5ea4Je0/ct/8/urls/176.112.172.121/clientType/0/zs/43/id/5471409605286/rjr/8/video/",
+    "URL_DIRECTA": "https://vd305.okcdn.ru/expires/1795657856152/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.180.203.61/type/5/sig/L3Di_anwv7w/ct/8/urls/176.112.172.121/clientType/0/zs/43/id/5471409605286/rjr/8/video/",
     "URLS_DIRECTAS": [
-      "https://vd305.okcdn.ru/expires/1795625302554/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.180.203.61/type/5/sig/07lu5ea4Je0/ct/8/urls/176.112.172.121/clientType/0/zs/43/id/5471409605286/rjr/8/video/"
+      "https://vd305.okcdn.ru/expires/1795657856152/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.180.203.61/type/5/sig/L3Di_anwv7w/ct/8/urls/176.112.172.121/clientType/0/zs/43/id/5471409605286/rjr/8/video/"
     ]
   },
   {
@@ -66,9 +68,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6911120640678"
     ],
-    "URL_DIRECTA": "https://vd723.okcdn.ru/expires/1795625305918/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/95.163.35.0/type/5/sig/jXcosGwEHkI/ct/8/urls/185.226.55.101/clientType/0/zs/43/id/5493666941606/rjr/8/video/",
+    "URL_DIRECTA": "https://vd723.okcdn.ru/expires/1795657859577/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/95.163.35.0/type/5/sig/E2SB8h6eJQM/ct/8/urls/185.226.55.101/clientType/0/zs/43/id/5493666941606/rjr/8/video/",
     "URLS_DIRECTAS": [
-      "https://vd723.okcdn.ru/expires/1795625305918/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/95.163.35.0/type/5/sig/jXcosGwEHkI/ct/8/urls/185.226.55.101/clientType/0/zs/43/id/5493666941606/rjr/8/video/"
+      "https://vd723.okcdn.ru/expires/1795657859577/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/95.163.35.0/type/5/sig/E2SB8h6eJQM/ct/8/urls/185.226.55.101/clientType/0/zs/43/id/5493666941606/rjr/8/video/"
     ]
   },
   {
@@ -90,8 +92,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4027916028582"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://vd552.okcdn.ru/expires/1795657862989/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/185.226.55.62/type/3/sig/lFYysGbelU4/ct/8/urls/95.163.35.31/clientType/0/zs/43/id/2570171976358/rjr/8/video/",
+    "URLS_DIRECTAS": [
+      "https://vd552.okcdn.ru/expires/1795657862989/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/185.226.55.62/type/3/sig/lFYysGbelU4/ct/8/urls/95.163.35.31/clientType/0/zs/43/id/2570171976358/rjr/8/video/"
+    ]
   },
   {
     "CATEGORIA": "GENERAL",
@@ -112,9 +116,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3986007919270"
     ],
-    "URL_DIRECTA": "https://vd478.okcdn.ru/expires/1795625311495/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/95.163.35.93/type/3/sig/drjolXnY638/ct/8/urls/178.237.23.7/clientType/0/zs/43/id/2517720763046/rjr/8/video/",
+    "URL_DIRECTA": "https://vd478.okcdn.ru/expires/1795657866465/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/95.163.35.93/type/3/sig/3j4XWZhKlRg/ct/8/urls/178.237.23.7/clientType/0/zs/43/id/2517720763046/rjr/8/video/",
     "URLS_DIRECTAS": [
-      "https://vd478.okcdn.ru/expires/1795625311495/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/95.163.35.93/type/3/sig/drjolXnY638/ct/8/urls/178.237.23.7/clientType/0/zs/43/id/2517720763046/rjr/8/video/"
+      "https://vd478.okcdn.ru/expires/1795657866465/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/95.163.35.93/type/3/sig/3j4XWZhKlRg/ct/8/urls/178.237.23.7/clientType/0/zs/43/id/2517720763046/rjr/8/video/"
     ]
   },
   {
@@ -136,9 +140,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3153250552486"
     ],
-    "URL_DIRECTA": "https://vd506.okcdn.ru/expires/1795625314908/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.16/type/5/sig/62OcXtUBqxY/ct/8/urls/185.180.203.24/clientType/0/zs/43/id/1694348413606/rjr/8/video/",
+    "URL_DIRECTA": "https://vd506.okcdn.ru/expires/1795657869899/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.16/type/5/sig/OsfEzcnc7CA/ct/8/urls/185.180.203.24/clientType/0/zs/43/id/1694348413606/rjr/8/video/",
     "URLS_DIRECTAS": [
-      "https://vd506.okcdn.ru/expires/1795625314908/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.16/type/5/sig/62OcXtUBqxY/ct/8/urls/185.180.203.24/clientType/0/zs/43/id/1694348413606/rjr/8/video/"
+      "https://vd506.okcdn.ru/expires/1795657869899/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.16/type/5/sig/OsfEzcnc7CA/ct/8/urls/185.180.203.24/clientType/0/zs/43/id/1694348413606/rjr/8/video/"
     ]
   },
   {
@@ -160,8 +164,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3144712063654"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://vd527.okcdn.ru/expires/1795657873603/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.37/type/5/sig/2HXnsYasTFw/ct/8/urls/176.112.172.6/clientType/0/zs/43/id/1685858880166/rjr/8/video/",
+    "URLS_DIRECTAS": [
+      "https://vd527.okcdn.ru/expires/1795657873603/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.37/type/5/sig/2HXnsYasTFw/ct/8/urls/176.112.172.6/clientType/0/zs/43/id/1685858880166/rjr/8/video/"
+    ]
   },
   {
     "CATEGORIA": "GENERAL",
@@ -182,9 +188,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3138093845158"
     ],
-    "URL_DIRECTA": "https://vd521.okcdn.ru/expires/1795625321492/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.31/type/5/sig/zbsWl7GM3VI/ct/8/urls/185.180.203.43/clientType/0/zs/43/id/1679077411494/rjr/8/video/",
+    "URL_DIRECTA": "https://vd521.okcdn.ru/expires/1795657877277/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.31/type/5/sig/2hEgG0IaWy4/ct/8/urls/185.180.203.43/clientType/0/zs/43/id/1679077411494/rjr/8/video/",
     "URLS_DIRECTAS": [
-      "https://vd521.okcdn.ru/expires/1795625321492/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.31/type/5/sig/zbsWl7GM3VI/ct/8/urls/185.180.203.43/clientType/0/zs/43/id/1679077411494/rjr/8/video/"
+      "https://vd521.okcdn.ru/expires/1795657877277/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.31/type/5/sig/2hEgG0IaWy4/ct/8/urls/185.180.203.43/clientType/0/zs/43/id/1679077411494/rjr/8/video/"
     ]
   },
   {
@@ -206,9 +212,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3052291623590"
     ],
-    "URL_DIRECTA": "https://vd406.okcdn.ru/expires/1795625325033/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/185.180.203.127/type/3/sig/o5c0zyw4s7Q/ct/8/urls/95.163.35.18/clientType/0/zs/43/id/1581048203942/rjr/8/scl/5/video/",
+    "URL_DIRECTA": "https://vd406.okcdn.ru/expires/1795657881080/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/185.180.203.127/type/3/sig/KNAV1eg0iiU/ct/8/urls/176.112.172.92/clientType/0/zs/43/id/1581048203942/rjr/8/scl/5/video/",
     "URLS_DIRECTAS": [
-      "https://vd406.okcdn.ru/expires/1795625325033/srcIp/20.64.65.64/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/185.180.203.127/type/3/sig/o5c0zyw4s7Q/ct/8/urls/95.163.35.18/clientType/0/zs/43/id/1581048203942/rjr/8/scl/5/video/"
+      "https://vd406.okcdn.ru/expires/1795657881080/srcIp/52.154.19.197/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/185.180.203.127/type/3/sig/KNAV1eg0iiU/ct/8/urls/176.112.172.92/clientType/0/zs/43/id/1581048203942/rjr/8/scl/5/video/"
     ]
   },
   {
