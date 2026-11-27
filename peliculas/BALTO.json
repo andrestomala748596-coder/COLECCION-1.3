@@ -18,10 +18,8 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9033312242299"
     ],
-    "URL_DIRECTA": "https://vd338.okcdn.ru/expires/1795795602916/srcIp/52.234.2.56/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/176.112.172.77/type/3/sig/ItO9pzJyPNc/ct/8/urls/185.226.55.101/clientType/0/zs/43/id/7846414322299/rjr/8/video/",
-    "URLS_DIRECTAS": [
-      "https://vd338.okcdn.ru/expires/1795795602916/srcIp/52.234.2.56/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/176.112.172.77/type/3/sig/ItO9pzJyPNc/ct/8/urls/185.226.55.101/clientType/0/zs/43/id/7846414322299/rjr/8/video/"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "BALTO",
@@ -42,10 +40,8 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9033310276219"
     ],
-    "URL_DIRECTA": "https://vd274.okcdn.ru/expires/1795795607122/srcIp/52.234.2.56/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/176.112.172.54/type/3/sig/k6iDZIpoEZY/ct/8/urls/95.163.35.62/clientType/0/zs/43/id/7846410717819/rjr/8/video/",
-    "URLS_DIRECTAS": [
-      "https://vd274.okcdn.ru/expires/1795795607122/srcIp/52.234.2.56/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/176.112.172.54/type/3/sig/k6iDZIpoEZY/ct/8/urls/95.163.35.62/clientType/0/zs/43/id/7846410717819/rjr/8/video/"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "BALTO",
@@ -66,9 +62,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9033311455867"
     ],
-    "URL_DIRECTA": "https://vd591.okcdn.ru/expires/1795795611004/srcIp/52.234.2.56/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.29.10/type/3/sig/mmWlS5wcxnc/ct/8/urls/185.226.55.21/clientType/0/zs/43/id/7846412225147/rjr/8/video/",
+    "URL_DIRECTA": "https://vd591.okcdn.ru/expires/1795828947327/srcIp/172.215.219.241/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.29.10/type/3/sig/wZRpdaNS_hk/ct/8/urls/176.112.172.23/clientType/0/zs/43/id/7846412225147/rjr/8/video/",
     "URLS_DIRECTAS": [
-      "https://vd591.okcdn.ru/expires/1795795611004/srcIp/52.234.2.56/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.29.10/type/3/sig/mmWlS5wcxnc/ct/8/urls/185.226.55.21/clientType/0/zs/43/id/7846412225147/rjr/8/video/"
+      "https://vd591.okcdn.ru/expires/1795828947327/srcIp/172.215.219.241/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.29.10/type/3/sig/wZRpdaNS_hk/ct/8/urls/176.112.172.23/clientType/0/zs/43/id/7846412225147/rjr/8/video/"
     ]
   }
 ]
