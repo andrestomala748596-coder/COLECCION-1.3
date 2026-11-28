@@ -18,9 +18,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/5111228074601"
     ],
-    "URL_DIRECTA": "https://vd702.okcdn.ru/expires/1795881664871/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/176.112.172.18/type/3/sig/Y3qCuHMX63M/ct/8/urls/178.237.23.72/clientType/0/zs/43/id/18637034883689/rjr/8/scl/5/video/",
+    "URL_DIRECTA": "https://vd561.okcdn.ru/expires/1795913951782/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.23.72/type/3/sig/rSr9XJ8yRvw/ct/8/urls/176.112.172.18/clientType/0/zs/43/id/18637034883689/rjr/8/scl/5/video/",
     "URLS_DIRECTAS": [
-      "https://vd702.okcdn.ru/expires/1795881664871/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/176.112.172.18/type/3/sig/Y3qCuHMX63M/ct/8/urls/178.237.23.72/clientType/0/zs/43/id/18637034883689/rjr/8/scl/5/video/"
+      "https://vd561.okcdn.ru/expires/1795913951782/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.23.72/type/3/sig/rSr9XJ8yRvw/ct/8/urls/176.112.172.18/clientType/0/zs/43/id/18637034883689/rjr/8/scl/5/video/"
     ]
   },
   {
@@ -42,8 +42,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/5111154674281"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://vd352.okcdn.ru/?expires=1795913954701&srcIp=172.206.39.211&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.129&type=3&sig=UzUla7_Z8kg&ct=0&urls=176.112.172.122&clientType=0&zs=43&id=4440642751081&rjr=8",
+    "URLS_DIRECTAS": [
+      "https://vd352.okcdn.ru/?expires=1795913954701&srcIp=172.206.39.211&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.129&type=3&sig=UzUla7_Z8kg&ct=0&urls=176.112.172.122&clientType=0&zs=43&id=4440642751081&rjr=8"
+    ]
   },
   {
     "CATEGORIA": "TINKER_BELL",
@@ -64,8 +66,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/5110948760169"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://vd691.okcdn.ru/expires/1795913959126/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/176.112.172.7/type/3/sig/UsKVRLirzQ8/ct/8/urls/178.237.23.55/clientType/0/zs/43/id/9437710060137/rjr/8/video/",
+    "URLS_DIRECTAS": [
+      "https://vd691.okcdn.ru/expires/1795913959126/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/176.112.172.7/type/3/sig/UsKVRLirzQ8/ct/8/urls/178.237.23.55/clientType/0/zs/43/id/9437710060137/rjr/8/video/"
+    ]
   },
   {
     "CATEGORIA": "TINKER_BELL",
@@ -86,9 +90,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/5110819523177"
     ],
-    "URL_DIRECTA": "https://vd305.okcdn.ru/?expires=1795881676262&srcIp=4.249.21.16&pr=10&srcAg=CHROME&rjz=43&ms=185.180.203.61&type=3&sig=ieFXrDEtEdM&ct=0&urls=176.112.172.81&clientType=0&zs=43&id=4440281975401&rjr=8",
+    "URL_DIRECTA": "https://vd305.okcdn.ru/?expires=1795913961912&srcIp=172.206.39.211&pr=10&srcAg=CHROME&rjz=43&ms=185.180.203.61&type=3&sig=RdTAkn3U41g&ct=0&urls=95.163.35.1&clientType=0&zs=43&id=4440281975401&rjr=8",
     "URLS_DIRECTAS": [
-      "https://vd305.okcdn.ru/?expires=1795881676262&srcIp=4.249.21.16&pr=10&srcAg=CHROME&rjz=43&ms=185.180.203.61&type=3&sig=ieFXrDEtEdM&ct=0&urls=176.112.172.81&clientType=0&zs=43&id=4440281975401&rjr=8"
+      "https://vd305.okcdn.ru/?expires=1795913961912&srcIp=172.206.39.211&pr=10&srcAg=CHROME&rjz=43&ms=185.180.203.61&type=3&sig=RdTAkn3U41g&ct=0&urls=95.163.35.1&clientType=0&zs=43&id=4440281975401&rjr=8"
     ]
   },
   {
@@ -110,9 +114,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9758154361582"
     ],
-    "URL_DIRECTA": "https://vd442.okcdn.ru/expires/1795882513109/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/95.163.35.116/type/5/sig/lwA0FaF64G0/ct/8/urls/185.226.55.52/clientType/0/zs/43/id/8415311825646/rjr/8/video/",
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1795914608971/srcIp/172.206.39.211/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.137/type/5/sig/CK-muiGjRBg/ct/8/urls/95.163.35.116%3B178.237.23.53/clientType/0/zs/43/id/8415311825646/video/",
     "URLS_DIRECTAS": [
-      "https://vd442.okcdn.ru/expires/1795882513109/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/95.163.35.116/type/5/sig/lwA0FaF64G0/ct/8/urls/185.226.55.52/clientType/0/zs/43/id/8415311825646/rjr/8/video/"
+      "https://ok6-10.vkuser.net/expires/1795914608971/srcIp/172.206.39.211/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.137/type/5/sig/CK-muiGjRBg/ct/8/urls/95.163.35.116%3B178.237.23.53/clientType/0/zs/43/id/8415311825646/video/"
     ]
   }
 ]

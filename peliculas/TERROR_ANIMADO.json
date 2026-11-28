@@ -18,9 +18,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8881050618491"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1795881361178/srcIp/4.249.21.16/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/VH4qNYkz6VE/ct/8/urls/185.180.203.51%3B176.112.172.92/clientType/0/zs/43/id/7595048569467/video/",
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1795913724895/srcIp/172.206.39.211/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/lGmWhfhchF0/ct/8/urls/185.180.203.51%3B176.112.172.92/clientType/0/zs/43/id/7595048569467/video/",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/expires/1795881361178/srcIp/4.249.21.16/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/VH4qNYkz6VE/ct/8/urls/185.180.203.51%3B176.112.172.92/clientType/0/zs/43/id/7595048569467/video/"
+      "https://ok6-11.vkuser.net/expires/1795913724895/srcIp/172.206.39.211/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/lGmWhfhchF0/ct/8/urls/185.180.203.51%3B176.112.172.92/clientType/0/zs/43/id/7595048569467/video/"
     ]
   },
   {
@@ -42,9 +42,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8881030695547"
     ],
-    "URL_DIRECTA": "https://vd598.okcdn.ru/expires/1795881365975/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.29.193/type/3/sig/vH2yB8gthto/ct/8/urls/95.163.35.114/clientType/0/zs/43/id/7595034479227/rjr/8/video/",
+    "URL_DIRECTA": "https://vd598.okcdn.ru/expires/1795913727924/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.29.193/type/3/sig/wfwqmRmD5_I/ct/8/urls/95.163.35.114/clientType/0/zs/43/id/7595034479227/rjr/8/video/",
     "URLS_DIRECTAS": [
-      "https://vd598.okcdn.ru/expires/1795881365975/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.29.193/type/3/sig/vH2yB8gthto/ct/8/urls/95.163.35.114/clientType/0/zs/43/id/7595034479227/rjr/8/video/"
+      "https://vd598.okcdn.ru/expires/1795913727924/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/178.237.29.193/type/3/sig/wfwqmRmD5_I/ct/8/urls/95.163.35.114/clientType/0/zs/43/id/7595034479227/rjr/8/video/"
     ]
   },
   {
@@ -66,9 +66,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8881214655099"
     ],
-    "URL_DIRECTA": "https://vd760.okcdn.ru/expires/1795881369612/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/95.163.35.37/type/3/sig/R-OL0w22ANA/ct/8/urls/185.226.55.59/clientType/0/zs/43/id/7595196353147/rjr/8/video/",
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1795913731926/srcIp/172.206.39.211/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/znfVHIAPqdw/ct/8/urls/95.163.35.37%3B185.226.55.59/clientType/0/zs/43/id/7595196353147/video/",
     "URLS_DIRECTAS": [
-      "https://vd760.okcdn.ru/expires/1795881369612/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/1676822812/ms/95.163.35.37/type/3/sig/R-OL0w22ANA/ct/8/urls/185.226.55.59/clientType/0/zs/43/id/7595196353147/rjr/8/video/"
+      "https://ok6-6.vkuser.net/expires/1795913731926/srcIp/172.206.39.211/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/znfVHIAPqdw/ct/8/urls/95.163.35.37%3B185.226.55.59/clientType/0/zs/43/id/7595196353147/video/"
     ]
   },
   {
@@ -112,8 +112,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7625505245828"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://vd443.okcdn.ru/expires/1795914444567/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1859034457/ms/95.163.35.117/type/1/sig/UD5FfMjYymg/ct/8/urls/176.112.172.49/clientType/0/zs/43/id/6990291208836/rjr/8/video/",
+    "URLS_DIRECTAS": [
+      "https://vd443.okcdn.ru/expires/1795914444567/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1859034457/ms/95.163.35.117/type/1/sig/UD5FfMjYymg/ct/8/urls/176.112.172.49/clientType/0/zs/43/id/6990291208836/rjr/8/video/"
+    ]
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -134,9 +136,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3451026147957"
     ],
-    "URL_DIRECTA": "https://vd657.okcdn.ru/expires/1795882304760/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/1859034457/ms/178.237.23.8/type/1/sig/3G_8VXmOWao/ct/8/urls/185.226.55.49/clientType/0/zs/43/id/2246722783861/rjr/8/video/",
+    "URL_DIRECTA": "https://vd657.okcdn.ru/expires/1795914447753/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1859034457/ms/178.237.23.8/type/1/sig/o8lgL4m9v90/ct/8/urls/95.163.35.14/clientType/0/zs/43/id/2246722783861/rjr/8/video/",
     "URLS_DIRECTAS": [
-      "https://vd657.okcdn.ru/expires/1795882304760/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/1859034457/ms/178.237.23.8/type/1/sig/3G_8VXmOWao/ct/8/urls/185.226.55.49/clientType/0/zs/43/id/2246722783861/rjr/8/video/"
+      "https://vd657.okcdn.ru/expires/1795914447753/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/1859034457/ms/178.237.23.8/type/1/sig/o8lgL4m9v90/ct/8/urls/95.163.35.14/clientType/0/zs/43/id/2246722783861/rjr/8/video/"
     ]
   },
   {
@@ -158,9 +160,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446958377604"
     ],
-    "URL_DIRECTA": "https://vd408.okcdn.ru/?expires=1795882329525&srcIp=4.249.21.16&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.1&type=3&sig=5wU23r7TLdQ&ct=0&urls=185.226.55.55&clientType=0&zs=43&id=6714817907332&rjr=8",
+    "URL_DIRECTA": "https://vd408.okcdn.ru/?expires=1795914466648&srcIp=172.206.39.211&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.1&type=3&sig=iCT3dUiOa44&ct=0&urls=185.226.55.55&clientType=0&zs=43&id=6714817907332&rjr=8",
     "URLS_DIRECTAS": [
-      "https://vd408.okcdn.ru/?expires=1795882329525&srcIp=4.249.21.16&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.1&type=3&sig=5wU23r7TLdQ&ct=0&urls=185.226.55.55&clientType=0&zs=43&id=6714817907332&rjr=8"
+      "https://vd408.okcdn.ru/?expires=1795914466648&srcIp=172.206.39.211&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.1&type=3&sig=iCT3dUiOa44&ct=0&urls=185.226.55.55&clientType=0&zs=43&id=6714817907332&rjr=8"
     ]
   },
   {
@@ -182,9 +184,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/5111536814697"
     ],
-    "URL_DIRECTA": "https://vd547.okcdn.ru/?expires=1795882389615&srcIp=4.249.21.16&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.57&type=3&sig=DE977H9Etdw&ct=0&urls=178.237.23.53&clientType=0&zs=43&id=4441138924137&rjr=8",
+    "URL_DIRECTA": "https://vd433.okcdn.ru/?expires=1795914508947&srcIp=172.206.39.211&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.53&type=3&sig=NHpZEoFuLVg&ct=0&urls=185.226.55.57&clientType=0&zs=43&id=4441138924137&rjr=8",
     "URLS_DIRECTAS": [
-      "https://vd547.okcdn.ru/?expires=1795882389615&srcIp=4.249.21.16&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.57&type=3&sig=DE977H9Etdw&ct=0&urls=178.237.23.53&clientType=0&zs=43&id=4441138924137&rjr=8"
+      "https://vd433.okcdn.ru/?expires=1795914508947&srcIp=172.206.39.211&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.53&type=3&sig=NHpZEoFuLVg&ct=0&urls=185.226.55.57&clientType=0&zs=43&id=4441138924137&rjr=8"
     ]
   },
   {
@@ -206,8 +208,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10716497447662"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1795914558936/srcIp/172.206.39.211/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/va01J2d0gt4/ct/8/urls/95.163.35.110%3B178.237.23.11/clientType/0/zs/43/id/9742679608046/video/",
+    "URLS_DIRECTAS": [
+      "https://ok6-12.vkuser.net/expires/1795914558936/srcIp/172.206.39.211/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/va01J2d0gt4/ct/8/urls/95.163.35.110%3B178.237.23.11/clientType/0/zs/43/id/9742679608046/video/"
+    ]
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -228,9 +232,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10312826882798"
     ],
-    "URL_DIRECTA": "https://vd265.okcdn.ru/expires/1795882455009/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/176.112.172.48/mid/10312826882798/type/5/subId/9220280552174/sig/LcVDTNMddPY/ct/8/du/5031160/urls/95.163.35.0/clientType/0/asubs/y/zs/43/id/9220280552174/rjr/8/video/",
+    "URL_DIRECTA": "https://vd265.okcdn.ru/expires/1795914562364/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/176.112.172.48/mid/10312826882798/type/5/subId/9220280552174/sig/f9bxe0_-wyo/ct/8/du/5031160/urls/95.163.35.0/clientType/0/asubs/y/zs/43/id/9220280552174/rjr/8/video/",
     "URLS_DIRECTAS": [
-      "https://vd265.okcdn.ru/expires/1795882455009/srcIp/4.249.21.16/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/176.112.172.48/mid/10312826882798/type/5/subId/9220280552174/sig/LcVDTNMddPY/ct/8/du/5031160/urls/95.163.35.0/clientType/0/asubs/y/zs/43/id/9220280552174/rjr/8/video/"
+      "https://vd265.okcdn.ru/expires/1795914562364/srcIp/172.206.39.211/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/176.112.172.48/mid/10312826882798/type/5/subId/9220280552174/sig/f9bxe0_-wyo/ct/8/du/5031160/urls/95.163.35.0/clientType/0/asubs/y/zs/43/id/9220280552174/rjr/8/video/"
     ]
   },
   {
@@ -253,9 +257,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigilas-leyendas-el-origen-2022-Z5cRuQbUxx9BI4Be"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=P1HAkWD90W_8T_5Rv2mFtA&expires=1795824977",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=Q8_o0tvW4cCQgn2etsG37Q&expires=1795857060",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=P1HAkWD90W_8T_5Rv2mFtA&expires=1795824977"
+      "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=Q8_o0tvW4cCQgn2etsG37Q&expires=1795857060"
     ]
   },
   {
@@ -278,9 +282,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitogo-2019-latino-CJBqEYSIwBtxzYiW"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=d-KvtOJ1T9qVuiSogBFc2Q&expires=1795824980",
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=tcRzabsrAGCNnZTvFGioGg&expires=1795857063",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=d-KvtOJ1T9qVuiSogBFc2Q&expires=1795824980"
+      "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=tcRzabsrAGCNnZTvFGioGg&expires=1795857063"
     ]
   },
   {
@@ -303,9 +307,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/la-mecanica-del-corazon-dan-8z1avBFe8FABnCoE"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=yPppzWQjxx9kc8qK0kx1zA&expires=1795824999",
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=FjPo2pA1s8xLm3Rh4DcN_w&expires=1795857079",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=yPppzWQjxx9kc8qK0kx1zA&expires=1795824999"
+      "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=FjPo2pA1s8xLm3Rh4DcN_w&expires=1795857079"
     ]
   }
 ]
